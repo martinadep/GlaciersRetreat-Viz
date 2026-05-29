@@ -1,0 +1,15 @@
+[theme]
+# Il colore principale dell'app (usato per i pulsanti attivi, slider, ecc.)
+primaryColor = "#36648c"
+
+# Il colore di sfondo della pagina principale
+backgroundColor = "#FFFFFF"
+
+# Il colore di sfondo della barra laterale (se la usi) o dei box secondari
+secondaryBackgroundColor = "#a3b3d3"
+
+# Il colore del testo principale
+textColor = "#31333F"
+
+# Il font dell'applicazione ("sans serif", "serif", o "monospace")
+font = "sans serif"
