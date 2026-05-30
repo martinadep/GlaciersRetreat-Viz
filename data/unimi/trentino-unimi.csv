@@ -1,117 +1,117 @@
-Glacier Name;ID Code;WGI Code;Mountain Sector;Mountain Catchment;Glacier Type;Area (km2);Area CGI (km2);Area WGI (km2);Aspect;Year;Notes
-Corno dei Tre Signori N-E;685;IT4L00102501;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Glacieret;0.06;0.10;0.15;NE;2011;Interamente coperto da detrito. 
-Villacorna;686;IT4L00102502;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.10;0.28;0.32;SE;2011;Totalmente coperto da detrito. 
-Valpiana;687;IT4L00102503;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.16;0.69;0.56;SE;2011;Include il M. Giumella (687.1) nei catasti CGI e WGI. 
-Monte Giumella;687.1;N.D.;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.09;N.D.;N.D.;S;2011;Non elencato singolarmente nei catasti CGI/WGI (compreso in Valpiana). 
-Orsi;688;IT4L00102505;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.64;1.12;1.51;SE;2011;
-Cadini;689;IT4L00102506;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.15;0.17;0.46;E;2011;
-Taviela Sud;690;IT4L00102507;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.07;0.44;0.83;E;2011;Nel CGI denominato Taviela (comprende Taviela Nord). Nel WGI include Taviela Nord. 
-Taviela Nord;690.1;IT4L00102508;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.26;N.D.;N.D.;SE;2011;Compreso nel ghiacciaio Taviela per il CGI e WGI. 
-Saline;691;N.D.;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.27;0.25;0.46;SE;2011;
-Vioz Ovest;692;IT4L00102509;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Glacieret;0.03;0.17;0.34;SE;2011;Comprende Colle Vioz (692.1) nei catasti CGI e WGI. 
-Colle Vioz;692.1;N.D.;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Glacieret;0.01;N.D.;N.D.;NE;2011;Compreso in Vioz Ovest. Interamente coperto da detrito. 
-Vioz Centrale;693;IT4L00102510;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Glacieret;0.06;0.13;0.29;S;2011;"Nel CGI ha codice unico 693 diviso in due parti; settore Ovest attualmente estinto. "
-Vallenaia;696;IT4L00102513;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Glacieret;0.08;0.06;0.36;E;2011;Settore inferiore coperto da detrito. 
-Vedretta Rossa;697;IT4L00102514;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.76;0.84;1.24;NE;2011;Collegato tramite cresta spartiacque al Forni (Lombardia). 
-Venezia;698;IT4L00102515;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;1.15;1.11;1.71;E;2011;Collegato a NW al ghiacciaio Rosole (Lombardia). 
-La Mare;699;IT4L00102516;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Valley;3.52;3.70;4.75;E;2011;Collegato al Cedec (Lombardia) e Cevedale (Alto Adige). Comprende La Mare 1. 
-La Mare 1;699.1;N.D.;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Glacieret;0.01;N.D.;N.D.;N.D.;2011;Compreso nel ghiacciaio La Mare (699). 
-Careser;701;IT4L00102519;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;1.30;5.05;4.68;SW;2011;Comprende le frazioni Careser I, II, III e IV. Evidente forte frammentazione storica. 
-Careser I;701.1;N.D.;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.17;N.D.;N.D.;E;2011;Compreso nel corpo principale del Careser (701). 
-Careser II;701.2;N.D.;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.12;N.D.;N.D.;SE;2011;Compreso nel Careser (701). 
-Careser III;701.3;N.D.;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.06;N.D.;N.D.;SE;2011;Compreso nel Careser (701). 
-Careser IV;701.4;N.D.;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Glacieret;0.01;N.D.;N.D.;SE;2011;Compreso nel Careser (701). Interamente coperto da detrito. 
-Saent Sud;705;IT4L00102305;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Glacieret;0.04;0.06;0.24;E;2011;"Denominato ""Val Saent di Fuori"" nei catasti CGI/WGI. Coperto da detrito. "
-Sternai;710;IT4L00102310;Ortles-Cevedale (Retiche Meridionali);ADIGE - Noce;Mountain;0.10;0.43;0.27;NW;2011;
-Val di Fumo Ovest;614;IT4L01021002;Adamello-Presanella;PO - Oglio;Mountain;0.06;0.18;0.18;SE;2011;Comprende Val di Fumo Ovest I e II nei catasti. 
-Val di Fumo Ovest I;614.1;N.D.;Adamello-Presanella;PO - Oglio;Mountain;0.06;N.D.;N.D.;SE;2011;Compreso in Val di Fumo Ovest. 
-Val di Fumo Ovest II;614.2;N.D.;Adamello-Presanella;PO - Oglio;Glacieret;0.01;N.D.;N.D.;SE;2011;Compreso in Val di Fumo Ovest. 
-Val di Fumo Centrale;615;N.D.;Adamello-Presanella;PO - Oglio;Glacieret;0.03;N.D.;N.D.;S;2011;Costituisce la diffluenza del Ghiacciaio della Lobbia (637) in Val di Fumo. 
-Corno di Cavento S-W;616;IT4L01021003;Adamello-Presanella;PO - Oglio;Glacieret;0.05;0.20;0.37;W;2011;Vasta copertura detritica. 
-Monte Folletto N-W;617;IT4L01021004;Adamello-Presanella;PO - Oglio;Mountain;0.08;0.15;0.28;W;2011;Largamente coperto da detrito. 
-Monte Folletto S-W;618;IT4L01021005;Adamello-Presanella;PO - Oglio;Mountain;0.03;0.04;0.21;W;2011;
-Passo Folletto Ovest;619;IT4L01021006;Adamello-Presanella;PO - Oglio;Glacieret;0.05;0.07;0.29;W;2011;"Vasta copertura detritica; quasi separato in due placche. "
-Care Alto Ovest;620;IT4L01021007;Adamello-Presanella;PO - Oglio;Glacieret;0.02;0.04;0.17;SW;2011;Comprende Care Alto Ovest 1. 
-Care Alto Ovest 1;620.1;N.D.;Adamello-Presanella;PO - Oglio;Glacieret;0.01;N.D.;N.D.;SW / W;2011;Compreso in Care Alto Ovest. 
-Care Alto Sud-Ovest;621;IT4L01021008;Adamello-Presanella;PO - Oglio;Glacieret;0.04;0.05;0.23;S;2011;Classificato come estinto nel catasto CGI. 
-Cop di Casa;624;IT4L01021012;Adamello-Presanella;PO - Oglio;Glacieret;0.03;N.D.;0.07;N.D.;2011;
-Cop di Breguzzo;625;IT4L01021014;Adamello-Presanella;PO - Oglio;Mountain;0.03;0.10;0.21;NW;2011;
-Cima Danerba;626;IT4L01021016;Adamello-Presanella;PO - Oglio;Glacieret;0.01;0.08;0.11;NW;2011;
-Cima Bissina Nord;627;IT4L01021017;Adamello-Presanella;PO - Oglio;Glacieret;0.01;0.04;0.08;N;2011;"Denominato anche ""Piscina"". Comprende Cima Bissina Nord 1. "
-Cima Bissina Nord I;627.1;N.D.;Adamello-Presanella;PO - Oglio;Glacieret;0.01;N.D.;N.D.;N;2011;Compreso in Cima Bissina Nord. 
-Val del Vescovo;630.1;N.D.;Adamello-Presanella;PO - Oglio;Glacieret;0.03;N.D.;N.D.;NE;2011;Non elencato nei catasti CGI e WGI. 
-Care Alto Sud;631;IT4L01011003;Adamello-Presanella;PO - Sarca;Glacieret;0.01;0.06;0.13;S;2011;
-Care Alto Est (Conca);632;IT4L01011005;Adamello-Presanella;PO - Sarca;Mountain;0.14;0.27;0.27;E;2011;"Denominato ""Conca"" nel catasto PAT 2003. "
-Niscli;633;IT4L01011006;Adamello-Presanella;PO - Sarca;Mountain;0.29;0.70;0.66;E;2011;
-Lares;634;IT4L01011008;Adamello-Presanella;PO - Sarca;Mountain;4.17;2.00;6.24;NE;2011;"Il valore d'area del catasto CGI (2.00) e un refuso tipografico; il dato corretto e 6.00. "
-Folgorida;635;IT4L01011009;Adamello-Presanella;PO - Sarca;Mountain;0.32;0.80;0.96;NE;2011;"Denominato ""Fargorida"" nel CGI. Comprende Folgorida 1. "
-Folgorida I;635.1;N.D.;Adamello-Presanella;PO - Sarca;Mountain;0.12;N.D.;N.D.;NE;2011;Compreso nel Ghiacciaio Folgorida. 
-Lobbia;637;IT4L01011012;Adamello-Presanella;PO - Sarca / Chiese;Mountain;5.86;6.10 + 1.50;7.84;N;2011;Nel CGI e suddiviso tra Lobbia e Val di Fumo Centrale. Nel WGI li comprende entrambi. 
-Adamello-Mandrone;608-639;IT41.01024006 / IT4L01011015;Adamello-Presanella;PO - Sarca / Oglio;Altopiano / Lingue;0.64 (TN);1.50 (TN);19.10 (Tot);NE;2011;Il piu vasto apparato glaciale italiano (maggioranza in Lombardia). Il solo Mandrone ha un'area WGI di 12.38 e 10.46 di tipo Valley. 
-Nardis Ovest;640;IT4L01011023;Adamello-Presanella;PO - Sarca;Mountain;1.18;2.03;1.67;SE;2011;Comprende Nardis Ovest 1 e II. 
-Nardis Ovest 1;640.1;N.D.;Adamello-Presanella;PO - Sarca;Glacieret;0.03;N.D.;N.D.;NE;2011;Compreso in Nardis Ovest. 
-Nardis Ovest II;640.2;N.D.;Adamello-Presanella;PO - Sarca;Glacieret;0.02;N.D.;N.D.;W;2011;Compreso in Nardis Ovest. 
-Nardis Est;641;IT4L01011025;Adamello-Presanella;PO - Sarca;Glacieret;0.09;0.18;0.16;SE;2011;Vasta copertura detritica. 
-Cima 4 Cantoni N-W;642;IT4L01011026;Adamello-Presanella;PO - Sarca;Glacieret;0.02;0.03;0.07;NE;2011;
-Monte Nero;643;IT4L01011027;Adamello-Presanella;PO - Sarca;Mountain;0.08;0.27;0.33;NE;2011;Largamente coperto da detrito. 
-Amola;644;IT4L01011028;Adamello-Presanella;PO - Sarca;Mountain;0.78;1.20;0.86;E;2011;Vasta copertura detritica. Comprende Amola 1. 
-Amola I;644.1;N.D.;Adamello-Presanella;PO - Sarca;Glacieret;0.02;N.D.;N.D.;E;2011;Compreso in Amola (644). 
-Cornisello Sud;646;IT4L01011031;Adamello-Presanella;PO - Sarca;Mountain;0.15;0.35;0.24;NE;2011;Comprende Cornisello Sud I. 
-Cornisello Sud I;646.1;N.D.;Adamello-Presanella;PO - Sarca;Glacieret;0.01;N.D.;N.D.;SE;2011;"Denominato ""Cima Vedretta Nera"" nel catasto PAT 2003. Compreso in Cornisello Sud. "
-Cornisello Nord;647;IT4L01011032;Adamello-Presanella;PO - Sarca;Glacieret;0.01;0.20;0.26;E;2011;
-Monte Caldura;667;IT4L00102403;Adamello-Presanella;ADIGE - Noce;Glacieret;0.03;0.12;0.17;N;2011;Denominato Monte Caldoni (o Cagalat) nel CGI. 
-Passo Cagalatin;668;N.D.;Adamello-Presanella;ADIGE - Noce;Glacieret;0.02;0.03;N.D.;N;2011;Non elencato nel registro WGI. 
-Corno Giner Nord;669;IT4L00102404;Adamello-Presanella;ADIGE - Noce;Glacieret;0.07;0.06;0.27;N;2011;Copertura detritica quasi completa. 
-Cima Scarpaco Nord;673;N.D.;Adamello-Presanella;ADIGE - Noce;Glacieret;0.01;0.02;N.D.;N;2011;Non elencato nel registro WGI. 
-Cima Palu Nord-Est;674;IT4L00102409;Adamello-Presanella;ADIGE - Noce;Glacieret;0.05;0.04;0.13;N;2011;Copertura detritica quasi completa. 
-Ricolonda;674.1;N.D.;Adamello-Presanella;ADIGE - Noce;Glacieret;0.01;N.D.;N.D.;N;2011;Non elencato nei catasti CGI e WGI. 
-Cima Scarpaco Ovest;675;IT4L00102411;Adamello-Presanella;ADIGE - Noce;Mountain;0.11;0.20;0.34;W;2011;
-Quota 3165 Nord;676;N.D.;Adamello-Presanella;ADIGE - Noce;Glacieret;0.04;0.04;N.D.;N;2011;Parzialmente coperto da detrito. Non nel WGI. 
-Passo di Stavel;677;IT4L00102412;Adamello-Presanella;ADIGE - Noce;Mountain;0.06;0.11;0.12;N;2011;Comprende Passo di Stavel 1. 
-Passo di Stavel I;677.1;N.D.;Adamello-Presanella;ADIGE - Noce;Glacieret;0.01;N.D.;N.D.;N;2011;Compreso in Passo di Stavel. 
-Presanella;678;IT4L00102413;Adamello-Presanella;ADIGE - Noce;Valley;2.60;3.92;3.92;N;2011;Comprende Passo Cercen e Pensile della Presanella. 
-Passo Cercen;678.1;N.D.;Adamello-Presanella;ADIGE - Noce;Mountain;0.17;N.D.;N.D.;N;2011;Compreso nel Ghiacciaio Presanella (678). 
-Pensile Presanella;678.2;N.D.;Adamello-Presanella;ADIGE - Noce;Mountain;0.02;N.D.;N.D.;N;2011;Compreso nel Ghiacciaio Presanella (678). 
-Monte Cercen Nord;679;IT4L00102414;Adamello-Presanella;ADIGE - Noce;Mountain;0.12;0.17;0.21;N;2011;
-Monte Cercen N-W;680;N.D.;Adamello-Presanella;ADIGE - Noce;Glacieret;0.01;0.13;N.D.;N;2011;Non elencato nel WGI. 
-Busazza Est;681;IT4L00102415;Adamello-Presanella;ADIGE - Noce;Mountain;0.22;0.34;0.56;N;2011;Comprende anche Busazza Est 1 e Busazza Est II. 
-Busazza Est I;681.1;N.D.;Adamello-Presanella;ADIGE - Noce;Mountain;0.09;N.D.;N.D.;N;2011;Compreso in Busazza Est. 
-Busazza Est II;681.2;N.D.;Adamello-Presanella;ADIGE - Noce;Glacieret;0.02;N.D.;N.D.;NE;2011;Compreso in Busazza Est. 
-Busazza Ovest;682;IT4L00102416;Adamello-Presanella;ADIGE - Noce;Mountain;0.18;0.27;0.35;NW;2011;
-Presena Est;683;IT4L00102417;Adamello-Presanella;ADIGE - Noce;Mountain;0.40;0.56;0.85;N;2011;Comprende Presena Est 1. 
-Presena Est 1;683.1;N.D.;Adamello-Presanella;ADIGE - Noce;Glacieret;0.02;N.D.;N.D.;N;2011;Compreso in Presena Est. 
-Presena Ovest;684;IT4L00102418;Adamello-Presanella;ADIGE - Noce;Mountain;0.25;0.82 / 0.75;N.D.;N;2011;Comprende il Corno di Lago Scuro. Impatto antropico significativo (sci). 
-Corno di Lago Scuro;684.1;N.D.;Adamello-Presanella;ADIGE - Noce;Mountain;0.04;N.D.;N.D.;N;2011;Compreso in Presena Ovest. 
-Vallesinella Inferiore;649;IT4L01012001;Dolomiti di Brenta;PO - Sarca;Mountain;0.03;0.38;0.16 + 0.08;NW;2011;Nel CGI denominato Vallesinella (include il settore superiore estinto di 0.08 $km^2$). 
-Tuckett (Brenta Inf.);650;IT4L01012003;Dolomiti di Brenta;PO - Sarca;Glacieret;0.03;0.51;0.42;NW;2011;Comprende Cima Brenta, Tuckett Sup. e Cima Brenta Est. 
-Cima Brenta;650.1;N.D.;Dolomiti di Brenta;PO - Sarca;Mountain;0.04;N.D.;N.D.;NW;2011;Compreso nel complesso del Tuckett (650). 
-Tuckett Superiore;650.2;N.D.;Dolomiti di Brenta;PO - Sarca;Glacieret;0.04;N.D.;N.D.;NE;2011;Compreso nel complesso del Tuckett (650). 
-Cima Brenta Est;650.3;N.D.;Dolomiti di Brenta;PO - Sarca;Glacieret;0.02;N.D.;N.D.;N;2011;Diviso in 3 piccole unita non catastabili (<0.01 $km^2$). In Tuckett. 
-Brenta Superiore;651;IT4L01012004;Dolomiti di Brenta;PO - Sarca;Mountain;0.02;0.15;0.12;NW;2011;Denominato Mandron o Brenta Superiore nel CGI. 
-Brentei;652;IT4L01012005;Dolomiti di Brenta;PO - Sarca;Glacieret;0.02;0.10;0.08;NW;2011;Copertura detritica quasi completa. 
-Sfulmeni;653;IT4L01012006;Dolomiti di Brenta;PO - Sarca;Mountain;0.05;0.18;0.11;NW;2011;"Denominato Fulmini o Sfulmeni nel CGI; include Sfulmeni 1. "
-Sfulmeni 1;653.1;N.D.;Dolomiti di Brenta;PO - Sarca;Glacieret;0.01;N.D.;N.D.;N;2011;Compreso nel Ghiacciaio Sfulmeni. 
-Crozzon;655;IT4L01012010;Dolomiti di Brenta;PO - Sarca;Mountain;0.02;0.34;0.32;N;2011;Comprende Crozzon Inferiore (655.1). 
-Crozzon Inferiore;655.1;N.D.;Dolomiti di Brenta;PO - Sarca;Mountain;0.07;N.D.;N.D.;N;2011;Compreso nel Ghiacciaio Crozzon (655). 
-Camosci;656;IT4L01012011;Dolomiti di Brenta;PO - Sarca;Mountain;0.12;0.27;0.28;NW;2011;Denominato anche Camozzi o Camosci. 
-Agola;657;IT4L01012012;Dolomiti di Brenta;PO - Sarca;Mountain;0.19;0.34;0.32;NW;2011;Denominato Lagol o Agola nel CGI. 
-Pra Fiori;658;IT4L01012013;Dolomiti di Brenta;PO - Sarca;Mountain;0.04;0.27;0.22;N;2011;Denominato anche Prato Fiorito o Nardis. 
-12 Apostoli;659;IT4L01012014;Dolomiti di Brenta;PO - Sarca;Mountain;0.04;0.14;0.11;NW;2011;Denominato anche Pagaiola o Selvata. 
-Ambiez;661;IT4L01012017;Dolomiti di Brenta;PO - Sarca;Glacieret;0.04;0.12;0.11;S;2011;Copertura detritica quasi completa. 
-Val Pestacapre;665.1;N.D.;Dolomiti di Brenta;PO - Sarca;Glacieret;0.02;N.D.;N.D.;N;2011;Non elencato nel CGI e nel WGI. 
-Preson;665.2;N.D.;Dolomiti di Brenta;PO - Sarca;Glacieret;0.01;N.D.;N.D.;N;2011;Non elencato nel CGI e nel WGI. 
-Cima Sassare N-W;665.3;N.D.;Dolomiti di Brenta;PO - Sarca;Glacieret;0.02;N.D.;N.D.;N;2011;Non elencato nel CGI e nel WGI. 
-Val Gelada di Tuenno;665.4;N.D.;Dolomiti di Brenta;PO - Sarca;Glacieret;0.03;N.D.;N.D.;N;2011;Non elencato nel CGI e nel WGI. 
-Marmolada (Principale);941;IT4L00101101;Marmolada (Dolomiti);ADIGE - Avisio;Mountain;1.28 (TN);3.05 (Tot) 0.99 (TN);2.60 (Tot) 0.92 (TN);N;2011;"Storicamente diviso amministrativamente con il Veneto; dal 2002 interamente sotto la Prov. di Trento. Presenza di piste da sci estivo. "
-Marmolada Centrale;941.1;N.D.;Marmolada (Dolomiti);ADIGE - Avisio;Mountain;0.06;N.D.;N.D.;N;2011;Compreso nel Ghiacciaio della Marmolada Principale (941). 
-Punta Penia;941.2;N.D.;Marmolada (Dolomiti);ADIGE - Avisio;Mountain;0.10;N.D.;N.D.;N;2011;Compreso nel Ghiacciaio della Marmolada Principale (941). 
-Marmolada Ovest;942;IT4100101102;Marmolada (Dolomiti);ADIGE - Avisio;Mountain;0.05;0.47;0.38;N;2011;
-Vernel Inferiore Nord;943;IT4L00101104;Marmolada (Dolomiti);ADIGE - Avisio;Glacieret;0.02;0.02;0.12;NW;2011;Comprende Vernel Inferiore Nord I. 
-Vernel Inf. Nord I;943.1;N.D.;Marmolada (Dolomiti);ADIGE - Avisio;Glacieret;0.01;N.D.;N.D.;NW;2011;Compreso in Vernel Inferiore Nord. 
-Vernale;945;IT4L00101105;Marmolada (Dolomiti);ADIGE - Avisio;Glacieret;0.02;0.12;0.15;W;2011;
-Busa dei Camosci I;946.1;N.D.;Pale di San Martino;ADIGE - Avisio;Glacieret;0.01;N.D.;N.D.;N;2011;Non elencato nel CGI e nel WGI. 
-Busa dei Camosci II;946.2;N.D.;Pale di San Martino;ADIGE - Avisio;Glacieret;0.01;N.D.;N.D.;N;2011;Non elencato nel CGI e nel WGI. 
-Travignolo;947;IT4L00101203;Pale di San Martino;ADIGE - Avisio;Mountain;0.16;0.14;0.28;N;2011;
-Pala;948;IT4L00012002;Pale di San Martino;ADIGE - Avisio;Glacieret;0.04;N.D.;0.07;W;2011;Classificato come estinto nel catasto CGI. 
-Fradusta;950;IT4L00021001;Pale di San Martino;PIAVE - Cordevole;Mountain;0.03;0.65;0.43;N;2011;Riduzione drastica da area CGI (0.65) a 2011 (0.03). Include Fradusta Superiore. 
-Fradusta Superiore;950.1;N.D.;Pale di San Martino;PIAVE - Cordevole;Mountain;0.04;N.D.;N.D.;N;2011;Compreso nel Ghiacciaio della Fradusta. 
+Glacier Name,ID Code,WGI Code,Mountain Sector,Mountain Catchment,Glacier Type,Area (km2),Area CGI (km2),Area WGI (km2),Aspect,Year,Notes
+Corno dei Tre Signori N-E,685,IT4L00102501,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Glacieret,0.06,0.10,0.15,NE,2011,Interamente coperto da detrito. 
+Villacorna,686,IT4L00102502,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.10,0.28,0.32,SE,2011,Totalmente coperto da detrito. 
+Valpiana,687,IT4L00102503,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.16,0.69,0.56,SE,2011,Include il M. Giumella (687.1) nei catasti CGI e WGI. 
+Monte Giumella,687.1,,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.09,,,S,2011,Non elencato singolarmente nei catasti CGI/WGI (compreso in Valpiana). 
+Orsi,688,IT4L00102505,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.64,1.12,1.51,SE,2011,
+Cadini,689,IT4L00102506,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.15,0.17,0.46,E,2011,
+Taviela Sud,690,IT4L00102507,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.07,0.44,0.83,E,2011,Nel CGI denominato Taviela (comprende Taviela Nord). Nel WGI include Taviela Nord. 
+Taviela Nord,690.1,IT4L00102508,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.26,,,SE,2011,Compreso nel ghiacciaio Taviela per il CGI e WGI. 
+Saline,691,,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.27,0.25,0.46,SE,2011,
+Vioz Ovest,692,IT4L00102509,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Glacieret,0.03,0.17,0.34,SE,2011,Comprende Colle Vioz (692.1) nei catasti CGI e WGI. 
+Colle Vioz,692.1,,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Glacieret,0.01,,,NE,2011,Compreso in Vioz Ovest. Interamente coperto da detrito. 
+Vioz Centrale,693,IT4L00102510,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Glacieret,0.06,0.13,0.29,S,2011,"Nel CGI ha codice unico 693 diviso in due parti settore Ovest attualmente estinto. "
+Vallenaia,696,IT4L00102513,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Glacieret,0.08,0.06,0.36,E,2011,Settore inferiore coperto da detrito. 
+Vedretta Rossa,697,IT4L00102514,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.76,0.84,1.24,NE,2011,Collegato tramite cresta spartiacque al Forni (Lombardia). 
+Venezia,698,IT4L00102515,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,1.15,1.11,1.71,E,2011,Collegato a NW al ghiacciaio Rosole (Lombardia). 
+La Mare,699,IT4L00102516,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Valley,3.52,3.70,4.75,E,2011,Collegato al Cedec (Lombardia) e Cevedale (Alto Adige). Comprende La Mare 1. 
+La Mare 1,699.1,,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Glacieret,0.01,,,,2011,Compreso nel ghiacciaio La Mare (699). 
+Careser,701,IT4L00102519,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,1.30,5.05,4.68,SW,2011,Comprende le frazioni Careser I II III e IV. Evidente forte frammentazione storica. 
+Careser I,701.1,,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.17,,,E,2011,Compreso nel corpo principale del Careser (701). 
+Careser II,701.2,,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.12,,,SE,2011,Compreso nel Careser (701). 
+Careser III,701.3,,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.06,,,SE,2011,Compreso nel Careser (701). 
+Careser IV,701.4,,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Glacieret,0.01,,,SE,2011,Compreso nel Careser (701). Interamente coperto da detrito. 
+Saent Sud,705,IT4L00102305,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Glacieret,0.04,0.06,0.24,E,2011,"Denominato ""Val Saent di Fuori"" nei catasti CGI/WGI. Coperto da detrito. "
+Sternai,710,IT4L00102310,Ortles-Cevedale (Retiche Meridionali),ADIGE - Noce,Mountain,0.10,0.43,0.27,NW,2011,
+Val di Fumo Ovest,614,IT4L01021002,Adamello-Presanella,PO - Oglio,Mountain,0.06,0.18,0.18,SE,2011,Comprende Val di Fumo Ovest I e II nei catasti. 
+Val di Fumo Ovest I,614.1,,Adamello-Presanella,PO - Oglio,Mountain,0.06,,,SE,2011,Compreso in Val di Fumo Ovest. 
+Val di Fumo Ovest II,614.2,,Adamello-Presanella,PO - Oglio,Glacieret,0.01,,,SE,2011,Compreso in Val di Fumo Ovest. 
+Val di Fumo Centrale,615,,Adamello-Presanella,PO - Oglio,Glacieret,0.03,,,S,2011,Costituisce la diffluenza del Ghiacciaio della Lobbia (637) in Val di Fumo. 
+Corno di Cavento S-W,616,IT4L01021003,Adamello-Presanella,PO - Oglio,Glacieret,0.05,0.20,0.37,W,2011,Vasta copertura detritica. 
+Monte Folletto N-W,617,IT4L01021004,Adamello-Presanella,PO - Oglio,Mountain,0.08,0.15,0.28,W,2011,Largamente coperto da detrito. 
+Monte Folletto S-W,618,IT4L01021005,Adamello-Presanella,PO - Oglio,Mountain,0.03,0.04,0.21,W,2011,
+Passo Folletto Ovest,619,IT4L01021006,Adamello-Presanella,PO - Oglio,Glacieret,0.05,0.07,0.29,W,2011,"Vasta copertura detritica quasi separato in due placche. "
+Care Alto Ovest,620,IT4L01021007,Adamello-Presanella,PO - Oglio,Glacieret,0.02,0.04,0.17,SW,2011,Comprende Care Alto Ovest 1. 
+Care Alto Ovest 1,620.1,,Adamello-Presanella,PO - Oglio,Glacieret,0.01,,,SW / W,2011,Compreso in Care Alto Ovest. 
+Care Alto Sud-Ovest,621,IT4L01021008,Adamello-Presanella,PO - Oglio,Glacieret,0.04,0.05,0.23,S,2011,Classificato come estinto nel catasto CGI. 
+Cop di Casa,624,IT4L01021012,Adamello-Presanella,PO - Oglio,Glacieret,0.03,,0.07,,2011,
+Cop di Breguzzo,625,IT4L01021014,Adamello-Presanella,PO - Oglio,Mountain,0.03,0.10,0.21,NW,2011,
+Cima Danerba,626,IT4L01021016,Adamello-Presanella,PO - Oglio,Glacieret,0.01,0.08,0.11,NW,2011,
+Cima Bissina Nord,627,IT4L01021017,Adamello-Presanella,PO - Oglio,Glacieret,0.01,0.04,0.08,N,2011,"Denominato anche ""Piscina"". Comprende Cima Bissina Nord 1. "
+Cima Bissina Nord I,627.1,,Adamello-Presanella,PO - Oglio,Glacieret,0.01,,,N,2011,Compreso in Cima Bissina Nord. 
+Val del Vescovo,630.1,,Adamello-Presanella,PO - Oglio,Glacieret,0.03,,,NE,2011,Non elencato nei catasti CGI e WGI. 
+Care Alto Sud,631,IT4L01011003,Adamello-Presanella,PO - Sarca,Glacieret,0.01,0.06,0.13,S,2011,
+Care Alto Est (Conca),632,IT4L01011005,Adamello-Presanella,PO - Sarca,Mountain,0.14,0.27,0.27,E,2011,"Denominato ""Conca"" nel catasto PAT 2003. "
+Niscli,633,IT4L01011006,Adamello-Presanella,PO - Sarca,Mountain,0.29,0.70,0.66,E,2011,
+Lares,634,IT4L01011008,Adamello-Presanella,PO - Sarca,Mountain,4.17,2.00,6.24,NE,2011,"Il valore d'area del catasto CGI (2.00) e un refuso tipografico il dato corretto e 6.00. "
+Folgorida,635,IT4L01011009,Adamello-Presanella,PO - Sarca,Mountain,0.32,0.80,0.96,NE,2011,"Denominato ""Fargorida"" nel CGI. Comprende Folgorida 1. "
+Folgorida I,635.1,,Adamello-Presanella,PO - Sarca,Mountain,0.12,,,NE,2011,Compreso nel Ghiacciaio Folgorida. 
+Lobbia,637,IT4L01011012,Adamello-Presanella,PO - Sarca / Chiese,Mountain,5.86,6.10 + 1.50,7.84,N,2011,Nel CGI e suddiviso tra Lobbia e Val di Fumo Centrale. Nel WGI li comprende entrambi. 
+Adamello-Mandrone,608-639,IT41.01024006 / IT4L01011015,Adamello-Presanella,PO - Sarca / Oglio,Altopiano / Lingue,0.64 (TN),1.50 (TN),19.10 (Tot),NE,2011,Il piu vasto apparato glaciale italiano (maggioranza in Lombardia). Il solo Mandrone ha un'area WGI di 12.38 e 10.46 di tipo Valley. 
+Nardis Ovest,640,IT4L01011023,Adamello-Presanella,PO - Sarca,Mountain,1.18,2.03,1.67,SE,2011,Comprende Nardis Ovest 1 e II. 
+Nardis Ovest 1,640.1,,Adamello-Presanella,PO - Sarca,Glacieret,0.03,,,NE,2011,Compreso in Nardis Ovest. 
+Nardis Ovest II,640.2,,Adamello-Presanella,PO - Sarca,Glacieret,0.02,,,W,2011,Compreso in Nardis Ovest. 
+Nardis Est,641,IT4L01011025,Adamello-Presanella,PO - Sarca,Glacieret,0.09,0.18,0.16,SE,2011,Vasta copertura detritica. 
+Cima 4 Cantoni N-W,642,IT4L01011026,Adamello-Presanella,PO - Sarca,Glacieret,0.02,0.03,0.07,NE,2011,
+Monte Nero,643,IT4L01011027,Adamello-Presanella,PO - Sarca,Mountain,0.08,0.27,0.33,NE,2011,Largamente coperto da detrito. 
+Amola,644,IT4L01011028,Adamello-Presanella,PO - Sarca,Mountain,0.78,1.20,0.86,E,2011,Vasta copertura detritica. Comprende Amola 1. 
+Amola I,644.1,,Adamello-Presanella,PO - Sarca,Glacieret,0.02,,,E,2011,Compreso in Amola (644). 
+Cornisello Sud,646,IT4L01011031,Adamello-Presanella,PO - Sarca,Mountain,0.15,0.35,0.24,NE,2011,Comprende Cornisello Sud I. 
+Cornisello Sud I,646.1,,Adamello-Presanella,PO - Sarca,Glacieret,0.01,,,SE,2011,"Denominato ""Cima Vedretta Nera"" nel catasto PAT 2003. Compreso in Cornisello Sud. "
+Cornisello Nord,647,IT4L01011032,Adamello-Presanella,PO - Sarca,Glacieret,0.01,0.20,0.26,E,2011,
+Monte Caldura,667,IT4L00102403,Adamello-Presanella,ADIGE - Noce,Glacieret,0.03,0.12,0.17,N,2011,Denominato Monte Caldoni (o Cagalat) nel CGI. 
+Passo Cagalatin,668,,Adamello-Presanella,ADIGE - Noce,Glacieret,0.02,0.03,,N,2011,Non elencato nel registro WGI. 
+Corno Giner Nord,669,IT4L00102404,Adamello-Presanella,ADIGE - Noce,Glacieret,0.07,0.06,0.27,N,2011,Copertura detritica quasi completa. 
+Cima Scarpaco Nord,673,,Adamello-Presanella,ADIGE - Noce,Glacieret,0.01,0.02,,N,2011,Non elencato nel registro WGI. 
+Cima Palu Nord-Est,674,IT4L00102409,Adamello-Presanella,ADIGE - Noce,Glacieret,0.05,0.04,0.13,N,2011,Copertura detritica quasi completa. 
+Ricolonda,674.1,,Adamello-Presanella,ADIGE - Noce,Glacieret,0.01,,,N,2011,Non elencato nei catasti CGI e WGI. 
+Cima Scarpaco Ovest,675,IT4L00102411,Adamello-Presanella,ADIGE - Noce,Mountain,0.11,0.20,0.34,W,2011,
+Quota 3165 Nord,676,,Adamello-Presanella,ADIGE - Noce,Glacieret,0.04,0.04,,N,2011,Parzialmente coperto da detrito. Non nel WGI. 
+Passo di Stavel,677,IT4L00102412,Adamello-Presanella,ADIGE - Noce,Mountain,0.06,0.11,0.12,N,2011,Comprende Passo di Stavel 1. 
+Passo di Stavel I,677.1,,Adamello-Presanella,ADIGE - Noce,Glacieret,0.01,,,N,2011,Compreso in Passo di Stavel. 
+Presanella,678,IT4L00102413,Adamello-Presanella,ADIGE - Noce,Valley,2.60,3.92,3.92,N,2011,Comprende Passo Cercen e Pensile della Presanella. 
+Passo Cercen,678.1,,Adamello-Presanella,ADIGE - Noce,Mountain,0.17,,,N,2011,Compreso nel Ghiacciaio Presanella (678). 
+Pensile Presanella,678.2,,Adamello-Presanella,ADIGE - Noce,Mountain,0.02,,,N,2011,Compreso nel Ghiacciaio Presanella (678). 
+Monte Cercen Nord,679,IT4L00102414,Adamello-Presanella,ADIGE - Noce,Mountain,0.12,0.17,0.21,N,2011,
+Monte Cercen N-W,680,,Adamello-Presanella,ADIGE - Noce,Glacieret,0.01,0.13,,N,2011,Non elencato nel WGI. 
+Busazza Est,681,IT4L00102415,Adamello-Presanella,ADIGE - Noce,Mountain,0.22,0.34,0.56,N,2011,Comprende anche Busazza Est 1 e Busazza Est II. 
+Busazza Est I,681.1,,Adamello-Presanella,ADIGE - Noce,Mountain,0.09,,,N,2011,Compreso in Busazza Est. 
+Busazza Est II,681.2,,Adamello-Presanella,ADIGE - Noce,Glacieret,0.02,,,NE,2011,Compreso in Busazza Est. 
+Busazza Ovest,682,IT4L00102416,Adamello-Presanella,ADIGE - Noce,Mountain,0.18,0.27,0.35,NW,2011,
+Presena Est,683,IT4L00102417,Adamello-Presanella,ADIGE - Noce,Mountain,0.40,0.56,0.85,N,2011,Comprende Presena Est 1. 
+Presena Est 1,683.1,,Adamello-Presanella,ADIGE - Noce,Glacieret,0.02,,,N,2011,Compreso in Presena Est. 
+Presena Ovest,684,IT4L00102418,Adamello-Presanella,ADIGE - Noce,Mountain,0.25,0.82 / 0.75,,N,2011,Comprende il Corno di Lago Scuro. Impatto antropico significativo (sci). 
+Corno di Lago Scuro,684.1,,Adamello-Presanella,ADIGE - Noce,Mountain,0.04,,,N,2011,Compreso in Presena Ovest. 
+Vallesinella Inferiore,649,IT4L01012001,Dolomiti di Brenta,PO - Sarca,Mountain,0.03,0.38,0.16 + 0.08,NW,2011,Nel CGI denominato Vallesinella (include il settore superiore estinto di 0.08 $km^2$). 
+Tuckett (Brenta Inf.),650,IT4L01012003,Dolomiti di Brenta,PO - Sarca,Glacieret,0.03,0.51,0.42,NW,2011,Comprende Cima Brenta Tuckett Sup. e Cima Brenta Est. 
+Cima Brenta,650.1,,Dolomiti di Brenta,PO - Sarca,Mountain,0.04,,,NW,2011,Compreso nel complesso del Tuckett (650). 
+Tuckett Superiore,650.2,,Dolomiti di Brenta,PO - Sarca,Glacieret,0.04,,,NE,2011,Compreso nel complesso del Tuckett (650). 
+Cima Brenta Est,650.3,,Dolomiti di Brenta,PO - Sarca,Glacieret,0.02,,,N,2011,Diviso in 3 piccole unita non catastabili (<0.01 $km^2$). In Tuckett. 
+Brenta Superiore,651,IT4L01012004,Dolomiti di Brenta,PO - Sarca,Mountain,0.02,0.15,0.12,NW,2011,Denominato Mandron o Brenta Superiore nel CGI. 
+Brentei,652,IT4L01012005,Dolomiti di Brenta,PO - Sarca,Glacieret,0.02,0.10,0.08,NW,2011,Copertura detritica quasi completa. 
+Sfulmeni,653,IT4L01012006,Dolomiti di Brenta,PO - Sarca,Mountain,0.05,0.18,0.11,NW,2011,"Denominato Fulmini o Sfulmeni nel CGI include Sfulmeni 1. "
+Sfulmeni 1,653.1,,Dolomiti di Brenta,PO - Sarca,Glacieret,0.01,,,N,2011,Compreso nel Ghiacciaio Sfulmeni. 
+Crozzon,655,IT4L01012010,Dolomiti di Brenta,PO - Sarca,Mountain,0.02,0.34,0.32,N,2011,Comprende Crozzon Inferiore (655.1). 
+Crozzon Inferiore,655.1,,Dolomiti di Brenta,PO - Sarca,Mountain,0.07,,,N,2011,Compreso nel Ghiacciaio Crozzon (655). 
+Camosci,656,IT4L01012011,Dolomiti di Brenta,PO - Sarca,Mountain,0.12,0.27,0.28,NW,2011,Denominato anche Camozzi o Camosci. 
+Agola,657,IT4L01012012,Dolomiti di Brenta,PO - Sarca,Mountain,0.19,0.34,0.32,NW,2011,Denominato Lagol o Agola nel CGI. 
+Pra Fiori,658,IT4L01012013,Dolomiti di Brenta,PO - Sarca,Mountain,0.04,0.27,0.22,N,2011,Denominato anche Prato Fiorito o Nardis. 
+12 Apostoli,659,IT4L01012014,Dolomiti di Brenta,PO - Sarca,Mountain,0.04,0.14,0.11,NW,2011,Denominato anche Pagaiola o Selvata. 
+Ambiez,661,IT4L01012017,Dolomiti di Brenta,PO - Sarca,Glacieret,0.04,0.12,0.11,S,2011,Copertura detritica quasi completa. 
+Val Pestacapre,665.1,,Dolomiti di Brenta,PO - Sarca,Glacieret,0.02,,,N,2011,Non elencato nel CGI e nel WGI. 
+Preson,665.2,,Dolomiti di Brenta,PO - Sarca,Glacieret,0.01,,,N,2011,Non elencato nel CGI e nel WGI. 
+Cima Sassare N-W,665.3,,Dolomiti di Brenta,PO - Sarca,Glacieret,0.02,,,N,2011,Non elencato nel CGI e nel WGI. 
+Val Gelada di Tuenno,665.4,,Dolomiti di Brenta,PO - Sarca,Glacieret,0.03,,,N,2011,Non elencato nel CGI e nel WGI. 
+Marmolada (Principale),941,IT4L00101101,Marmolada (Dolomiti),ADIGE - Avisio,Mountain,1.28 (TN),3.05 (Tot) 0.99 (TN),2.60 (Tot) 0.92 (TN),N,2011,"Storicamente diviso amministrativamente con il Veneto dal 2002 interamente sotto la Prov. di Trento. Presenza di piste da sci estivo. "
+Marmolada Centrale,941.1,,Marmolada (Dolomiti),ADIGE - Avisio,Mountain,0.06,,,N,2011,Compreso nel Ghiacciaio della Marmolada Principale (941). 
+Punta Penia,941.2,,Marmolada (Dolomiti),ADIGE - Avisio,Mountain,0.10,,,N,2011,Compreso nel Ghiacciaio della Marmolada Principale (941). 
+Marmolada Ovest,942,IT4100101102,Marmolada (Dolomiti),ADIGE - Avisio,Mountain,0.05,0.47,0.38,N,2011,
+Vernel Inferiore Nord,943,IT4L00101104,Marmolada (Dolomiti),ADIGE - Avisio,Glacieret,0.02,0.02,0.12,NW,2011,Comprende Vernel Inferiore Nord I. 
+Vernel Inf. Nord I,943.1,,Marmolada (Dolomiti),ADIGE - Avisio,Glacieret,0.01,,,NW,2011,Compreso in Vernel Inferiore Nord. 
+Vernale,945,IT4L00101105,Marmolada (Dolomiti),ADIGE - Avisio,Glacieret,0.02,0.12,0.15,W,2011,
+Busa dei Camosci I,946.1,,Pale di San Martino,ADIGE - Avisio,Glacieret,0.01,,,N,2011,Non elencato nel CGI e nel WGI. 
+Busa dei Camosci II,946.2,,Pale di San Martino,ADIGE - Avisio,Glacieret,0.01,,,N,2011,Non elencato nel CGI e nel WGI. 
+Travignolo,947,IT4L00101203,Pale di San Martino,ADIGE - Avisio,Mountain,0.16,0.14,0.28,N,2011,
+Pala,948,IT4L00012002,Pale di San Martino,ADIGE - Avisio,Glacieret,0.04,,0.07,W,2011,Classificato come estinto nel catasto CGI. 
+Fradusta,950,IT4L00021001,Pale di San Martino,PIAVE - Cordevole,Mountain,0.03,0.65,0.43,N,2011,Riduzione drastica da area CGI (0.65) a 2011 (0.03). Include Fradusta Superiore. 
+Fradusta Superiore,950.1,,Pale di San Martino,PIAVE - Cordevole,Mountain,0.04,,,N,2011,Compreso nel Ghiacciaio della Fradusta. 
