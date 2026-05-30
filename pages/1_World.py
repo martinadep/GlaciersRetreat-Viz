@@ -1,6 +1,6 @@
 import streamlit as st
 import plotly.express as px
-from src.data_loader import load_glacier_data
+from src.data_loader import *
 
 st.title("🗺️ Interactive Glacier Retreat Map")
 
@@ -40,3 +40,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 # Also display a table with the filtered data below the map (optional)
 st.write("Detailed data for the selected year:", df_filtrato)
+
+st.title("🗺️ Glacier Mass Change")
+df=load_wgms_global()
+

@@ -31,3 +31,7 @@ def load_glacier_data():
             
     df_mappa = pd.DataFrame(data_mappa)
     return df_mappa
+
+def load_wgms_global():
+    df_global = pd.read_csv('../data/wgms-amce-2026-02-10/global.csv')
+    return df_global
