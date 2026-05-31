@@ -146,10 +146,9 @@ import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 from src.wgms_data_loader import load_wgms_regions_gt
 
-
-df_demo=load_wgms_regions_gt()
-fig = plot_glacier_mass_change(df_demo)
-fig.show()
-print(len(df_demo['region'].unique()))
-
+def create_region_gt():
+    df_demo=load_wgms_regions_gt()
+    fig = plot_glacier_mass_change(df_demo)
+    
+    return go.Figure(fig)
 

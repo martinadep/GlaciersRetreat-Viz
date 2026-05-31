@@ -1,6 +1,15 @@
 import streamlit as st
 import plotly.express as px
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+
+
 from src.data_loader import *
+from src.wgms_data_loader import *
+from visualizations import interactive_global_areakm2
+
+
+
 
 st.title("🗺️ Interactive Glacier Retreat Map")
 
@@ -41,6 +50,20 @@ st.plotly_chart(fig, use_container_width=True)
 # Also display a table with the filtered data below the map (optional)
 st.write("Detailed data for the selected year:", df_filtrato)
 
-st.title("🗺️ Glacier Mass Change")
-df=load_wgms_global()
+st.title("🗺️ Glacier area Change")
+from visualizations.interactive_global_areakm2 import interactive_global_areakm2
 
+fig = interactive_global_areakm2()
+st.plotly_chart(fig, use_container_width=True)
+
+st.title('Global mmsle')
+
+from visualizations.interactive_global_mmsle import interactive_global_mmsle
+
+fig = interactive_global_mmsle()
+st.plotly_chart(fig, use_container_width=True)
+
+st.title('Regional mass change (Gt)')
+from visualizations.interactive_region_gt import *
+fig =  create_region_gt()
+st.plotly_chart(fig, use_container_width=True)
