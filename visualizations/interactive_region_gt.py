@@ -2,32 +2,32 @@ import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
 
-def plot_terrorism_deaths(df: pd.DataFrame,
-                          year_col: str = "year",
-                          country_col: str = "country",
-                          deaths_col: str = "deaths"):
+def plot_glacier_mass_change(df: pd.DataFrame,
+                            year_col: str = "year",
+                            region_col: str = "region",
+                            gt_col: str = "gt"):
     """
-    Grafico interattivo delle morti per terrorismo.
+    Grafico interattivo della variazione della massa dei ghiacciai.
 
     Parameters
     ----------
     df : pd.DataFrame
-        DataFrame con colonne year, country, deaths (o i nomi passati).
+        DataFrame con colonne year, region, gt (o i nomi passati).
     year_col : str
         Nome colonna anno.
-    country_col : str
-        Nome colonna paese/regione.
-    deaths_col : str
-        Nome colonna morti.
+    region_col : str
+        Nome colonna regione.
+    gt_col : str
+        Nome colonna massa.
 
     Usage
     -----
-    fig = plot_terrorism_deaths(df)
+    fig = plot_glacier_mass_change(df)
     fig.show()
     """
 
-    countries = sorted(df[country_col].unique())
-    years     = sorted(df[year_col].unique())
+    regions = sorted(df[region_col].unique())
+    years   = sorted(df[year_col].unique())
     min_year, max_year = int(years[0]), int(years[-1])
 
     # Palette colori distinta per ogni paese
@@ -36,22 +36,23 @@ def plot_terrorism_deaths(df: pd.DataFrame,
         "#9467bd", "#8c564b", "#e377c2", "#7f7f7f",
         "#bcbd22", "#17becf", "#aec7e8", "#ffbb78",
     ]
-    color_map = {c: PALETTE[i % len(PALETTE)] for i, c in enumerate(countries)}
+    color_map = {c: PALETTE[i % len(PALETTE)] for i, c in enumerate(regions)}
 
     # ── Trace per ogni paese ─────────────────────────────────────────────────────
     traces = []
-    for country in countries:
-        sub = df[df[country_col] == country].sort_values(year_col)
+    for region in regions:
+        sub = df[df[region_col] == region].sort_values(year_col)
         traces.append(go.Scatter(
             x=sub[year_col],
-            y=sub[deaths_col],
+            y=sub[gt_col],
             mode="lines+markers",
-            name=country,
-            line=dict(color=color_map[country], width=2),
+            name=region,
+            line=dict(color=color_map[region], width=2),
             marker=dict(size=4),
             visible=True,
         ))
 
+    print(regions)
     # ── Bottoni dropdown per selezionare paesi ───────────────────────────────────
     # "Tutti" + uno per ogni paese
     buttons = []
@@ -60,14 +61,19 @@ def plot_terrorism_deaths(df: pd.DataFrame,
     buttons.append(dict(
         label="All regions",
         method="update",
-        args=[{"visible": [True] * len(countries)}],
+        args=[{"visible": [True] * len(regions)}],
     ))
 
     # Bottone per ogni singolo paese
-    for i, country in enumerate(countries):
-        visible = [j == i for j in range(len(countries))]
+    regions_decoded=['Northern Arctic Canada','Southern Arctic Canada','Alaska','Antarctic and Subantarctic', 
+                     'Central Asia','Eastern Asia','Northern Asia','Western Asia','Caucasus','Central Europe',
+                     'Greenland','Iceland','New Zealand','Russian Arctic', 'Southern Andes 1', 'Southern Andes 2',
+                     'Scandinavia','Svalbard and Jan Mayen', 'Tropics','Western North America']
+    print(len(regions_decoded))
+    for i, region in enumerate(regions_decoded):
+        visible = [j == i for j in range(len(regions_decoded))]
         buttons.append(dict(
-            label=country,
+            label=region,
             method="update",
             args=[{"visible": visible}],
         ))
@@ -78,7 +84,7 @@ def plot_terrorism_deaths(df: pd.DataFrame,
 
     fig.update_layout(
         title=dict(
-            text="Terrorism Deaths",
+            text="Glacier mass change",
             font=dict(size=22, family="Georgia, serif"),
             x=0.02,
         ),
@@ -89,7 +95,7 @@ def plot_terrorism_deaths(df: pd.DataFrame,
             type="linear",
         ),
         yaxis=dict(
-            title="Confirmed deaths",
+            title="Glacier mass change (Gt)",
             gridcolor="#e0e0e0",
             gridwidth=1,
         ),
@@ -105,23 +111,23 @@ def plot_terrorism_deaths(df: pd.DataFrame,
             type="dropdown",
             direction="down",
             x=0.0,
-            y=1.12,
-            xanchor="left",
+            y=1.10,
+            xanchor="right",
             yanchor="top",
             bgcolor="white",
             bordercolor="#cccccc",
-            font=dict(size=13),
+            font=dict(size=13, family="Georgia, serif"),
             buttons=buttons,
             showactive=True,
         )],
         annotations=[dict(
-            text="Select region:",
+            text="Select regions:",
             x=0.0,
             y=1.17,
             xref="paper",
             yref="paper",
             showarrow=False,
-            font=dict(size=13),
+            font=dict(size=13, family="Georgia, serif"),
         )],
         plot_bgcolor="white",
         paper_bgcolor="white",
@@ -136,33 +142,14 @@ def plot_terrorism_deaths(df: pd.DataFrame,
 
     return fig
 
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+from src.data_loader import load_wgms_regions_gt
 
-# ── Demo con dati sintetici ──────────────────────────────────────────────────
-if __name__ == "__main__":
-    np.random.seed(42)
-    years     = list(range(1970, 2022))
-    countries = ["Afghanistan", "Iraq", "Syria", "Nigeria", "Colombia", "Yemen"]
 
-    rows = []
-    # Profili realistici per ogni paese
-    profiles = {
-        "Afghanistan": lambda y: max(0, int(500  * max(0, (y-2005)/5)**1.8 + np.random.normal(0,200))),
-        "Iraq":        lambda y: max(0, int(800  * np.exp(-((y-2006)**2)/18) + np.random.normal(0,150))),
-        "Syria":       lambda y: max(0, int(1200 * np.exp(-((y-2014)**2)/10) + np.random.normal(0,100))),
-        "Nigeria":     lambda y: max(0, int(600  * max(0, (y-2010)/4)**1.5  + np.random.normal(0,100))),
-        "Colombia":    lambda y: max(0, int(400  * np.exp(-((y-1990)**2)/80) + np.random.normal(0,80))),
-        "Yemen":       lambda y: max(0, int(500  * max(0, (y-2014)/3)**1.4  + np.random.normal(0,80))),
-    }
+df_demo=load_wgms_regions_gt()
+fig = plot_glacier_mass_change(df_demo)
+fig.show()
+print(len(df_demo['region'].unique()))
 
-    for country, fn in profiles.items():
-        for y in years:
-            rows.append({
-                "year": y,
-                "country": country,
-                "deaths": fn(y),
-            })
 
-    df_demo = pd.DataFrame(rows)
-
-    fig = plot_terrorism_deaths(df_demo)
-    fig.show()

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-84d39766398ab291fe175e353abfe31a"}, "mark": {"type": "bar"}, "encoding": {"color": {"condition": {"test": "(datum.mmsle > 0)", "value": "steelblue"}, "value": "lightblue"}, "tooltip": [{"field": "year", "type": "quantitative"}, {"field": "mmsle", "type": "quantitative"}], "x": {"field": "year", "title": "Years", "type": "ordinal"}, "y": {"field": "mmsle", "title": "Change in global mean sea level, mm", "type": "quantitative"}}, "title": "Millimeter sea level equivalent, 1976-2025", "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json", "datasets": {"data-84d39766398ab291fe175e353abfe31a": [{"year": 1976, "mmsle": -0.034}, {"year": 1977, "mmsle": 0.112}, {"year": 1978, "mmsle": 0.139}, {"year": 1979, "mmsle": 0.237}, {"year": 1980, "mmsle": -0.085}, {"year": 1981, "mmsle": -0.169}, {"year": 1982, "mmsle": 0.265}, {"year": 1983, "mmsle": -0.317}, {"year": 1984, "mmsle": 0.273}, {"year": 1985, "mmsle": 0.092}, {"year": 1986, "mmsle": 0.149}, {"year": 1987, "mmsle": -0.224}, {"year": 1988, "mmsle": -0.12}, {"year": 1989, "mmsle": 0.323}, {"year": 1990, "mmsle": 0.732}, {"year": 1991, "mmsle": 0.277}, {"year": 1992, "mmsle": -0.066}, {"year": 1993, "mmsle": 0.506}, {"year": 1994, "mmsle": 0.393}, {"year": 1995, "mmsle": 0.573}, {"year": 1996, "mmsle": 0.354}, {"year": 1997, "mmsle": 0.882}, {"year": 1998, "mmsle": 0.297}, {"year": 1999, "mmsle": 0.721}, {"year": 2000, "mmsle": 0.368}, {"year": 2001, "mmsle": 0.487}, {"year": 2002, "mmsle": 0.441}, {"year": 2003, "mmsle": 0.627}, {"year": 2004, "mmsle": 0.942}, {"year": 2005, "mmsle": 0.9}, {"year": 2006, "mmsle": 0.747}, {"year": 2007, "mmsle": 0.789}, {"year": 2008, "mmsle": 0.439}, {"year": 2009, "mmsle": 0.856}, {"year": 2010, "mmsle": 0.422}, {"year": 2011, "mmsle": 0.975}, {"year": 2012, "mmsle": 0.575}, {"year": 2013, "mmsle": 0.631}, {"year": 2014, "mmsle": 0.378}, {"year": 2015, "mmsle": 0.78}, {"year": 2016, "mmsle": 0.962}, {"year": 2017, "mmsle": 0.681}, {"year": 2018, "mmsle": 0.617}, {"year": 2019, "mmsle": 1.197}, {"year": 2020, "mmsle": 1.271}, {"year": 2021, "mmsle": 0.846}, {"year": 2022, "mmsle": 1.263}, {"year": 2023, "mmsle": 1.532}, {"year": 2024, "mmsle": 1.271}, {"year": 2025, "mmsle": 1.126}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
