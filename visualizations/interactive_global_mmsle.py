@@ -4,7 +4,7 @@ import plotly.express as px
 
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-from src.data_loader import  *
+from src.wgms_data_loader import  *
 
 df= load_wgms_global_mmsle()
 

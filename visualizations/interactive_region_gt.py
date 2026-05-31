@@ -144,7 +144,7 @@ def plot_glacier_mass_change(df: pd.DataFrame,
 
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-from src.data_loader import load_wgms_regions_gt
+from src.wgms_data_loader import load_wgms_regions_gt
 
 
 df_demo=load_wgms_regions_gt()
