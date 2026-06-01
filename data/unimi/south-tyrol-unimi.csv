@@ -1,215 +1,214 @@
-Glacier Name,ID Code,WGI Code,Mountain Sector,Mountain Catchment,Glacier Type,Area (km2),Area CGI (km2),Area WGI (km2),Aspect,Year,Notes
-Fontana Bianca / Weissbrunn,713,IT4L00110103,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Valsura - Lago Verde,Mountain,0.42,0.60,0.75,NE,2008,Include Fontana Bianca 1 (713.1) nel catasto CGI e WGI.
-Fontana Bianca 1 / Weissbrunn I,713.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Valsura - Lago Verde,Glacieret,0.01,E,2008,Compreso in Fontana Bianca (713).
-Pracupola / Kuppelwies,715,IT4L00110111,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Valsura,Mountain,0.09,0.22,0.23,NE,2008,
-Orecchia / Hasenohr,716,IT4L00112101,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima-Quaira,Mountain,0.16,0.46,NW,2008,
-Soi / Soy,718,IT4L00112105,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima - So,Mountain,0.41,1.06,0.94,N,2008,
-Gioveretto Superiore / Zufritt,719,IT4L00112108,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima - Gioveretto,Mountain,0.07,0.37,0.46,NW,2008,Include Gioveretto Superiore 1 (719.1).
-Gioveretto Superiore 1 / Zufritt 1,719.1,IT4L00112110,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima Gioveretto,Mountain,0.07,0.12,NW,2008,Compreso in Gioveretto Superiore (719).
-Gioveretto Inferiore Est / Zufritt II,720,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima - Gioveretto,Glacieret,0.02,NW,2008,Compreso in Gioveretto Superiore (719).
-Lorchen (Gioveretto Inf. Ovest),722,IT4L00112111,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima - Gioveretto,Mountain,0.20,0.34,0.43,N,2008,Denominato Gioveretto Inferiore Ovest nel CGI/WGI.
-Monache Est / Nonnen,723,IT4L00112112,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,0.19,0.69,0.61,N,2008,Include Monache Est I (723.1) e II (723.2).
-Monache Est 1 / Nonnen I,723.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,0.08,NE,2008,Compreso in Monache Est (723).
-Monache Est II / Nonnen II,723.2,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Glacieret,0.01,N,2008,Compreso in Monache Est (723).
-Monache Ovest / Nonnen III,725,IT4L00112114,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,0.17,0.47,0.42,NW,2008,Compreso in Monache Est (723) nel WGI.
-Grames / Gramsen,727,IT4L00112117,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,1.11,1.80,1.27,N,2008,
-Serana / Schran,728,IT4L00112120,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,0.85,1.03,1.18,N,2008,
-Vedretta Ultima / Ultenmarkt,729,IT4L00112121,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,0.32,0.43,0.46,N,2008,
-Vedretta Alta / Hohenferner,730,IT4L00112122,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,1.26,1.79,1.75,N,2008,Include Vedretta Alta 1 (730.1).
-Vedretta Alta 1 / Hohenferner I,730.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,0.02,N,2008,Compreso in Vedretta Alta (730).
-Forcola / Fkele,731,IT4L00112125,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Valley,1.77,2.10,2.52,NE,2008,Unito a Cevedale/Zufall (732) verso Nord.
-Cevedale / Zufall,732,IT4L00112126,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Valley,3.47,3.39,3.20,NE,2008,Unito a Forcola (731) verso Sud.
-Vedretta Lunga / Langenferner,733,IT4L00112128,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Valley,1.69,3.06,2.62,NE,2008,Include Vedretta Lunga 1 (733.1). Unito a Cevedale.
-Vedretta Lunga 1 / Langenferner I,733.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima,Mountain,0.07,SE,2008,Compreso in Vedretta Lunga (733).
-Pozzo / Butzen,735,IT4L00112130,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE -Plima,Mountain,0.05,0.19,E,2008,Classificato come estinto nel catasto CGI.
-Sluder / Schluder,741,IT4L00112140,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Plima- Sluder,Glacieret,0.02,0.15,E,2008,Estinto nel CGI. Denominato Schluder per la PAB.
-Lasa / Laaser,743,IT4L00112302,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Lasa,Mountain,1.03,1.11,5.05,N,2008,Nel WGI include Lasa 1 (744) per un'area tot di 5.05.
-Lasa I (Angelo Basso) / Laaser I,744,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Lasa,Mountain,3.23,3.35,NE,2008,Denominato Angelo Basso/Angelus nel CGI.
-Angelo Alto / Gror Angelus,745,IT4L00112303,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Lasa,Mountain,0.13,0.09,0.16,NE,2008,Denominato Angelo/Gror Angelus per la PAB.
-Forno / Ofenwand,746,IT4L00112304,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Lasa,Mountain,0.33,0.32,0.45,NE,2008,
-Angelo Piccolo / Kleiner Angelus,749,IT4L00112403,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.18,0.44,0.45,W,2008,Denominato Zai di Dentro (o Nord) nel CGI.
-Zai (Zai di Mezzo) / Zay,750,IT4L00112404,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.43,0.56,0.72,NW,2008,Denominato Zai di Mezzo nel WGI.
-Zai 1 (Zai di Fuori o Sud 1),751,IT4L00112405,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.29,0.45,0.61,N,2008,Include Zai II (751.1).
-Zai II (Zai di Fuori o Sud II),751.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Glacieret,0.01,E,2008,Compreso in Zai I (751).
-Cima Vertana Sud-Ovest / Vertainer,753,IT4L00112406,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Glacieret,0.02,SW,2008,Estinto nel CGI denominato Cima Vertana nel WGI.
-Rosim / Rosim,754,IT4L00112408,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda-Rosim,Mountain,0.56,0.61,0.78,NW,2008,Laste
- / Peder,755,IT4L00112409,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda-Rosim,Mountain,0.09,0.10,0.24,NW,2008,Denominato Peder di Dentro / Peder per la PAB.
-Beltovo (Basso) / Schtauf,757,IT4L00112411,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda-Rosim,Mountain,0.18,0.30,0.35,N,2008,Include Beltovo (Basso) 1 (757.1).
-Beltovo (Basso) 1 / Schtauf 1,757.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda-Rosim,Glacieret,0.01,S,2008,Compreso in Beltovo (Basso) (757).
-Passo Madriccio Sud-Sudovest,759,IT4L00112414,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.10,0.16,2008,Compreso nel WGI in Passo Madriccio (area tot 0.51).
-Madriccio / Ebenwand,760,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.08,0.22,0.51,W,2008,"WGI: ""Passo Madriccio"" (include 759 e 760.1)."
-Madriccio / Ebenwand I,760.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Glacieret,0.04,NW,2008,Compreso in Madriccio/Ebenwand (760).
-Solda / Sulden,762,IT4L00112417,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Valley,4.27,5.99,6.48,NE,2008,Include sussidiari 762.1 762.2 762.3 762.4.
-Solda 1 / Sulden 1,762.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,1.02,N,2008,Compreso in Solda (762).
-Solda II / Sulden II,762.2,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.09,SE,2008,Compreso in Solda (762).
-Solda III / Sulden III,762.3,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.09,N,2008,Compreso in Solda (762).
-Solda IV / Sulden IV,762.4,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.03,N,2008,Compreso in Solda (762).
-ZebrOvest,490,IT4L01137003,RETICHE MERIDIONALI - Ortles Cevedale,PO-Adda-Frodolfo,Mountain,Area Tot,Vedi Note,Vedi Note,SW,2007,Copre 0.67 in Alto Adige e 0.39 in Lombardia.
-Finimondo / Ende der Welt,763,IT4L00112420,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.49,0.39,0.92,NE,2008,Quasi interamente ricoperto da detrito.
-Marlet Alto / Marlt,764,IT4L00112421,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.06,0.07,0.73,NE,2008,Include Marlet Basso (765) e Basso 1 (765.1) nel WGI.
-Marlet Basso / Marlt,765,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.20,0.31,NE,2008,Include Marlet Basso 1 (765.1).
-Marlet Basso 1 / Marlt I,765.1,,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Solda,Mountain,0.06,N,2008,Compreso in Marlet Basso (765).
-Ortles Alto / Oberer Ortler,768,IT4L00112425,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Trafoi,Mountain,1.05,0.94,1.34,NW,2008,
-Ortles Basso / Niederer Ortler,769,IT4L.00112426,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Trafoi,Mountain,2.73,2.80,3.55,N,2008,
-Trafoi / Trafoier,770,IT4L00112427,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Trafoi,Mountain,0.95,0.75,1.37,N,2008,
-Madaccio / Madatsch,771,IT4L00112429,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Trafoi,Mountain,3.16,3.20,4.34,N,2008,Collegato a NW con Vedretta Piana (772).
-Vedretta Piana / Ebenferner,772,IT4L00112430,RETICHE MERIDIONALI - Ortles Cevedale,ADIGE-Trafoi,Mountain,0.27,0.50,0.71,NE,2008,Collegato a SE con Madaccio (771).
-Val China / Falgin,774,IT4L00112904,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin- Val China,Mountain,0.24,0.36,0.41,SW,2008,Include Val China 1 (774.1) nel CGI e WGI.
-Val China 1 / Falgin I,774.1,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin - Val China,Mountain,0.03,W,2008,Compreso in Val China (774).
-Croda / Gepatsch,776,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin,Mountain,3.55,4.00,8.55,SW,2008,Collegato al Gepatschferner (Austria).
-Vallelunga / Langtauferer,777,IT4L00112907,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin,Valley,3.74,3.90,Vedi Note,NW,2008,Incluso in Croda/Gepatsch (776) nel WGI (totale 8.55).
-Vallelunga 1 / Langtauferer 1,777.1,IT4L00112908,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin,Mountain,0.06,N,2008,Compreso in Vallelunga (777).
-Barbadorso di Dentro / Innerer Benbart,778,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin,Mountain,1.41,1.86,1.84,N,2008,Denominato Barbadorso/Benbart per la PAB.
-Barbadorso di Fuori,779,IT4L00112909,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin,Mountain,0.59,1.01,0.96,N,2008,Denominato Barbadorso/Benbart per la PAB.
-Fontana / Freibrunner,780,IT4L00112910,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin- Fontana,Mountain,0.63,1.14,1.10,N,2008,Include Fontana I II e III (780.1 780.2 780.3).
-Fontana I / Freibrunner I,780.1,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin- Fontana,Mountain,0.04,N,2008,Compreso in Fontana (780).
-Fontana II / Freibrunner II,780.2,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin Fontana,Mountain,0.03,SW,2008,Compreso in Fontana (780).
-Fontana III / Freibrunner III,780.3,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Carlin Fontana,Glacieret,0.01,SW,2008,Compreso in Fontana (780).
-Planol / Planail,784,IT4L00112603,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Puni,Mountain,0.74,1.20,1.12,W,2008,Include Planol 1 (784.1).
-Planol 1 / Planail I,784.1,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Puni,Glacieret,0.02,SW,2008,Compreso in Planol/Planail (784).
-Gabelz / Gawelz,787,IT4L00112501,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Saldura,Mountain,0.06,0.31,0.36,NW,2008,Denominato Gavelz/Gabelz nel CGI.
-Mazia / Matscher,788,IT4L00112506,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Saldura,Mountain,2.46,3.24,3.24,SW,2008,
-Oberettes di Ponente / Oberettes,789,IT4L00112509,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Saldura,Mountain,0.16,0.53,0.55,SW,2008,Denominato Oberettes Ovest nel WGI.
-Saldura Nord / Ndlicher Saldur,793,IT4L00112512,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Saldura,Mountain,0.06,0.43,0.20,NW,2008,Abbondante copertura detritica. Denominato Ndlicher Lazaun per la PAB.
-Saldura Sud / Slicher Saldur,794,IT4L00112513,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Saldura,Mountain,0.25,0.37,0.52,NW,2008,Copertura detritica a Nord. Include Saldura Sud 1.
-Saldura Sud I / Slicher Saldur 1,794.1,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Saldura,Mountain,0.03,N,2008,Compreso in Saldura Sud (794).
-Ramudla Nord / Ndlicher Ramudel,795,IT4L00112514,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Saldura,Mountain,0.25,0.33,0.41,NW,2008,Denominato Ramudla/Ramudel per la PAB.
-Ramudla Sud / Slicher Ramudel,796,IT4L00112515,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Saldura,Mountain,0.14,0.31,0.31,W,2008,Denominato Ramudla/Ramudel per la PAB.
-Lagaun / Lagaun,805,IT4L00113102,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Lagaun,Mountain,0.76,1.22,1.10,SE,2008,
-Lazzana Est / tl. Lazaun,807,IT4L00113105,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Lazaun,Mountain,0.08,0.22,0.26,NE,2008,Denominato Lazaun per la PAB.
-Lazzana Ovest / Westl. Lazaun,808,IT4L00113106,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Lazaun,Mountain,0.13,0.26,0.28,NE,2008,Denominato Lazaun per la PAB.
-Oberettes di Levante / tl. Schwemser,810,IT4L00113108,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fossalunga,Mountain,0.11,0.44,0.48,SE,2008,Include Oberettes di Levante 1 (810.1).
-Oberettes di Levante 1,810.1,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fossalunga,Glacieret,0.02,SE,2008,Compreso in Oberettes di Levante (810).
-Frane / Steinschlag,812,IT4L00113110,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales,Mountain,0.57,1.80,1.41,E,2008,
-Giego Alto / Hochjoch,813,IT4L00113113,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Cortirago,Mountain,0.95,2.00,1.63,N,2008,Transfluenza italiana dell'Hochjochferner austriaco.
-Finale / Finail,814,IT4L00113115,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Finale,Mountain,0.08,0.27,0.21,S,2008,
-Giogo Basso / Niederjoch,816,IT4L00113116,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Costa,Mountain,0.39,0.44,0.36,SW,2008,Include Giogo Basso 1 (816.1). Transfluenza.
-Giogo Basso I / Niederjoch I,816.1,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Costa,Glacieret,0.01,N,2008,Compreso in Giogo Basso/Niederjoch (816).
-Grava / Graf,818,IT4L00123201,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Mountain,1.59,2.35,1.96,S,2008,Denominato Fosse/Pfosser nel catasto CGI.
-Fosse / Roerg,821,IT4L00123205,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Glacieret,0.03,0.21,0.35,S,2008,
-Altissima / Kessel,822,IT4L00113211,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Mountain,0.12,0.18,0.32,W,2008,Denominato Altissima o Catino nel CGI.
-Fossa Est / tlicher Pfosser,823,IT4100113214,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Mountain,0.19,0.30,0.30,NW,2008,Forte copertura detritica da frana recente.
-Riotorbo Nord / Ndlicher Tr,826,IT4L00113217,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Mountain,0.08,0.16,0.16,N,2008,Indicato come tlicher Tr per la PAB.
-Riotorbo Ovest / Croda Rossa,827,IT4L00113218,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales - Fosse,Mountain,0.22,0.38,0.44,N,2008,PAB: Vedretta Piccola di Riotorbo/Ndlicher Tr.
-Croda Rossa / Rotwand,828,IT4L00113219,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Mountain,0.10,0.22,0.21,N,2008,
-Tessa / Texel,829,IT4L00113220,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Mountain,0.35,0.80,0.73,N,2008,Include Tessa 1 (829.1) e Tessa II (829.2).
-Tessa 1 / Texel 1,829.1,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Mountain,0.04,N,2008,Compreso in Tessa/Texel (829).
-Tessa II / Texel 11,829.2,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Senales- Fosse,Mountain,0.05,N,2008,Compreso in Tessa/Texel (829).
-Monte della Chiesa / Kirkbachspitz,835,IT4L00110308,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Telles- Serana,Glacieret,0.03,0.10,N,2008,Interamente coperto da detriti. Non in WGI.
-Lago Azzurro (Monterosso),839,IT4L00110309,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Telles- Lasa,Glacieret,0.03,0.52,0.40,NW,2008,Denominato Monterosso/Slicher Texel per la PAB. Detritico.
-Riotorbo Sud (o Grande) / Gr. Tr,840,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Telles-Torbo.,Mountain,0.14,0.33,0.50,NE,2008,Denominato Riotorbo Grande/Roteck per la PAB.
-Cima Fiammante Ovest / Westl. Lodner,842,IT4L00110312,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Telles,Mountain,0.07,0.24,0.25,NW,2008,Include Cima Fiammante Ovest 1.
-Cima Fiammante Ovest I,842.1,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Telles,Mountain,0.01,0.13,N,2008,Compreso in Cima Fiammante Ovest.
-Grava Centrale Est / tl. Zentr. Graf,851,IT4L00111209,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Telles,Glacieret,0.01,0.07,0.26,N,2008,WGI: Grava Centrale. PAB: Grava/Graf.
-Anime / Seelen,854,IT4L00111210,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Passirio- Plan,Glacieret,0.01,0.10,N,2008,
-Plan (Campo di Sabbia) / Plan,855,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Passirio-Plan,Mountain,0.36,0.60,0.59,E,2008,Denominato Plan nel WGI.
-Toro / Stier,856,IT4L00111215,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Passirio- Plan,Mountain,0.04,0.05,0.05,SE,2008,Denominato Hangender per la PAB.
-Lago Centrale / Zentr. Seeber,859,IT4L00111216,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE-Passirio- Plan,Mountain,0.31,1.00,0.98,N,2008,Include Lago Centrale 1 (859.1) e II (859.2).
-Lago Centrale 1 / Zentr. Seeber I,859.1,IT4L00111302,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE- Passirio del Lago,Mountain,0.24,N,2008,Compreso in Lago Centrale (859).
-Lago Centrale II / Zentr. Seeber II,859.2,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE- Passirio del Lago,Mountain,0.04,N,2008,Compreso in Lago Centrale (859).
-Lago Ovest / Westlicher Seeber,860,,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE- Passirio del Lago,Mountain,0.26,0.44,0.44,NE,2008,Denominato Principe/Westlicher Seeber per la PAB.
-Granati / Granaten,861,IT4L00111303,RETICHE ORIENTALI - Venoste Orientali e Passirie,ADIGE- Passirio del Lago,Mountain,0.29,0.39,0.43,NE,2008,Denominato Granati/Granat nel CGI.
-Capro Ovest (o Ghiacciaio Alto),865,IT4L00111304,RETICHE ORIENTALI - Breonie Occidentali,ADIGE- Passirio del Lago,Mountain,0.07,0.24,0.24,W,2008,Denominato Renferner per la PAB.
-Rocce Bianche (o Vedretta Nera),868,IT4L00111310),RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Passirio - Tumulo,Glacieret,0.05,0.39,0.17 / 0.43,NW / SE,2008,Denominato Timmels per la PAB. Esposizione doppia.
-Capro Est / Hangender,873,IT4L00111313,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Passirio - Tumulo,Mountain,0.30,0.37,0.08,N,2008,
-Parete Alta / Hochgwd,874,IT4L00121105,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco- Ridanna,Mountain,0.05,0.09,2008,Denominato Parete Alta/Hochwaend (874) nel CGI.
-Malavalle / eltal,875,IT4L00121107,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco- Ridanna,Mountain,6.27,8.71,9.42,E,2008,Include Malavalle I II e III (875.1 875.2 875.3).
-Malavalle 1 / eltal I,875.1,IT4L00121108,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco - Ridanna,Mountain,0.43,N,2008,Compreso in Malavalle (875).
-Malavalle II / eltal II,875.2,,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco- Ridanna,Mountain,0.23,S,2008,Compreso in Malavalle (875).
-Malavalle III / eltal III,875.3,,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco - Ridanna,Glacieret,0.01,S,2008,Compreso in Malavalle (875).
-Vedretta Pendente / Hangender,876,,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco - Ridanna,Mountain,0.83,1.33,1.38,S,2008,
-Montarso / Feuerstein,880,IT4L00121110,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco- Ridanna,Mountain,1.26,1.42,1.63,E,2008,
-Stua / Stuben,881,IT4L00121204,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco Fleres,Mountain,0.13,0.52,0.34,NE,2008,Include Stua 1 (881.1) nel CGI e WGI.
-Stua 1 / Stuben 1,881.1,IT4L00121206,RETICHE ORIENTALI - Breonie Occidentali,ADIGE-Isarco Fleres,Glacieret,0.02,NE,2008,Compreso in Stua/Stuben (881).
-Gran Vedretta Est / Grie883,IT4L00121206,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco Fleres,Mountain,0.27,0.32,0.42,NW,2008,Include Gran Vedretta Est 1 (883.1).
-Gran Vedretta Est 1 / Grie1,883.1,IT4L00121302,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco- Vizze,Glacieret,0.01,NW,2008,Compreso in Gran Vedretta Est (883).
-Gran Vedretta Ovest / Hochferner,884,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco- Vizze,Mountain,0.15,0.30,0.35,NW,2008,Include Gran Vedretta Ovest 1 (884.1).
-Gran Vedretta Ovest 1,884.1,IT4L00121303,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco- Vizze,Glacieret,0.02,NW,2008,Compreso in Gran Vedretta Ovest (884).
-Cima 3400 / tl. Weipitz,885,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Mountain,0.04,0.06,0.09,W,2008,Include Cima 3400 1 (885.1). PAB: Weipitz.
-Cima 3400 1 / tl. Weillspitz 1,885.1,IT4L00121304,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Glacieret,0.01,NW,2008,Compreso in Cima 3400 (885).
-Cima di Sopramonte Est,886,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco- Vizze,Mountain,0.08,0.10,0.12,N,2008,Include Cima di Sopramonte Est 1 (886.1).
-Cima di Sopramonte Est I,886.1,IT4L00121305,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco - Vizze,Glacieret,0.01,N,2008,Compreso in Cima di Sopramonte Est (886).
-Cima di Sopramonte Ovest,887,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco - Vizze,Glacieret,0.01,0.08,0.06,NW,2008,CGI: Cima di Sopramonte Ovest/Westl. Weipitzen.
-Quaira Bianca / Weisskar,889,IT4L00121306,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Mountain,1.02,1.31,1.41,SW,2008,Include Quaira Bianca 1 (889.1).
-Quaira Bianca 1 / Weisskar 1,889.1,IT4L00121309,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Glacieret,0.01,SW,2008,Compreso in Quaira Bianca (889).
-Gran Pilastro / Glieder,893,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Valley,1.62,2.50,2.62,SW,2008,Include sussidiari Gran Pilastro I II e III.
-Gran Pilastro I / Glieder 1,893.1,IT4100121313,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Glacieret,0.04,NW,2008,Compreso in Gran Pilastro (893).
-Gran Pilastro II / Glieder II,893.2,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Glacieret,0.04,NW,2008,Compreso in Gran Pilastro (893).
-Gran Pilastro III / Glieder III,893.3,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Glacieret,0.03,N,2008,Compreso in Gran Pilastro (893).
-Guardia Alta / Sl. Glieder,893a,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Mountain,0.13,0.27,0.31,N,2008,Include Guardia Alta I (893a.1). Totalmente detritico.
-Guardia Alta I,893a.1,IT4L00121314,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Mountain,0.03,N,2008,Compreso in Guardia Alta (893a).
-Punta Bianca Sud / Sl. Weiint,895,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Vizze,Mountain,0.17,0.34,0.30,S,2008,Denominato Punta Bianca/Weiint per la PAB.
-Punta Bianca Centrale,896,IT4L00123101,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.06,0.10,0.23,SE,2008,Denominato Punta Bianca/Weiint per la PAB.
-Punta Bianca Nord / Nordl. Weiint,897,IT4100123102,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.14,0.20,0.24,SE,2008,Denominato Gran Pilastro/Schlegeis per la PAB.
-Neves Ovest / Westlicher Neveser,900,IT4L00123104,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.46,0.70,0.91,S,2008,Include Neves Ovest 1 (900.1).
-Neves Ovest 1,900.1,IT4L00123107,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.03,E,2008,Compreso in Neves Ovest (900).
-Neves Centrale / Zentral Neveser,901,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.15,0.50,0.37,SE,2008,Include Neves Centrale 1 (901.1). PAB: Neves/tlicher Neveser.
-Neves Centrale 1,901.1,IT4L00123108,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.01,S,2008,Compreso in Neves Centrale (901).
-Neves Est / tl. Neveser,902,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,1.03,2.10,2.27,S,2008,Include Neves Est 1 (902.1).
-Neves Est 1 / tl. Neveser 1,902.1,IT4L00123109,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.14,NW,2008,Compreso in Neves Est (902).
-Vedretta di Dentro,904,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.37,0.82,0.68,SE,2008,Include Vedretta di Dentro I (904.1).
-Vedretta di Dentro 1,904.1,IT4L00123202,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.05,SW,2008,Compreso in Vedretta di Dentro (904).
-Rio di Mezzo / Mitterbach,905,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.07,0.23,0.35,SE,2008,Include Rio di Mezzo 1 (905.1).
-Rio di Mezzo 1 / Mitterbach I,905.1,IT4100123204,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.06,SE,2008,Compreso in Rio di Mezzo (905).
-Rio Nero / Schwarzenbach,906,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.39,0.56,0.81,S,2008,Include Rio Nero 1 (906.1).
-Rio Nero 1 / Schwarzenbach I,906.1,IT4L00123205,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.03,SE,2008,Compreso in Rio Nero (906).
-Rio Rosso / Rothach,907,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.09,0.68,0.42,E,2008,Include Rio Rosso 1 (907.1).
-Rio Rosso 1 / Rotbach I,907.1,IT4L00123207,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.02,E,2008,Compreso in Rio Rosso (907).
-Rio Torbo / Trippach,908,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.70,1.61,0.97,SE,2008,Include Rio Torbo I II III IV.
-Rio Torbo 1 / Trippach I,908.1,IT4L00123210,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.33,SE,2008,Compreso in Rio Torbo (908).
-Rio Torbo II / Trippach II,908.2,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.04,SE,2008,Compreso in Rio Torbo (908).
-Rio Torbo III / Trippach III,908.3,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.02,E,2008,Compreso in Rio Torbo (908).
-Rio Torbo IV / Trippach IV,908.4,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.01,SW,2008,Compreso in Rio Torbo (908).
-Punta Rio Torbo Sud-Ovest,908a,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.24,0.38,0.27,S,2008,Denominato Rio Torbo/Trippach per la PAB.
-Riofranco / Frankbach,909,IT4L00123211,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.30,0.62,0.52,SE,2008,Include Riofranco I II III IV.
-Riofranco I / Frankbach I,909.1,IT4L00123214,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.07,SE,2008,Compreso in Riofranco (909).
-Riofranco II / Frankbach II,909.2,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.03,E,2008,Compreso in Riofranco (909).
-Riofranco III / Frankbach III,909.3,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.03,SE,2008,Compreso in Riofranco (909).
-Riofranco IV / Frankbach IV,909.4,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.02,S,2008,Compreso in Riofranco (909).
-Punta del Conio Ovest,909a,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.15,0.21,0.23,SW,2008,Denominato Rio Torbo/Tribbach per la PAB.
-Punta del Conio Est,910,IT4L00123216,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Mountain,0.18,0.05,0.27,E,2008,Denominato Keilbach per la PAB.
-Giogo del Conio Sud-Est,910a,IT4L00123217,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.02,0.02,0.13,SW,2008,Include Giogo del Conio Sud-Est I (910a.1).
-Giogo del Conio Sud-Est 1,910a.1,IT4L00123218,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.01,SW,2008,Compreso in Giogo del Conio Sud-Est (910a).
-Punta di Valle / Wollbach,910b,,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.05,0.11,0.21,S,2008,Include Punta di Valle 1 (910b.1).
-Punta di Valle 1 / Wollbach I,910b.1,IT4L00123219,TAURI OCCIDENTALI - Breonie Orientali e Aurine,ADIGE-Isarco-Rienza,Glacieret,0.01,S,2008,Compreso in Punta di Valle (910b).
-Predoi / Prettau,912,,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.50,0.56,0.91,NW,2008,Include Predoi 1 (912.1).
-Predoi I / Prettau I,912.1,IT4L00123222,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.09,NW,2008,Compreso in Predoi (912).
-Lana / Ausseres Lahner,913,,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,1.01,1.32,1.69,NW,2008,CGI: Lana/ss. Lanacher. Include Lana 1 e II.
-Lana I / Ausseres Lahner I,913.1,IT4L00123223,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.10,SW,2008,Compreso in Lana (913).
-Lana II / Ausseres Lahner II,913.2,,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.16,NW,2008,Compreso in Lana (913).
-Pidi Cavallo Nord-Ovest,914,,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.15,0.17,0.36,NW,2008,
-Pidi Cavallo Sud-Ovest / Windtal,916,IT4L00123225,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.07,0.13,0.11 / 0.10,SW / NW,2008,Denominato Pidi Cavallo nel WGI.
-Cima del Vento Ovest / Westl. Ahrner,917,IT4L00123228,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE -Isarco-Rienza,Glacieret,0.01,0.02,2008,
-Valle del Vento (Destro),918a,IT4L00123230,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE -Isarco-Rienza,Glacieret,0.03,0.03,0.06,W,2008,CGI: Destra del Ghiacciaio di Valle del Vento.
-Valle del Vento / Sl. Windtal,919,IT4L00123232,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.19,0.27,0.36,NW,2008,
-Rosso Destro (Vedretta Rossa),920,IT4L00123233,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.60,0.72,0.88,W,2008,PAB: Vedretta Rossa/Rkees. Include 920.1.
-Rosso Destro 1,920.1,IT4L00123236,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Glacieret,0.02,NE,2008,Compreso in Rosso Destro (920).
-Rosso Sinistro (Vedretta Rossa),921,,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.29,0.32,0.45,NW,2008,PAB: Rkees. Include Rosso Sinistro I (921.1).
-Rosso Sinistro I,921.1,IT41.00123237,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Glacieret,0.05,NW,2008,Compreso in Rosso Sinistro (921).
-Bocchetta Caminata Nord / Kemater,921a,IT4L00123238,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Glacieret,0.01,0.05,0.10,NW,2008,Include Bocchetta Caminata Nord I (921a.1).
-Bocchetta Caminata Nord 1,921a.1,IT4L00123239,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,-Rienza ADIGE-Isarco,Glacieret,0.01,NE,2008,Compreso in Bocchetta Caminata Nord (921a).
-Valle Rossa / Rfleck,922,,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.23,0.52,0.49,N,2008,Include Valle Rossa I (922.1) e II (922.2).
-Valle Rossa 1 / Rfleck I,922.1,IT4L00123241,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.08,N,2008,Compreso in Valle Rossa (922).
-Valle Rossa II / Rfleck II,922.2,,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Glacieret,0.01,S,2008,Compreso in Valle Rossa (922).
-Pizzo Lungo Nord / Merb,923,,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Mountain,0.06,0.16,0.23,N,2008,Include Pizzo Lungo Nord 1 (923.1).
-Pizzo Lungo Nord 1 / Merb 1,923.1,IT4L00123242,TAURI OCCIDENTALI - Alti Tauri - Venediger Tre Signori,ADIGE-Isarco-Rienza,Glacieret,0.01,N,2008,Compreso in Pizzo Lungo Nord (923).
-Cima Dura / Durreck,925,,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.03,0.06,0.16,NW,2008,Include Cima Dura 1 (925.1). PAB: Klausen.
-Cima Dura I / Durreck 1,925.1,IT4L00123247,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.03,N,2008,Compreso in Cima Dura (925).
-Sassolungo Est / tl. Lengstein,925a,,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.07,0.19,0.26,W,2008,Include Sassolungo Est I e II. PAB: Lengstein.
-Sassolungo Est 1,925a.1,IT4L00123308,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.04,SW,2008,Compreso in Sassolungo Est (925a).
-Sassolungo Est II,925a.2,IT4L00123308,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.03,W,2008,Compreso in Sassolungo Est (925a).
-Sassolungo Central / Zentr. Lengstein,925b,IT4L00123308,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.14,0.18,NW,2008,WGI: compreso in Sassolungo Ovest. PAB: Lengstein.
-Sassolungo Ovest / Westl. Lengstein,926,,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,1.10,1.30,1.92,N,2008,Include Sassolungo Ovest 1 (926.1) e Centrale (925b).
-Sassolungo Ovest I,926.1,IT4100123309,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Glacieret,0.02,N,2008,Compreso in Sassolungo Ovest (926).
-Collalto / Hochgall,927,,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.50,0.47,0.83,NW,2008,Denominato anche Collalto-Collaspro.
-Gigante Est / tlicher Rieser,928,IT4L00123310,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.22,0.35,1.97,NW,2008,CGI: Collalto-Collaspro. Include Gigante Centrale.
-Gigante Centrale / Zentr. Rieser,929,IT4L00123311,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.67,1.43,NW,2008,CGI: Collaspro-Pianalto. Incluso in Gigante Orientale/Centrale (928) nel WGI.
-Gigante Occidentale,930,IT4L00123311,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,1.93,2.59,2.57,NW,2008,CGI: Gigante Occ. di M. Covoni o di M. Magro. PAB: Ries Ovest.
-Monte Nevoso / Schneebiger Nock,931,IT4L00123312,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.23,0.48,0.36,NW,2008,Include Monte Nevoso I II e III. WGI: M. Nevoso Est.
-Monte Nevoso 1,931.1,IT4L00123314,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.07,NE,2008,Compreso in Monte Nevoso (931).
-Monte Nevoso II,931.2,,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.05,NE,2008,Compreso in Monte Nevoso (931).
-Monte Nevoso III (Ndl. Geltal),931.3,,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Glacieret,0.01,N,2008,PAB: Ndl. Geltal.
-Val Fredda / Geltal,932,,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.20,1.01,N,2008,Classificato estinto nel CGI. Include Val Fredda 1 (932.1) nel WGI.
-Val Fredda I / Geltal 1,932.1,IT4L00123316,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Mountain,0.19,N,2008,CGI: compreso in Val Fredda e istituito come estinto.
-Casavecchia / Althaus,933,,TAURI OCCIDENTALI - Pusteresi - Vedrette di Ries,ADIGE-Isarco-Rienza,Glacieret,0.13,0.46,N,2008,Classificato come estinto nel catasto CGI.
-,,IT4L00123317,,ADIGE-Isarco-Rienza,,,,,,,
+Glacier Name,ID Code,WGI Code,Mountain Sector,Mountain Group,Mountain Catchment,Glacier Type,Area (km2),Area CGI (km2),Area WGI (km2),Aspect,Year,Notes
+Fontana Bianca / Weissbrunn,713,IT4L00110103,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Valsura - Lago Verde,Mountain,0.42,0.60,0.75,NE,2008,Include Fontana Bianca 1 (713.1) nel catasto CGI e WGI.
+Fontana Bianca 1 / Weissbrunn I,713.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Valsura - Lago Verde,Glacieret,0.01,,,E,2008,Compreso in Fontana Bianca (713).
+Pracupola / Kuppelwies,715,IT4L00110111,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Valsura,Mountain,0.09,0.22,0.23,NE,2008,
+Orecchia / Hasenohr,716,IT4L00112101,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima-Quaira,Mountain,0.16,0.46,,NW,2008,
+Soi / Soy,718,IT4L00112105,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima - So,Mountain,0.41,1.06,0.94,N,2008,
+Gioveretto Superiore / Zufritt,719,IT4L00112108,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima - Gioveretto,Mountain,0.07,0.37,0.46,NW,2008,Include Gioveretto Superiore 1 (719.1).
+Gioveretto Superiore 1 / Zufritt 1,719.1,IT4L00112110,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima Gioveretto,Mountain,0.07,0.12,,NW,2008,Compreso in Gioveretto Superiore (719).
+Gioveretto Inferiore Est / Zufritt II,720,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima - Gioveretto,Glacieret,0.02,,,NW,2008,Compreso in Gioveretto Superiore (719).
+Lorchen (Gioveretto Inf. Ovest),722,IT4L00112111,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima - Gioveretto,Mountain,0.20,0.34,0.43,N,2008,Denominato Gioveretto Inferiore Ovest nel CGI/WGI.
+Monache Est / Nonnen,723,IT4L00112112,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,0.19,0.69,0.61,N,2008,Include Monache Est I (723.1) e II (723.2).
+Monache Est 1 / Nonnen I,723.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,0.08,,,NE,2008,Compreso in Monache Est (723).
+Monache Est II / Nonnen II,723.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Glacieret,0.01,,,N,2008,Compreso in Monache Est (723).
+Monache Ovest / Nonnen III,725,IT4L00112114,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,0.17,0.47,0.42,NW,2008,Compreso in Monache Est (723) nel WGI.
+Grames / Gramsen,727,IT4L00112117,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,1.11,1.80,1.27,N,2008,
+Serana / Schran,728,IT4L00112120,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,0.85,1.03,1.18,N,2008,
+Vedretta Ultima / Ultenmarkt,729,IT4L00112121,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,0.32,0.43,0.46,N,2008,
+Vedretta Alta / Hohenferner,730,IT4L00112122,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,1.26,1.79,1.75,N,2008,Include Vedretta Alta 1 (730.1).
+Vedretta Alta 1 / Hohenferner I,730.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,0.02,,,N,2008,Compreso in Vedretta Alta (730).
+Forcola / Fkele,731,IT4L00112125,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Valley,1.77,2.10,2.52,NE,2008,Unito a Cevedale/Zufall (732) verso Nord.
+Cevedale / Zufall,732,IT4L00112126,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Valley,3.47,3.39,3.20,NE,2008,Unito a Forcola (731) verso Sud.
+Vedretta Lunga / Langenferner,733,IT4L00112128,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Valley,1.69,3.06,2.62,NE,2008,Include Vedretta Lunga 1 (733.1). Unito a Cevedale.
+Vedretta Lunga 1 / Langenferner I,733.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima,Mountain,0.07,,,SE,2008,Compreso in Vedretta Lunga (733).
+Pozzo / Butzen,735,IT4L00112130,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE -Plima,Mountain,0.05,0.19,,E,2008,Classificato come estinto nel catasto CGI.
+Sluder / Schluder,741,IT4L00112140,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Plima- Sluder,Glacieret,0.02,0.15,,E,2008,Estinto nel CGI. Denominato Schluder per la PAB.
+Lasa / Laaser,743,IT4L00112302,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Lasa,Mountain,1.03,1.11,5.05,N,2008,"Nel WGI include Lasa 1 (744) per un'area tot di 5.05."
+Lasa I (Angelo Basso) / Laaser I,744,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Lasa,Mountain,3.23,3.35,,NE,2008,Denominato Angelo Basso/Angelus nel CGI.
+Angelo Alto / Gror Angelus,745,IT4L00112303,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Lasa,Mountain,0.13,0.09,0.16,NE,2008,Denominato Angelo/Gror Angelus per la PAB.
+Forno / Ofenwand,746,IT4L00112304,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Lasa,Mountain,0.33,0.32,0.45,NE,2008,
+Angelo Piccolo / Kleiner Angelus,749,IT4L00112403,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.18,0.44,0.45,W,2008,Denominato Zai di Dentro (o Nord) nel CGI.
+Zai (Zai di Mezzo) / Zay,750,IT4L00112404,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.43,0.56,0.72,NW,2008,Denominato Zai di Mezzo nel WGI.
+Zai 1 (Zai di Fuori o Sud 1),751,IT4L00112405,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.29,0.45,0.61,N,2008,Include Zai II (751.1).
+Zai II (Zai di Fuori o Sud II),751.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Glacieret,0.01,,,E,2008,Compreso in Zai I (751).
+Cima Vertana Sud-Ovest / Vertainer,753,IT4L00112406,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Glacieret,0.02,,,SW,2008,Estinto nel CGI denominato Cima Vertana nel WGI.
+Rosim / Rosim,754,IT4L00112408,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda-Rosim,Mountain,0.56,0.61,0.78,NW,2008,
+Laste / Peder,755,IT4L00112409,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda-Rosim,Mountain,0.09,0.10,0.24,NW,2008,Denominato Peder di Dentro / Peder per la PAB.
+Beltovo (Basso) / Schtauf,757,IT4L00112411,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda-Rosim,Mountain,0.18,0.30,0.35,N,2008,Include Beltovo (Basso) 1 (757.1).
+Beltovo (Basso) 1 / Schtauf 1,757.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda-Rosim,Glacieret,0.01,,,S,2008,Compreso in Beltovo (Basso) (757).
+Passo Madriccio Sud-Sudovest,759,IT4L00112414,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.10,0.16,,,2008,Compreso nel WGI in Passo Madriccio (area tot 0.51).
+Madriccio / Ebenwand,760,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.08,0.22,0.51,W,2008,"WGI: ""Passo Madriccio"" (include 759 e 760.1)."
+Madriccio / Ebenwand I,760.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Glacieret,0.04,,,NW,2008,Compreso in Madriccio/Ebenwand (760).
+Solda / Sulden,762,IT4L00112417,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Valley,4.27,5.99,6.48,NE,2008,Include sussidiari 762.1 762.2 762.3 762.4.
+Solda 1 / Sulden 1,762.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,1.02,,,N,2008,Compreso in Solda (762).
+Solda II / Sulden II,762.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.09,,,SE,2008,Compreso in Solda (762).
+Solda III / Sulden III,762.3,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.09,,,N,2008,Compreso in Solda (762).
+Solda IV / Sulden IV,762.4,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.03,,,N,2008,Compreso in Solda (762).
+ZebrOvest,490,IT4L01137003,SOUTHERN RHAETIAN ALPS,Ortler Alps,PO-Adda-Frodolfo,Mountain,Area Tot,Vedi Note,Vedi Note,SW,2007,Copre 0.67 in Alto Adige e 0.39 in Lombardia.
+Finimondo / Ende der Welt,763,IT4L00112420,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.49,0.39,0.92,NE,2008,Quasi interamente ricoperto da detrito.
+Marlet Alto / Marlt,764,IT4L00112421,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.06,0.07,0.73,NE,2008,Include Marlet Basso (765) e Basso 1 (765.1) nel WGI.
+Marlet Basso / Marlt,765,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.20,0.31,,NE,2008,Include Marlet Basso 1 (765.1).
+Marlet Basso 1 / Marlt I,765.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Solda,Mountain,0.06,,,N,2008,Compreso in Marlet Basso (765).
+Ortles Alto / Oberer Ortler,768,IT4L00112425,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Trafoi,Mountain,1.05,0.94,1.34,NW,2008,
+Ortles Basso / Niederer Ortler,769,IT4L.00112426,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Trafoi,Mountain,2.73,2.80,3.55,N,2008,
+Trafoi / Trafoier,770,IT4L00112427,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Trafoi,Mountain,0.95,0.75,1.37,N,2008,
+Madaccio / Madatsch,771,IT4L00112429,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Trafoi,Mountain,3.16,3.20,4.34,N,2008,Collegato a NW con Vedretta Piana (772).
+Vedretta Piana / Ebenferner,772,IT4L00112430,SOUTHERN RHAETIAN ALPS,Ortler Alps,ADIGE-Trafoi,Mountain,0.27,0.50,0.71,NE,2008,Collegato a SE con Madaccio (771).
+Val China / Falgin,774,IT4L00112904,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin- Val China,Mountain,0.24,0.36,0.41,SW,2008,Include Val China 1 (774.1) nel CGI e WGI.
+Val China 1 / Falgin I,774.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin - Val China,Mountain,0.03,,,W,2008,Compreso in Val China (774).
+Croda / Gepatsch,776,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin,Mountain,3.55,4.00,8.55,SW,2008,Collegato al Gepatschferner (Austria).
+Vallelunga / Langtauferer,777,IT4L00112907,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin,Valley,3.74,3.90,Vedi Note,NW,2008,"Incluso in Croda/Gepatsch (776) nel WGI (totale 8.55)."
+Vallelunga 1 / Langtauferer 1,777.1,IT4L00112908,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin,Mountain,0.06,,,N,2008,Compreso in Vallelunga (777).
+Barbadorso di Dentro / Innerer Benbart,778,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin,Mountain,1.41,1.86,1.84,N,2008,Denominato Barbadorso/Benbart per la PAB.
+Barbadorso di Fuori,779,IT4L00112909,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin,Mountain,0.59,1.01,0.96,N,2008,Denominato Barbadorso/Benbart per la PAB.
+Fontana / Freibrunner,780,IT4L00112910,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin- Fontana,Mountain,0.63,1.14,1.10,N,2008,Include Fontana I II e III (780.1 780.2 780.3).
+Fontana I / Freibrunner I,780.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin- Fontana,Mountain,0.04,,,N,2008,Compreso in Fontana (780).
+Fontana II / Freibrunner II,780.2,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin Fontana,Mountain,0.03,,,SW,2008,Compreso in Fontana (780).
+Fontana III / Freibrunner III,780.3,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Carlin Fontana,Glacieret,0.01,,,SW,2008,Compreso in Fontana (780).
+Planol / Planail,784,IT4L00112603,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Puni,Mountain,0.74,1.20,1.12,W,2008,Include Planol 1 (784.1).
+Planol 1 / Planail I,784.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Puni,Glacieret,0.02,,,SW,2008,Compreso in Planol/Planail (784).
+Gabelz / Gawelz,787,IT4L00112501,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Saldura,Mountain,0.06,0.31,0.36,NW,2008,Denominato Gavelz/Gabelz nel CGI.
+Mazia / Matscher,788,IT4L00112506,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Saldura,Mountain,2.46,3.24,3.24,SW,2008,
+Oberettes di Ponente / Oberettes,789,IT4L00112509,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Saldura,Mountain,0.16,0.53,0.55,SW,2008,Denominato Oberettes Ovest nel WGI.
+Saldura Nord / Ndlicher Saldur,793,IT4L00112512,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Saldura,Mountain,0.06,0.43,0.20,NW,2008,Abbondante copertura detritica. Denominato Ndlicher Lazaun per la PAB.
+Saldura Sud / Slicher Saldur,794,IT4L00112513,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Saldura,Mountain,0.25,0.37,0.52,NW,2008,Copertura detritica a Nord. Include Saldura Sud 1.
+Saldura Sud I / Slicher Saldur 1,794.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Saldura,Mountain,0.03,,,N,2008,Compreso in Saldura Sud (794).
+Ramudla Nord / Ndlicher Ramudel,795,IT4L00112514,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Saldura,Mountain,0.25,0.33,0.41,NW,2008,Denominato Ramudla/Ramudel per la PAB.
+Ramudla Sud / Slicher Ramudel,796,IT4L00112515,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Saldura,Mountain,0.14,0.31,0.31,W,2008,Denominato Ramudla/Ramudel per la PAB.
+Lagaun / Lagaun,805,IT4L00113102,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Lagaun,Mountain,0.76,1.22,1.10,SE,2008,
+Lazzana Est / tl. Lazaun,807,IT4L00113105,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Lazaun,Mountain,0.08,0.22,0.26,NE,2008,Denominato Lazaun per la PAB.
+Lazzana Ovest / Westl. Lazaun,808,IT4L00113106,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Lazaun,Mountain,0.13,0.26,0.28,NE,2008,Denominato Lazaun per la PAB.
+Oberettes di Levante / tl. Schwemser,810,IT4L00113108,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fossalunga,Mountain,0.11,0.44,0.48,SE,2008,Include Oberettes di Levante 1 (810.1).
+Oberettes di Levante 1,810.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fossalunga,Glacieret,0.02,,,SE,2008,Compreso in Oberettes di Levante (810).
+Frane / Steinschlag,812,IT4L00113110,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales,Mountain,0.57,1.80,1.41,E,2008,
+Giego Alto / Hochjoch,813,IT4L00113113,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Cortirago,Mountain,0.95,2.00,1.63,N,2008,Transfluenza italiana dell'Hochjochferner austriaco.
+Finale / Finail,814,IT4L00113115,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Finale,Mountain,0.08,0.27,0.21,S,2008,
+Giogo Basso / Niederjoch,816,IT4L00113116,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Costa,Mountain,0.39,0.44,0.36,SW,2008,Include Giogo Basso 1 (816.1). Transfluenza.
+Giogo Basso I / Niederjoch I,816.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Costa,Glacieret,0.01,,,N,2008,Compreso in Giogo Basso/Niederjoch (816).
+Grava / Graf,818,IT4L00123201,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Mountain,1.59,2.35,1.96,S,2008,Denominato Fosse/Pfosser nel catasto CGI.
+Fosse / Roerg,821,IT4L00123205,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Glacieret,0.03,0.21,0.35,S,2008,
+Altissima / Kessel,822,IT4L00113211,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Mountain,0.12,0.18,0.32,W,2008,Denominato Altissima o Catino nel CGI.
+Fossa Est / tlicher Pfosser,823,IT4100113214,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Mountain,0.19,0.30,0.30,NW,2008,Forte copertura detritica da frana recente.
+Riotorbo Nord / Ndlicher Tr,826,IT4L00113217,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Mountain,0.08,0.16,0.16,N,2008,Indicato come tlicher Tr per la PAB.
+Riotorbo Ovest / Croda Rossa,827,IT4L00113218,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales - Fosse,Mountain,0.22,0.38,0.44,N,2008,"PAB: Vedretta Piccola di Riotorbo/Ndlicher Tr."
+Croda Rossa / Rotwand,828,IT4L00113219,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Mountain,0.10,0.22,0.21,N,2008,
+Tessa / Texel,829,IT4L00113220,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Mountain,0.35,0.80,0.73,N,2008,Include Tessa 1 (829.1) e Tessa II (829.2).
+Tessa 1 / Texel 1,829.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Mountain,0.04,,,N,2008,Compreso in Tessa/Texel (829).
+Tessa II / Texel 11,829.2,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Senales- Fosse,Mountain,0.05,,,N,2008,Compreso in Tessa/Texel (829).
+Monte della Chiesa / Kirkbachspitz,835,IT4L00110308,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Telles- Serana,Glacieret,0.03,0.10,,N,2008,Interamente coperto da detriti. Non in WGI.
+Lago Azzurro (Monterosso),839,IT4L00110309,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Telles- Lasa,Glacieret,0.03,0.52,0.40,NW,2008,Denominato Monterosso/Slicher Texel per la PAB. Detritico.
+Riotorbo Sud (o Grande) / Gr. Tr,840,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Telles-Torbo.,Mountain,0.14,0.33,0.50,NE,2008,Denominato Riotorbo Grande/Roteck per la PAB.
+Cima Fiammante Ovest / Westl. Lodner,842,IT4L00110312,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Telles,Mountain,0.07,0.24,0.25,NW,2008,Include Cima Fiammante Ovest 1.
+Cima Fiammante Ovest I,842.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Telles,Mountain,0.01,0.13,,N,2008,Compreso in Cima Fiammante Ovest.
+Grava Centrale Est / tl. Zentr. Graf,851,IT4L00111209,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Telles,Glacieret,0.01,0.07,0.26,N,2008,WGI: Grava Centrale. PAB: Grava/Graf.
+Anime / Seelen,854,IT4L00111210,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Passirio- Plan,Glacieret,0.01,0.10,,N,2008,
+Plan (Campo di Sabbia) / Plan,855,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Passirio-Plan,Mountain,0.36,0.60,0.59,E,2008,Denominato Plan nel WGI.
+Toro / Stier,856,IT4L00111215,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Passirio- Plan,Mountain,0.04,0.05,0.05,SE,2008,Denominato Hangender per la PAB.
+Lago Centrale / Zentr. Seeber,859,IT4L00111216,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE-Passirio- Plan,Mountain,0.31,1.00,0.98,N,2008,Include Lago Centrale 1 (859.1) e II (859.2).
+Lago Centrale 1 / Zentr. Seeber I,859.1,IT4L00111302,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE- Passirio del Lago,Mountain,0.24,,,N,2008,Compreso in Lago Centrale (859).
+Lago Centrale II / Zentr. Seeber II,859.2,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE- Passirio del Lago,Mountain,0.04,,,N,2008,Compreso in Lago Centrale (859).
+Lago Ovest / Westlicher Seeber,860,,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE- Passirio del Lago,Mountain,0.26,0.44,0.44,NE,2008,Denominato Principe/Westlicher Seeber per la PAB.
+Granati / Granaten,861,IT4L00111303,EASTERN RHAETIAN ALPS,Ötztal Alps,ADIGE- Passirio del Lago,Mountain,0.29,0.39,0.43,NE,2008,Denominato Granati/Granat nel CGI.
+Capro Ovest (o Ghiacciaio Alto),865,IT4L00111304,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE- Passirio del Lago,Mountain,0.07,0.24,0.24,W,2008,Denominato Renferner per la PAB.
+Rocce Bianche (o Vedretta Nera),868,IT4L00111310,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Passirio - Tumulo,Glacieret,0.05,0.39,"0.17 / 0.43","NW / SE",2008,Denominato Timmels per la PAB. Esposizione doppia.
+Capro Est / Hangender,873,IT4L00111313,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Passirio - Tumulo,Mountain,0.30,0.37,0.08,N,2008,
+Parete Alta / Hochgwd,874,IT4L00121105,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco- Ridanna,Mountain,0.05,0.09,,,2008,Denominato Parete Alta/Hochwaend (874) nel CGI.
+Malavalle / eltal,875,IT4L00121107,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco- Ridanna,Mountain,6.27,8.71,9.42,E,2008,Include Malavalle I II e III (875.1 875.2 875.3).
+Malavalle 1 / eltal I,875.1,IT4L00121108,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco - Ridanna,Mountain,0.43,,,N,2008,Compreso in Malavalle (875).
+Malavalle II / eltal II,875.2,,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco- Ridanna,Mountain,0.23,,,S,2008,Compreso in Malavalle (875).
+Malavalle III / eltal III,875.3,,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco - Ridanna,Glacieret,0.01,,,S,2008,Compreso in Malavalle (875).
+Vedretta Pendente / Hangender,876,,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco - Ridanna,Mountain,0.83,1.33,1.38,S,2008,
+Montarso / Feuerstein,880,IT4L00121110,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco- Ridanna,Mountain,1.26,1.42,1.63,E,2008,
+Stua / Stuben,881,IT4L00121204,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco Fleres,Mountain,0.13,0.52,0.34,NE,2008,Include Stua 1 (881.1) nel CGI e WGI.
+Stua 1 / Stuben 1,881.1,IT4L00121206,EASTERN RHAETIAN ALPS,Stubai Alps,ADIGE-Isarco Fleres,Glacieret,0.02,,,NE,2008,Compreso in Stua/Stuben (881).
+Gran Vedretta Est / Grie,883,IT4L00121206,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco Fleres,Mountain,0.27,0.32,0.42,NW,2008,Include Gran Vedretta Est 1 (883.1).
+Gran Vedretta Est 1 / Grie,883.1,IT4L00121302,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco- Vizze,Glacieret,0.01,,,NW,2008,Compreso in Gran Vedretta Est (883).
+Gran Vedretta Ovest / Hochferner,884,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco- Vizze,Mountain,0.15,0.30,0.35,NW,2008,Include Gran Vedretta Ovest 1 (884.1).
+Gran Vedretta Ovest 1,884.1,IT4L00121303,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco- Vizze,Glacieret,0.02,,,NW,2008,Compreso in Gran Vedretta Ovest (884).
+Cima 3400 / tl. Weipitz,885,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Mountain,0.04,0.06,0.09,W,2008,Include Cima 3400 1 (885.1). PAB: Weipitz.
+Cima 3400 1 / tl. Weillspitz 1,885.1,IT4L00121304,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Glacieret,0.01,,,NW,2008,Compreso in Cima 3400 (885).
+Cima di Sopramonte Est,886,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco- Vizze,Mountain,0.08,0.10,0.12,N,2008,Include Cima di Sopramonte Est 1 (886.1).
+Cima di Sopramonte Est I,886.1,IT4L00121305,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco - Vizze,Glacieret,0.01,,,N,2008,Compreso in Cima di Sopramonte Est (886).
+Cima di Sopramonte Ovest,887,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco - Vizze,Glacieret,0.01,0.08,0.06,NW,2008,CGI: Cima di Sopramonte Ovest/Westl. Weipitzen.
+Quaira Bianca / Weisskar,889,IT4L00121306,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Mountain,1.02,1.31,1.41,SW,2008,Include Quaira Bianca 1 (889.1).
+Quaira Bianca 1 / Weisskar 1,889.1,IT4L00121309,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Glacieret,0.01,,,SW,2008,Compreso in Quaira Bianca (889).
+Gran Pilastro / Glieder,893,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Valley,1.62,2.50,2.62,SW,2008,Include sussidiari Gran Pilastro I II e III.
+Gran Pilastro I / Glieder 1,893.1,IT4100121313,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Glacieret,0.04,,,NW,2008,Compreso in Gran Pilastro (893).
+Gran Pilastro II / Glieder II,893.2,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Glacieret,0.04,,,NW,2008,Compreso in Gran Pilastro (893).
+Gran Pilastro III / Glieder III,893.3,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Glacieret,0.03,,,N,2008,Compreso in Gran Pilastro (893).
+Guardia Alta / Sl. Glieder,893a,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Mountain,0.13,0.27,0.31,N,2008,Include Guardia Alta I (893a.1). Totalmente detritico.
+Guardia Alta I,893a.1,IT4L00121314,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Mountain,0.03,,,N,2008,Compreso in Guardia Alta (893a).
+Punta Bianca Sud / Sl. Weiint,895,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Vizze,Mountain,0.17,0.34,0.30,S,2008,Denominato Punta Bianca/Weiint per la PAB.
+Punta Bianca Centrale,896,IT4L00123101,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.06,0.10,0.23,SE,2008,Denominato Punta Bianca/Weiint per la PAB.
+Punta Bianca Nord / Nordl. Weiint,897,IT4100123102,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.14,0.20,0.24,SE,2008,Denominato Gran Pilastro/Schlegeis per la PAB.
+Neves Ovest / Westlicher Neveser,900,IT4L00123104,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.46,0.70,0.91,S,2008,Include Neves Ovest 1 (900.1).
+Neves Ovest 1,900.1,IT4L00123107,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.03,,,E,2008,Compreso in Neves Ovest (900).
+Neves Centrale / Zentral Neveser,901,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.15,0.50,0.37,SE,2008,Include Neves Centrale 1 (901.1). PAB: Neves/tlicher Neveser.
+Neves Centrale 1,901.1,IT4L00123108,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.01,,,S,2008,Compreso in Neves Centrale (901).
+Neves Est / tl. Neveser,902,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,1.03,2.10,2.27,S,2008,Include Neves Est 1 (902.1).
+Neves Est 1 / tl. Neveser 1,902.1,IT4L00123109,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.14,,,NW,2008,Compreso in Neves Est (902).
+Vedretta di Dentro,904,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.37,0.82,0.68,SE,2008,Include Vedretta di Dentro I (904.1).
+Vedretta di Dentro 1,904.1,IT4L00123202,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.05,,,SW,2008,Compreso in Vedretta di Dentro (904).
+Rio di Mezzo / Mitterbach,905,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.07,0.23,0.35,SE,2008,Include Rio di Mezzo 1 (905.1).
+Rio di Mezzo 1 / Mitterbach I,905.1,IT4100123204,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.06,,,SE,2008,Compreso in Rio di Mezzo (905).
+Rio Nero / Schwarzenbach,906,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.39,0.56,0.81,S,2008,Include Rio Nero 1 (906.1).
+Rio Nero 1 / Schwarzenbach I,906.1,IT4L00123205,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.03,,,SE,2008,Compreso in Rio Nero (906).
+Rio Rosso / Rothach,907,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.09,0.68,0.42,E,2008,Include Rio Rosso 1 (907.1).
+Rio Rosso 1 / Rotbach I,907.1,IT4L00123207,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.02,,,E,2008,Compreso in Rio Rosso (907).
+Rio Torbo / Trippach,908,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.70,1.61,0.97,SE,2008,Include Rio Torbo I II III IV.
+Rio Torbo 1 / Trippach I,908.1,IT4L00123210,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.33,,,SE,2008,Compreso in Rio Torbo (908).
+Rio Torbo II / Trippach II,908.2,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.04,,,SE,2008,Compreso in Rio Torbo (908).
+Rio Torbo III / Trippach III,908.3,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.02,,,E,2008,Compreso in Rio Torbo (908).
+Rio Torbo IV / Trippach IV,908.4,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.01,,,SW,2008,Compreso in Rio Torbo (908).
+Punta Rio Torbo Sud-Ovest,908a,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.24,0.38,0.27,S,2008,Denominato Rio Torbo/Trippach per la PAB.
+Riofranco / Frankbach,909,IT4L00123211,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.30,0.62,0.52,SE,2008,Include Riofranco I II III IV.
+Riofranco I / Frankbach I,909.1,IT4L00123214,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.07,,,SE,2008,Compreso in Riofranco (909).
+Riofranco II / Frankbach II,909.2,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.03,,,E,2008,Compreso in Riofranco (909).
+Riofranco III / Frankbach III,909.3,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.03,,,SE,2008,Compreso in Riofranco (909).
+Riofranco IV / Frankbach IV,909.4,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.02,,,S,2008,Compreso in Riofranco (909).
+Punta del Conio Ovest,909a,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.15,0.21,0.23,SW,2008,Denominato Rio Torbo/Tribbach per la PAB.
+Punta del Conio Est,910,IT4L00123216,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Mountain,0.18,0.05,0.27,E,2008,Denominato Keilbach per la PAB.
+Giogo del Conio Sud-Est,910a,IT4L00123217,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.02,0.02,0.13,SW,2008,Include Giogo del Conio Sud-Est I (910a.1).
+Giogo del Conio Sud-Est 1,910a.1,IT4L00123218,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.01,,,SW,2008,Compreso in Giogo del Conio Sud-Est (910a).
+Punta di Valle / Wollbach,910b,,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.05,0.11,0.21,S,2008,Include Punta di Valle 1 (910b.1).
+Punta di Valle 1 / Wollbach I,910b.1,IT4L00123219,EASTERN RHAETIAN ALPS,Zillertal Alps,ADIGE-Isarco-Rienza,Glacieret,0.01,,,S,2008,Compreso in Punta di Valle (910b).
+Predoi / Prettau,912,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.50,0.56,0.91,NW,2008,Include Predoi 1 (912.1).
+Predoi I / Prettau I,912.1,IT4L00123222,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.09,,,NW,2008,Compreso in Predoi (912).
+Lana / Ausseres Lahner,913,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,1.01,1.32,1.69,NW,2008,CGI: Lana/ss. Lanacher. Include Lana 1 e II.
+Lana I / Ausseres Lahner I,913.1,IT4L00123223,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.10,,,SW,2008,Compreso in Lana (913).
+Lana II / Ausseres Lahner II,913.2,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.16,,,NW,2008,Compreso in Lana (913).
+Pidi Cavallo Nord-Ovest,914,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.15,0.17,0.36,NW,2008,
+Pidi Cavallo Sud-Ovest / Windtal,916,IT4L00123225,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.07,0.13,"0.11 / 0.10","SW / NW",2008,Denominato Pidi Cavallo nel WGI.
+Cima del Vento Ovest / Westl. Ahrner,917,IT4L00123228,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE -Isarco-Rienza,Glacieret,0.01,0.02,,,2008,
+Valle del Vento (Destro),918a,IT4L00123230,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE -Isarco-Rienza,Glacieret,0.03,0.03,0.06,W,2008,CGI: Destra del Ghiacciaio di Valle del Vento.
+Valle del Vento / Sl. Windtal,919,IT4L00123232,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.19,0.27,0.36,NW,2008,
+Rosso Destro (Vedretta Rossa),920,IT4L00123233,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.60,0.72,0.88,W,2008,PAB: Vedretta Rossa/Rkees. Include 920.1.
+Rosso Destro 1,920.1,IT4L00123236,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Glacieret,0.02,,,NE,2008,Compreso in Rosso Destro (920).
+Rosso Sinistro (Vedretta Rossa),921,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.29,0.32,0.45,NW,2008,PAB: Rkees. Include Rosso Sinistro I (921.1).
+Rosso Sinistro I,921.1,IT41.00123237,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Glacieret,0.05,,,NW,2008,Compreso in Rosso Sinistro (921).
+Bocchetta Caminata Nord / Kemater,921a,IT4L00123238,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Glacieret,0.01,0.05,0.10,NW,2008,Include Bocchetta Caminata Nord I (921a.1).
+Bocchetta Caminata Nord 1,921a.1,IT4L00123239,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),-Rienza ADIGE-Isarco,Glacieret,0.01,,,NE,2008,Compreso in Bocchetta Caminata Nord (921a).
+Valle Rossa / Rfleck,922,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.23,0.52,0.49,N,2008,Include Valle Rossa I (922.1) e II (922.2).
+Valle Rossa 1 / Rfleck I,922.1,IT4L00123241,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.48,,,N,2008,Compreso in Valle Rossa (922).
+Valle Rossa II / Rfleck II,922.2,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Glacieret,0.01,,,S,2008,Compreso in Valle Rossa (922).
+Pizzo Lungo Nord / Merb,923,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.06,0.16,0.23,N,2008,Include Pizzo Lungo Nord 1 (923.1).
+Pizzo Lungo Nord 1 / Merb 1,923.1,IT4L00123242,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Glacieret,0.01,,,N,2008,Compreso in Pizzo Lungo Nord (923).
+Cima Dura / Durreck,925,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.03,0.06,0.16,NW,2008,Include Cima Dura 1 (925.1). PAB: Klausen.
+Cima Dura I / Durreck 1,925.1,IT4L00123247,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.03,,,N,2008,Compreso in Cima Dura (925).
+Sassolungo Est / tl. Lengstein,925a,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.07,0.19,0.26,W,2008,Include Sassolungo Est I e II. PAB: Lengstein.
+Sassolungo Est 1,925a.1,IT4L00123308,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.04,,,SW,2008,Compreso in Sassolungo Est (925a).
+Sassolungo Est II,925a.2,IT4L00123308,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.03,,,W,2008,Compreso in Sassolungo Est (925a).
+Sassolungo Central / Zentral Lengstein,925b,IT4L00123308,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.14,0.18,,NW,2008,WGI: compreso in Sassolungo Ovest. PAB: Lengstein.
+Sassolungo Ovest / Westl. Lengstein,926,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,1.10,1.30,1.92,N,2008,Include Sassolungo Ovest 1 (926.1) e Centrale (925b).
+Sassolungo Ovest I,926.1,IT4100123309,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Glacieret,0.02,,,N,2008,Compreso in Sassolungo Ovest (926).
+Collalto / Hochgall,927,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.50,0.47,0.83,NW,2008,Denominato anche Collalto-Collaspro.
+Gigante Est / tlicher Rieser,928,IT4L00123310,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.22,0.35,1.97,NW,2008,CGI: Collalto-Collaspro. Include Gigante Centrale.
+Gigante Centrale / Zentr. Rieser,929,IT4L00123311,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.67,1.43,,NW,2008,CGI: Collaspro-Pianalto. Incluso in Gigante Orientale/Centrale (928) nel WGI.
+Gigante Occidentale,930,IT4L00123311,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,1.93,2.59,2.57,NW,2008,CGI: Gigante Occ. di M. Covoni o di M. Magro. PAB: Ries Ovest.
+Monte Nevoso / Schneebiger Nock,931,IT4L00123312,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.23,0.48,0.36,NW,2008,Include Monte Nevoso I II e III. WGI: M. Nevoso Est.
+Monte Nevoso 1,931.1,IT4L00123314,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.07,,,NE,2008,Compreso in Monte Nevoso (931).
+Monte Nevoso II,931.2,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.05,,,NE,2008,Compreso in Monte Nevoso (931).
+Monte Nevoso III (Ndl. Geltal),931.3,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Glacieret,0.01,,,N,2008,PAB: Ndl. Geltal.
+Val Fredda / Geltal,932,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.20,1.01,,N,2008,Classificato estinto nel CGI. Include Val Fredda 1 (932.1) nel WGI.
+Val Fredda I / Geltal 1,932.1,IT4L00123316,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Mountain,0.19,,,N,2008,CGI: compreso in Val Fredda e istituito come estinto.
+Casavecchia / Althaus,933,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),ADIGE-Isarco-Rienza,Glacieret,0.13,0.46,,N,2008,Classificato come estinto nel catasto CGI.
