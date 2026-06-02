@@ -1,0 +1,18 @@
+/* Global app stylesheet loaded by Home.py */
+.custom-select-label {font-size:20px; font-weight:600; margin-bottom:4px;}
+/* Increase the selectbox displayed text size (BaseWeb select wrapper) */
+div[data-baseweb="select"] > div {font-size:16px !important;}
+
+/* You can add other global tweaks here, e.g.:
+body { font-family: 'Helvetica Neue', Arial, sans-serif; }
+*/
+
+/* Make itables / DataTables use the full page width */
+div.itables_container, div.dataTables_wrapper, table.dataTable {
+	width: 100% !important;
+	max-width: 100% !important;
+}
+.full-width-table { width: 100% !important; }
+.full-width-table .dataTables_wrapper { width: 100% !important; }
+.full-width-table table { width: 100% !important; table-layout: auto; }
+
