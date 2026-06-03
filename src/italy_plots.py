@@ -169,7 +169,7 @@ def historical_counts(df, df_porro, region=None):
     
     if region is not None:
         group_col = 'Mountain Group'
-        title_text = f'Glacier Count Evolution by Mountain Group in {region} (1959-Present)'
+        title_text = f'Glacier Count Evolution by Mountain Group in {region}'
         
         df_merged = df_m_clean.groupby(group_col).agg({
             'CGI Count': 'sum', 'WGI Count': 'sum', 'Recent Count': 'sum'
