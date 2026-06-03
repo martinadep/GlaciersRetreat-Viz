@@ -8,6 +8,18 @@ TICK_SIZE = 16
 TITLE_SIZE = 22
 LEGEND_SIZE = 14
 
+COLOR_COUNT_MAIN = '#900d12'        
+COLOR_COUNT_LIGHT = "#fcae91" 
+COLOR_MAP_COUNTS = {
+    "Porro (1925)": '#fcae91',
+    "CGI (1959-1962)": '#fb6a4a',
+    "WGI (1979-1989)": '#cb181d',
+    "New Glacier Inventory (2005-2012)": "#900d12"
+}
+
+COLOR_AREA_MAIN = '#07587d'  
+PALETTE_AREA_TREND = ['#aec7e8', '#1f77b4', '#07587d']
+
 # ----------------------- Data Loading Functions -----------------------
 @st.cache_data
 def load_data():
@@ -50,17 +62,17 @@ def region_counts_map(df):
     custom_reds = [
         [0.0, "rgb(255, 255, 255)"],
         [0.0001, "rgb(254, 224, 210)"],
-        [1.0, "rgb(165, 15, 21)"]
+        [1.0, COLOR_COUNT_MAIN]
     ]
 
     fig = px.choropleth(
         region_counts, geojson=geojson_url, locations='Region_geo',
         featureidkey='properties.reg_name', color='Glacier Count',
-        color_continuous_scale=custom_reds, title='Glacier Count by Region in Italy',
-        labels={'Glacier Count': 'Glacier Count', "Region_geo": 'Regione'}
+        color_continuous_scale=custom_reds, title='Glacier Count by Region',
+        labels={'Glacier Count': 'Glacier Count', "Region_geo": 'Region'}
     )
     fig.update_geos(visible=False, projection_type="mercator", fitbounds="locations")
-    fig.update_layout(font=dict(size=TICK_SIZE), title=dict(font=dict(size=TITLE_SIZE)), margin={"r":0,"t":70,"l":0,"b":0}, height=400)
+    fig.update_layout(font=dict(size=TICK_SIZE), title=dict(font=dict(size=TITLE_SIZE)), margin={"r":0,"t":70,"l":0,"b":0}, height=550)
     return fig
 
 @st.cache_data
@@ -85,20 +97,18 @@ def region_area_map(df):
     custom_blues = [
         [0.0, "rgb(255, 255, 255)"],
         [0.0001, "rgb(222, 235, 247)"],
-        [1.0, "rgb(8, 48, 107)"]
+        [1.0, COLOR_AREA_MAIN]
     ]
 
     fig = px.choropleth(
         region_area, geojson=geojson_url, locations='Region_geo',
         featureidkey='properties.reg_name', color='Total Glacier Area (km2)',
-        color_continuous_scale=custom_blues, title='Total Glacier Area by Region in Italy (2005-2012)',
-        labels={'Total Glacier Area (km2)': 'Area (km2)', "Region_geo": 'Regione'},
+        color_continuous_scale=custom_blues, title='Total Glacier Area by Region',
+        labels={'Total Glacier Area (km2)': 'Area (km2)', "Region_geo": 'Region'},
         hover_data={'Total Glacier Area (km2)': ':.2f'}
     )
     fig.update_geos(visible=False, projection_type="mercator", fitbounds="locations")
-    fig.update_layout(
-        font=dict(size=TICK_SIZE), title=dict(font=dict(size=TITLE_SIZE)), 
-                      margin={"r":0,"t":70,"l":0,"b":0}, height=400)
+    fig.update_layout(font=dict(size=TICK_SIZE), title=dict(font=dict(size=TITLE_SIZE)), margin={"r":0,"t":70,"l":0,"b":0}, height=550)
     return fig
 
 @st.cache_data
@@ -110,7 +120,7 @@ def historical_area(df, region=None):
         title_text = f'Glacier Area Shrinkage by Mountain Group in {region}'
     else:
         group_col = 'Mountain Sector'
-        title_text = 'Glacier Area Shrinkage by Mountain Sector in Italy'
+        title_text = 'Glacier Area Shrinkage by Mountain Sector'
 
     df_clean['Area CGI (km2)'] = df_clean['Area CGI (km2)'].fillna(0)
     df_clean['Area WGI (km2)'] = df_clean['Area WGI (km2)'].fillna(0)
@@ -137,7 +147,7 @@ def historical_area(df, region=None):
         df_melt, x=group_col, y='Total Area (km2)',
         color='Inventory Period', barmode='group', title=title_text,
         labels={'Total Area (km2)': 'Total Area (km2)', group_col: ''},
-        color_discrete_sequence=['#aec7e8', '#1f77b4', '#07587d']
+        color_discrete_sequence=PALETTE_AREA_TREND
     )
     
     fig.update_layout(
@@ -145,14 +155,14 @@ def historical_area(df, region=None):
         legend=dict(font=dict(size=LEGEND_SIZE), title_text=''), hovermode='x unified')
     
     fig.update_xaxes(tickangle=45)
-    
+    fig.update_traces(hovertemplate='<br>Total Area: %{y:.2f} km²')
+    fig.update_layout(hoverlabel=dict(font=dict(size=12)))
     return fig
 
 @st.cache_data
 def historical_counts(df, df_porro, region=None):
     df_m_clean = df.copy()
     
-    # Prepariamo le colonne di conteggio comuni sui dati moderni
     df_m_clean['CGI Count'] = df_m_clean['Area CGI (km2)'].notna().astype(int)
     df_m_clean['WGI Count'] = df_m_clean['Area WGI (km2)'].notna().astype(int)
     df_m_clean['Recent Count'] = 1 
@@ -162,61 +172,47 @@ def historical_counts(df, df_porro, region=None):
         title_text = f'Glacier Count Evolution by Mountain Group in {region} (1959-Present)'
         
         df_merged = df_m_clean.groupby(group_col).agg({
-            'CGI Count': 'sum',
-            'WGI Count': 'sum',
-            'Recent Count': 'sum'
+            'CGI Count': 'sum', 'WGI Count': 'sum', 'Recent Count': 'sum'
         }).reset_index()
         df_merged.columns = [group_col, "CGI (1959-1962)", "WGI (1979-1989)", "New Glacier Inventory (2005-2012)"]
         value_vars_list = ["CGI (1959-1962)", "WGI (1979-1989)", "New Glacier Inventory (2005-2012)"]
-        color_seq = ['#fb6a4a', "#a90c11", "#9B2F1C"]
-        
     else:
         df_p_clean = df_porro.copy()
         group_col = 'Mountain Sector'
-        title_text = 'Glacier Count Evolution by Mountain Sector (1925-Present)'
+        title_text = 'Glacier Count Evolution by Mountain Sector'
         
         porro_counts = df_p_clean[group_col].value_counts().reset_index()
         porro_counts.columns = [group_col, "Porro (1925)"]
         
         modern_grouped = df_m_clean.groupby(group_col).agg({
-            'CGI Count': 'sum',
-            'WGI Count': 'sum',
-            'Recent Count': 'sum'
+            'CGI Count': 'sum', 'WGI Count': 'sum', 'Recent Count': 'sum'
         }).reset_index()
         modern_grouped.columns = [group_col, "CGI (1959-1962)", "WGI (1979-1989)", "New Glacier Inventory (2005-2012)"]
         
-       
         df_merged = pd.merge(porro_counts, modern_grouped, on=group_col, how='outer').fillna(0)
         value_vars_list = ["Porro (1925)", "CGI (1959-1962)", "WGI (1979-1989)", "New Glacier Inventory (2005-2012)"]
-        color_seq = ['#fcae91', '#fb6a4a', "#a90c11", "#9B2F1C"]
 
     df_merged = df_merged.sort_values(by="New Glacier Inventory (2005-2012)", ascending=False)
     
     df_melt = df_merged.melt(
-        id_vars=group_col,
-        value_vars=value_vars_list,
-        var_name='Inventory',
-        value_name='Glacier Count'
+        id_vars=group_col, value_vars=value_vars_list,
+        var_name='Inventory', value_name='Glacier Count'
     )
     
     fig = px.bar(
-        df_melt,
-        x=group_col,
-        y='Glacier Count',
-        color='Inventory',
-        barmode='group',
-        title=title_text,
+        df_melt, x=group_col, y='Glacier Count',
+        color='Inventory', barmode='group', title=title_text,
         labels={'Glacier Count': 'Number of Glaciers', group_col: ''},
-        color_discrete_sequence=color_seq
+        color_discrete_map=COLOR_MAP_COUNTS 
     )
 
     fig.update_layout(
-        font=dict(size=TICK_SIZE),
-        title=dict(font=dict(size=TITLE_SIZE)),
-        legend=dict(font=dict(size=LEGEND_SIZE), title_text=''),
-        hovermode='x unified'
+        font=dict(size=TICK_SIZE), title=dict(font=dict(size=TITLE_SIZE)),
+        legend=dict(font=dict(size=LEGEND_SIZE), title_text=''), hovermode='x unified'
     )
     fig.update_xaxes(tickangle=45)
+    fig.update_traces(hovertemplate='<br>Count: %{y}')
+    fig.update_layout(hoverlabel=dict(font=dict(size=12)))
     return fig
 
 @st.cache_data
@@ -235,9 +231,9 @@ def newly_formed_barchart(df, region=None):
     })
 
     fig = px.bar(plot_df, x='Total Glaciers', y=columns_to_group, 
-        orientation='h', title='Glacier Count by ' + columns_to_group,
+        orientation='h', title='Newly formed glaciers in ' + columns_to_group,
         labels={'Total Glaciers': 'Number of Glaciers', columns_to_group: ''},
-        color_discrete_sequence=['#1f77b4'])
+        color_discrete_sequence=[COLOR_COUNT_MAIN]) 
     
     fig.data[0].name = 'Total Glaciers'
     fig.data[0].showlegend = True
@@ -245,19 +241,22 @@ def newly_formed_barchart(df, region=None):
 
     fig.add_trace(go.Bar(x=plot_df['Newly Formed Glaciers'], y=plot_df[columns_to_group],
                           orientation='h', name='Newly Formed Glaciers',
-                          marker_color='lightblue', opacity=0.7, hovertemplate='%{x}'))
+                          marker_color=COLOR_COUNT_LIGHT, opacity=0.7, hovertemplate='%{x}')) 
 
     fig.update_layout(
-        barmode='overlay', legend_title_text='', hovermode='y unified', 
+        barmode='overlay', 
+        legend_title_text='', 
+        hovermode='y unified', 
         legend=dict(yanchor="bottom", y=0.1, xanchor="right", x=1, font=dict(size=LEGEND_SIZE))
     )
 
     fig.update_layout(
-        font=dict(size=TICK_SIZE), title=dict(font=dict(size=TITLE_SIZE)), 
-        xaxis=dict(tickfont=dict(size=TICK_SIZE)), yaxis=dict(tickfont=dict(size=TICK_SIZE))
+        font=dict(size=TICK_SIZE), 
+        title=dict(font=dict(size=TITLE_SIZE)), 
+        xaxis=dict(tickfont=dict(size=TICK_SIZE)), 
+        yaxis=dict(tickfont=dict(size=TICK_SIZE))
     )
     return fig
-
 @st.cache_data
 def compass_aspect(df): 
     target_df = df.copy()
@@ -282,20 +281,19 @@ def compass_aspect(df):
 
     fig.add_trace(go.Scatterpolar(
         r=values_num_closed, theta=order_closed, fill='toself', fillcolor='rgba(181, 66, 46, 0.15)', 
-        line=dict(color='#b5422e', width=2.5), name='Number of Glaciers (%)', 
+        line=dict(color=COLOR_COUNT_MAIN, width=2.5), name='Number of Glaciers (%)', 
         hovertemplate='%{theta}: %{r:.1f}%<extra></extra>'
     ))
 
     fig.add_trace(go.Scatterpolar(
         r=values_area_closed, theta=order_closed, fill='toself', fillcolor='rgba(7, 88, 125, 0.15)', 
-        line=dict(color='#07587d', width=2.5), name='Glaciers Area (%)',
+        line=dict(color=COLOR_AREA_MAIN, width=2.5), name='Glaciers Area (%)',
         hovertemplate='%{theta}: %{r:.1f}%<extra></extra>'
     ))
 
     fig.update_layout(
         title=dict(text='Glacier Aspect Distribution (%)', font=dict(size=TITLE_SIZE)),
-        font=dict(size=TICK_SIZE), 
-        hovermode='closest',
+        font=dict(size=TICK_SIZE), hovermode='closest',
         legend=dict(orientation="h", yanchor="bottom", y=-0.25, xanchor="center", x=0.5, font=dict(size=LEGEND_SIZE)),
         polar=dict(
             gridshape='linear', bgcolor='white',
@@ -309,3 +307,53 @@ def compass_aspect(df):
         )
     )
     return fig
+
+@st.cache_data
+def pie_glacier_types(df, region=None, by_area=False):
+    color_map = {
+        'Mountain': "#4f88b1",
+        'Glacieret': "#9fc3dd",
+        'Valley': "#797f84"
+    }
+
+    if region is not None:
+        prefix = "Area " if by_area else ""
+        title_text = f"Glacier Type {prefix}Distribution in {region}"
+    else:
+        title_text = 'Glacier Type Area Distribution' if by_area else 'Glacier Type Distribution'
+
+    if by_area:
+        type_df = df.groupby('Glacier Type')['Area (km2)'].sum().reset_index()
+        type_df.columns = ['Glacier Type', 'Total Area (km2)']
+        value_col = 'Total Area (km2)'
+    else:
+        type_df = df['Glacier Type'].value_counts().reset_index()
+        type_df.columns = ['Glacier Type', 'Count']
+        value_col = 'Count'
+
+    fig = px.pie(
+        type_df, values=value_col, names='Glacier Type', color='Glacier Type',
+        color_discrete_map=color_map, title=title_text
+    )
+
+    if by_area:
+        hovertemplate = "%{label}<br>Total Area: %{value:.2f} km²<br>%{percent}"
+    else:
+        hovertemplate = "%{label}<br>Count: %{value}<br>%{percent}"
+
+    fig.update_traces(
+        textposition='inside', textinfo='percent+label', textfont_size=14,
+        hovertemplate=hovertemplate
+    )
+
+    fig.update_layout(
+        font=dict(size=TICK_SIZE),
+        title=dict(font=dict(size=TITLE_SIZE)),
+        legend=dict(font=dict(size=LEGEND_SIZE)),
+        hoverlabel=dict(font=dict(size=12))
+    )
+    return fig
+
+@st.cache_data
+def pie_glacier_types_area(df, region=None):
+    return pie_glacier_types(df, region=region, by_area=True)
