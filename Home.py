@@ -44,7 +44,12 @@ st.divider()
 
 # 5. Page Router Execution
 if pg == home_page:
-    st.markdown("<br><br><br>", unsafe_allow_html=True)
-    st.markdown("<h1 style='text-align: center;'>home</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>Visualizing climate change \n\n through glacier retreat</h1>", unsafe_allow_html=True)
+    st.markdown(
+    "<p style='text-align: center; font-size: 22px;'>From global mass balance trends to the vanishing ice of South Tyrol \n\n "
+    "<p style='text-align: center; font-size: 22px;'> explore how glaciers have retreated over the last century</p> \n\n "
+    "<p style='text-align: center; font-size: 22px;'> and what that means for our future water supply.</p>", 
+    unsafe_allow_html=True
+)
 else:
     pg.run()
