@@ -8,17 +8,19 @@ TICK_SIZE = 16
 TITLE_SIZE = 22
 LEGEND_SIZE = 14
 
-COLOR_COUNT_MAIN = '#900d12'        
-COLOR_COUNT_LIGHT = "#fcae91" 
+COLOR_COUNT_MAIN = "#1D5A09"  
+COLOR_COUNT_SECOND = "#3B8A21"        
+COLOR_COUNT_LIGHT = "#94CE81" 
 COLOR_MAP_COUNTS = {
-    "Porro (1925)": '#fcae91',
-    "CGI (1959-1962)": '#fb6a4a',
-    "WGI (1979-1989)": '#cb181d',
-    "New Glacier Inventory (2005-2012)": "#900d12"
+    "Porro (1925)": '#94CE81',
+    "CGI (1959-1962)": "#66AD4E",
+    "WGI (1979-1989)": "#3B8A21",
+    "New Glacier Inventory (2005-2012)": "#1D5A09"
 }
 
-COLOR_AREA_MAIN = '#07587d'  
-PALETTE_AREA_TREND = ['#aec7e8', '#1f77b4', '#07587d']
+COLOR_AREA_MAIN = "#084967"  
+COLOR_AREA_SECOND = "#1F77B4"  
+PALETTE_AREA_TREND = ['#aec7e8', '#1f77b4', "#084967"]
 
 # ----------------------- Data Loading Functions -----------------------
 @st.cache_data
@@ -61,7 +63,7 @@ def region_counts_map(df):
 
     custom_reds = [
         [0.0, "rgb(255, 255, 255)"],
-        [0.0001, "rgb(254, 224, 210)"],
+        [0.0001, "rgb(224, 254, 210)"],
         [1.0, COLOR_COUNT_MAIN]
     ]
 
@@ -280,14 +282,14 @@ def compass_aspect(df):
     fig = go.Figure()
 
     fig.add_trace(go.Scatterpolar(
-        r=values_num_closed, theta=order_closed, fill='toself', fillcolor='rgba(181, 66, 46, 0.15)', 
-        line=dict(color=COLOR_COUNT_MAIN, width=2.5), name='Number of Glaciers (%)', 
+        r=values_num_closed, theta=order_closed, fill='toself', fillcolor='rgba(66, 181, 7, 0.15)', 
+        line=dict(color=COLOR_COUNT_SECOND, width=2.5), name='Number of Glaciers (%)', 
         hovertemplate='%{theta}: %{r:.1f}%<extra></extra>'
     ))
 
     fig.add_trace(go.Scatterpolar(
         r=values_area_closed, theta=order_closed, fill='toself', fillcolor='rgba(7, 88, 125, 0.15)', 
-        line=dict(color=COLOR_AREA_MAIN, width=2.5), name='Glaciers Area (%)',
+        line=dict(color=COLOR_AREA_SECOND, width=2.5), name='Glaciers Area (%)',
         hovertemplate='%{theta}: %{r:.1f}%<extra></extra>'
     ))
 
@@ -320,7 +322,7 @@ def pie_glacier_types(df, region=None, by_area=False):
         prefix = "Area " if by_area else ""
         title_text = f"Glacier Type {prefix}Distribution in {region}"
     else:
-        title_text = 'Glacier Type Area Distribution' if by_area else 'Glacier Type Distribution'
+        title_text = 'Occupied Area by each Glacier Type' if by_area else 'Glacier Type Distribution'
 
     if by_area:
         type_df = df.groupby('Glacier Type')['Area (km2)'].sum().reset_index()
