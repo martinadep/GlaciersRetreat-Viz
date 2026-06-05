@@ -48,6 +48,13 @@ def load_year(year: int) -> gpd.GeoDataFrame:
     for c in ["CGI_ID", "WGMS_ID", "NAME_D", "NAME_IT"]:
         if c in gdf.columns:
             gdf[c] = gdf[c].replace(["-9999", "", "None"], np.nan)
+    
+    # Fix known region name typos
+    REGION_FIXES = {
+        "Ortergruppe": "Ortlergruppe",
+    }
+    if "REGION" in gdf.columns:
+        gdf["REGION"] = gdf["REGION"].replace(REGION_FIXES)
 
     return gdf
 
@@ -138,25 +145,31 @@ print(agg_stats)
 # ---------------------------------------------------------------------------
 # 5. Regional change CSV
 # ---------------------------------------------------------------------------
-region_area = pd.DataFrame({
-    yr: gdfs[yr].groupby("REGION")[AREA_COL[yr]].sum() for yr in gdfs
-})
-region_area.columns = ["area_97", "area_05", "area_17"]
-region_area["change_pct_97_17"] = (
-    (region_area["area_17"] - region_area["area_97"])
-    / region_area["area_97"] * 100
-)
-region_area["change_pct_97_05"] = (
-    (region_area["area_05"] - region_area["area_97"])
-    / region_area["area_97"] * 100
-)
-region_area["change_pct_05_17"] = (
-    (region_area["area_17"] - region_area["area_05"])
-    / region_area["area_05"] * 100
-)
-region_area = region_area.round(2).reset_index()
+# Build a region list that includes every region ever recorded across years
+all_regions = set()
+for yr in gdfs:
+    all_regions.update(gdfs[yr]["REGION"].unique())
+
+region_area = pd.DataFrame(index=sorted(all_regions))
+for yr in gdfs:
+    sums = gdfs[yr].groupby("REGION")[AREA_COL[yr]].sum()
+    region_area[f"area_{str(yr)[-2:]}"] = sums
+
+# Regions absent in a given year → 0 km² (genuinely disappeared, not missing)
+region_area = region_area.fillna(0)
+
+# Now compute percent changes. Avoid divide-by-zero by handling area_97 == 0.
+def pct_change(start, end):
+    return ((end - start) / start * 100).where(start > 0, other=None)
+
+region_area["change_pct_97_17"] = pct_change(
+    region_area["area_97"], region_area["area_17"])
+region_area["change_pct_97_05"] = pct_change(
+    region_area["area_97"], region_area["area_05"])
+region_area["change_pct_05_17"] = pct_change(
+    region_area["area_05"], region_area["area_17"])
+
+region_area = region_area.round(2).reset_index().rename(columns={"index": "REGION"})
 region_area.to_csv(OUT_DIR / "regional_change.csv", index=False)
 print(f"  wrote {OUT_DIR / 'regional_change.csv'}")
 print(region_area)
-
-print("\nDone.")

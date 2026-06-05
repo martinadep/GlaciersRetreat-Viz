@@ -78,16 +78,25 @@ regional = load_csv("regional_change.csv")
 # ---------------------------------------------------------------------------
 # Page content
 # ---------------------------------------------------------------------------
-st.title("South Tyrol")
+st.title("Glaciers of Alto-Adige")
 
 # Intro text block — leave empty for now
-st.write("")
+st.write("Here you can explore the changes in glaciers area and fragmentation in Alto-Adige over the years.")
 
 
 # ---------------------------------------------------------------------------
 # 1. Interactive map
 # ---------------------------------------------------------------------------
-st.subheader("Glacier change, 1997–2017")
+st.header("How much smaller did the glaciers become from 1997 to 2017?")
+st.markdown("""
+In the layers of this interactive map, you can see:
+
+- **Relative change 1997→2017**: the percentage of area loss over 20 years for each glacier
+- **Glacier extent in 1997, 2005, and 2017**: overlay them to see the change clearly
+
+Hover over any glacier to see more information about it.
+""")
+
 
 # User controls — checkboxes for which layers to show
 st.markdown("**Show layers:**")
@@ -166,14 +175,23 @@ fig_map.update_layout(
 if not any([show_change, show_1997, show_2005, show_2017]):
     fig_map.add_trace(go.Scattermapbox())
 
-st.plotly_chart(fig_map, use_container_width=True)
+st.plotly_chart(
+    fig_map,
+    use_container_width=True,
+    config={"scrollZoom": True},
+)
 st.write("")
 
 
 # ---------------------------------------------------------------------------
 # 2. Aggregate stats — area, count, average size
 # ---------------------------------------------------------------------------
-st.subheader("Total area, fragment count, average size")
+st.header("The glaciers are fragmenting")
+st.markdown(
+    "As glaciers melt, they split into more pieces. "
+    "The bar charts below show this clearly: the total ice area shrinks, "
+    "the number of parts grows, and the average part becomes smaller."
+)
 
 agg_stats["year_str"] = agg_stats["year"].astype(str)
 bar_colors = [COLORS[y] for y in agg_stats["year"]]
@@ -197,6 +215,7 @@ with col1:
         margin=dict(l=10, r=10, t=40, b=10),
         height=340,
     )
+    fig.update_xaxes(type="category")
     st.plotly_chart(fig, use_container_width=True)
 
 with col2:
@@ -216,6 +235,7 @@ with col2:
         margin=dict(l=10, r=10, t=40, b=10),
         height=340,
     )
+    fig.update_xaxes(type="category")
     st.plotly_chart(fig, use_container_width=True)
 
 with col3:
@@ -235,6 +255,7 @@ with col3:
         margin=dict(l=10, r=10, t=40, b=10),
         height=340,
     )
+    fig.update_xaxes(type="category")
     st.plotly_chart(fig, use_container_width=True)
 
 st.write("")
@@ -243,7 +264,13 @@ st.write("")
 # ---------------------------------------------------------------------------
 # 3. Relative change by mountain group
 # ---------------------------------------------------------------------------
-st.subheader("Relative area change by mountain group")
+st.header("Which mountain groups lost the most ice?")
+st.markdown(
+    "The chart below shows how each mountain group's ice area changed "
+    "between 1997 and 2017. Every region lost area but the losses are "
+    "not uniform. Smaller, fragmented glaciers in the eastern groups "
+    "retreated fastest."
+)
 
 regional_sorted = regional.sort_values("change_pct_97_17")
 
@@ -252,7 +279,13 @@ fig_reg = go.Figure(
         x=regional_sorted["change_pct_97_17"],
         y=regional_sorted["REGION"],
         orientation="h",
-        marker_color="#c44341",
+        marker=dict(
+            color=regional_sorted["change_pct_97_17"],
+            colorscale="Reds_r",
+            cmin=-100,
+            cmax=0,
+            showscale=False,
+        ),
         text=[f"{v:.0f}%" for v in regional_sorted["change_pct_97_17"]],
         textposition="outside",
         hovertemplate=(
@@ -264,11 +297,14 @@ fig_reg = go.Figure(
         customdata=regional_sorted[["area_97", "area_17"]].values,
     )
 )
+
 fig_reg.update_layout(
     xaxis_title="Area change 1997→2017 (%)",
     margin=dict(l=10, r=40, t=10, b=40),
     height=380,
 )
-st.plotly_chart(fig_reg, use_container_width=True)
+fig_reg.update_xaxes(range=[-100, 100])
+fig_reg.add_vline(x=0, line_width=1, line_color="black")
 
+st.plotly_chart(fig_reg, use_container_width=True)
 st.write("")
