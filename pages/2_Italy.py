@@ -75,8 +75,8 @@ st.markdown("""
 # ---------- new formations and aspect distribution ----------
 col1, col2 = st.columns(2)
 with col1:
-    newly_formed_barchart_fig = it.newly_formed_barchart(df, region=selected_region)
-    st.plotly_chart(newly_formed_barchart_fig, use_container_width=True)
+    fragmented_barchart_fig = it.fragmented_barchart(df, region=selected_region)
+    st.plotly_chart(fragmented_barchart_fig, use_container_width=True)
 with col2:
     compass_plot_fig = it.compass_aspect(df)
     st.plotly_chart(compass_plot_fig, use_container_width=True)

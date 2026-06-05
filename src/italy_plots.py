@@ -29,7 +29,7 @@ def load_data():
     
     df_italy = df_raw[['Glacier Name', 'Mountain Sector', 'Mountain Group', 'Region', 
                         'Glacier Type', 'Aspect', 'Area CGI (km2)', 'Area WGI (km2)',
-                        'Area (km2)', 'Year', 'Newly Formed']].copy()
+                        'Area (km2)', 'Year', 'Has Fragmented']].copy()
     df_italy['Area CGI (km2)'] = pd.to_numeric(df_italy['Area CGI (km2)'], errors='coerce')
     df_italy['Area WGI (km2)'] = pd.to_numeric(df_italy['Area WGI (km2)'], errors='coerce')
     df_italy['Area (km2)'] = pd.to_numeric(df_italy['Area (km2)'], errors='coerce')
@@ -218,31 +218,31 @@ def historical_counts(df, df_porro, region=None):
     return fig
 
 @st.cache_data
-def newly_formed_barchart(df, region=None):
+def fragmented_barchart(df, region=None):
     columns_to_group = 'Mountain Sector'
     if region is not None:
         columns_to_group = 'Mountain Group'
     
     counts = df[columns_to_group].value_counts().sort_values(ascending=True) 
-    new_counts = df.groupby(columns_to_group)['Newly Formed'].sum().reindex(counts.index, fill_value=0)
+    fragmented_counts = df.groupby(columns_to_group)['Has Fragmented'].sum().reindex(counts.index, fill_value=0)
 
     plot_df = pd.DataFrame({
          columns_to_group: counts.index,
         'Total Glaciers': counts.values,
-        'Newly Formed Glaciers': new_counts.values
+        'Fragmented Glaciers': fragmented_counts.values
     })
 
     fig = px.bar(plot_df, x='Total Glaciers', y=columns_to_group, 
-        orientation='h', title='Newly formed glaciers in ' + columns_to_group,
-        labels={'Total Glaciers': 'Number of Glaciers', columns_to_group: ''},
-        color_discrete_sequence=[COLOR_COUNT_MAIN]) 
+        orientation='h', title='Fragmented Glaciers in each ' + columns_to_group,
+        labels={'Total Glaciers': 'Non-Fragmented Glaciers', columns_to_group: ''},
+        color_discrete_sequence=[COLOR_COUNT_SECOND]) 
     
     fig.data[0].name = 'Total Glaciers'
     fig.data[0].showlegend = True
     fig.data[0].hovertemplate = '%{x}' 
 
-    fig.add_trace(go.Bar(x=plot_df['Newly Formed Glaciers'], y=plot_df[columns_to_group],
-                          orientation='h', name='Newly Formed Glaciers',
+    fig.add_trace(go.Bar(x=plot_df['Fragmented Glaciers'], y=plot_df[columns_to_group],
+                          orientation='h', name='Fragmented Glaciers',
                           marker_color=COLOR_COUNT_LIGHT, opacity=0.7, hovertemplate='%{x}')) 
 
     fig.update_layout(
@@ -294,7 +294,7 @@ def compass_aspect(df):
     ))
 
     fig.update_layout(
-        title=dict(text='Glacier Aspect Distribution (%)', font=dict(size=TITLE_SIZE)),
+        title=dict(text='Glacier Aspect Distribution (%)', font=dict(size=TITLE_SIZE), x=0.28),
         font=dict(size=TICK_SIZE), hovermode='closest',
         legend=dict(orientation="h", yanchor="bottom", y=-0.25, xanchor="center", x=0.5, font=dict(size=LEGEND_SIZE)),
         polar=dict(
