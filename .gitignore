@@ -1,1 +1,6 @@
 .venv/
+data/south_tyrol/raw/
+*.shp
+*.shx
+*.dbf
+*.prj
