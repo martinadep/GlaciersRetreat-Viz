@@ -101,18 +101,19 @@ def plot_glacier_mass_change(df: pd.DataFrame,
         ),
         legend=dict(
             orientation="v",
-            x=1.01,
-            y=1,
+            x=1.02,          # legenda più a destra
+            y=0.95,          # leggermente abbassata
             bgcolor="rgba(255,255,255,0.8)",
             bordercolor="#cccccc",
             borderwidth=1,
         ),
+
         updatemenus=[dict(
             type="dropdown",
             direction="down",
-            x=0.0,
+            x=0.72,           # was 0.0
             y=1.10,
-            xanchor="right",
+            xanchor="left",  # was "right"
             yanchor="top",
             bgcolor="white",
             bordercolor="#cccccc",
@@ -120,20 +121,23 @@ def plot_glacier_mass_change(df: pd.DataFrame,
             buttons=buttons,
             showactive=True,
         )],
-        annotations=[dict(
-            text="Select regions:",
-            x=0.0,
-            y=1.17,
-            xref="paper",
-            yref="paper",
-            showarrow=False,
-            font=dict(size=13, family="Georgia, serif"),
-        )],
+        # annotations=[dict(
+        #     text="Select regions:",
+        #     x=0.72,           # was 0.0
+        #     y=1.17,
+        #     xref="paper",
+        #     yref="paper",
+        #     showarrow=False,
+        #     font=dict(size=13, family="Georgia, serif"),
+        # )],
+
+
         plot_bgcolor="white",
         paper_bgcolor="white",
         hovermode="x unified",
         height=550,
-        margin=dict(l=60, r=160, t=100, b=80),
+        width=1500,
+        margin=dict(l=60, r=220, t=100, b=80)
     )
 
     # Linee griglia orizzontali tratteggiate come OurWorldInData

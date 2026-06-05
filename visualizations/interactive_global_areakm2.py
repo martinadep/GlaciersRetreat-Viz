@@ -6,20 +6,16 @@ from src.wgms_data_loader import *
 import plotly.graph_objects as go
 import numpy as np
 
-# visualizations/interactive_global_areakm2.py
-
-import pandas as pd
-import sys, os
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-from src.wgms_data_loader import *
-
-import plotly.graph_objects as go
-import numpy as np
-
 def interactive_global_areakm2():   # <-- aggiungi questa riga
     df = load_wgms_regions_areakm2()
     pivot = df.pivot(index='year', columns='region', values='area_km2')
-    pivot = pivot.dropna()
+
+    # # drops NA values to make the animation smoother
+    # pivot = pivot.dropna()
+    # RAW_DATA = pivot.to_dict(orient='index')
+
+    # forward fill to make the animation smoother
+    pivot = pivot.ffill().bfill()
     RAW_DATA = pivot.to_dict(orient='index')
 
     regions = ['ACN','ACS','ALA','ANT','ASC','ASE','ASN','ASW','CAU','CEU',
@@ -44,13 +40,14 @@ def interactive_global_areakm2():   # <-- aggiungi questa riga
     codes = list(REGIONS.keys())
     all_vals = [abs(v) for year_data in RAW_DATA.values() for v in year_data.values()]
     max_val = max(all_vals)
-    max_size = 60
+    max_size = 120
 
     def make_frame(year):
         data = RAW_DATA[year]
         def safe_val(c):
             v = data.get(c, 0)
             return 0 if (v is None or np.isnan(v)) else v
+
         return go.Frame(
             name=str(year),
             data=[go.Scattergeo(
@@ -60,10 +57,10 @@ def interactive_global_areakm2():   # <-- aggiungi questa riga
                 hoverinfo='text',
                 mode='markers',
                 marker=dict(
-                    size=[np.sqrt(abs(safe_val(c)) / max_val) * max_size for c in codes],
+                    size=[(safe_val(c) / max_val) ** 2 * max_size for c in codes],  # power > 1 = more contrast
                     color=[safe_val(c) for c in codes],
-                    colorscale=[[0,'#d0e8f5'],[0.5,'#378ADD'],[1,'#042C53']],
-                    cmin=-max_val, cmax=0,
+                    colorscale=[[0,'#042C53'],[0.5,'#378ADD'],[1,'#d0e8f5']],  # fixed: small=dark, large=light
+                    cmin=0, cmax=max_val,  # fixed: area is positive
                     colorbar=dict(title=dict(text='km²', side='right'), thickness=12, len=0.6),
                     line=dict(width=0.5, color='white'),
                     sizemode='diameter'
@@ -96,3 +93,4 @@ def interactive_global_areakm2():   # <-- aggiungi questa riga
     )
 
     return go.Figure(data=frames[-1].data, layout=layout, frames=frames)  # <-- return invece di write_html
+

@@ -16,9 +16,11 @@ def interactive_global_mmsle():
         title='Millimeter sea level equivalent, 1976-2025',
         labels={'mmsle': 'Change in global mean sea level, mm', 'year': 'Years'},
         color='mmsle',
+
+        # [[0,'#4d0000'],[0.5,'#cc3300'],[1,'#fff5f0']]
         color_continuous_scale=[
-            (0.0, '#d6e9f8'),   # chiaro → valori bassi/negativi
-            (1.0, '#08306b'),   # scuro  → valori alti
+            (0.0, '#fff5f0'),   # chiaro → valori bassi/negativi
+            (1.0, '#cc3300'),   # scuro  → valori alti
 
         ],
         range_color=[df['mmsle'].min(), df['mmsle'].max()]  # ancora la scala ai dati reali
