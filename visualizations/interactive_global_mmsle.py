@@ -1,10 +1,12 @@
 import plotly.express as px
 import plotly.graph_objects as go
+import streamlit as st
 
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 from src.wgms_data_loader import  *
 
+@st.cache_data
 def interactive_global_mmsle():
     df= load_wgms_global_mmsle()
 

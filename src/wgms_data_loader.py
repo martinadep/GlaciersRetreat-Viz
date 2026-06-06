@@ -3,11 +3,11 @@ import streamlit as st
 import numpy as np
 
 @st.cache_data  # Ottimizza le prestazioni mantenendo i dati in memoria
-
 def load_wgms_global():
     df_global = pd.read_csv('./data/wgms-amce-2026-02-10/global.csv')
     return df_global
 
+@st.cache_data
 def load_wgms_global_mmsle():
     df_global=pd.read_csv('./data/wgms-amce-2026-02-10/global.csv')
     df_global_mmsle = df_global[['year', 'mmsle']].copy()
@@ -15,6 +15,7 @@ def load_wgms_global_mmsle():
 
     return df_global_mmsle
 
+@st.cache_data
 def load_wgms_regions_areakm2(code='total', year_range=None):
     if code == 'total':
         df_area = pd.DataFrame()
@@ -40,7 +41,7 @@ def load_wgms_regions_areakm2(code='total', year_range=None):
 
 # print(load_wgms_regions_areakm2().head())
 
-
+@st.cache_data
 def load_wgms_regions_gt(code='total', year_range=None):
     # returns a dataframe containing the mass change in gigatonnes (Gt) for the specified region and year range.
     

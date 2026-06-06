@@ -6,3 +6,4 @@ data/south_tyrol/raw/
 *.prj
 temp/
 src/__pycache__/
+visualizations/__pycache__/
