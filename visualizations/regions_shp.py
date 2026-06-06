@@ -3,7 +3,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'
 import netCDF4 as nc
 import numpy as np
 
-ds = nc.Dataset('.\data\wgms-amce-2026-02-10\global_grid.nc4')
+ds = nc.Dataset('data/wgms-amce-2026-02-10/global_grid.nc4')
 
 # see what variables are in it
 print(ds.variables.keys())
@@ -18,7 +18,7 @@ for var in ds.variables:
 import xarray as xr
 import numpy as np
 
-ds = xr.open_dataset(r'.\data\wgms-amce-2026-02-10\global_grid.nc4')
+ds = xr.open_dataset('data/wgms-amce-2026-02-10/global_grid.nc4')
 
 # check time values
 print(ds['time'].values)
@@ -36,7 +36,7 @@ def interactive_global_grid_pctloss():
     import numpy as np
     import plotly.graph_objects as go
 
-    ds = xr.open_dataset(r'.\data\wgms-amce-2026-02-10\global_grid.nc4')
+    ds = xr.open_dataset('data/wgms-amce-2026-02-10/global_grid.nc4')
     area = ds['area_km2'].values        # (50, 360, 720)
     lats = ds['lat'].values             # (360,)
     lons = ds['lon'].values             # (720,)
