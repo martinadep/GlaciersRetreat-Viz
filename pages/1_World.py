@@ -80,7 +80,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 
 
-st.header("Glacier area Change (km²)")
+# st.header("Glacier area Change (km²)")
 # st.markdown(body="This map shows the percentage change in glacier area over time, " \
 # "from the first observed measurement in the wgms dataset (1965). The darked the shade of red, the higher the change. " \
 # "Over these 60 years, the most dramatic changes seem to be in the regions of Central America," \
@@ -110,7 +110,7 @@ st.header('Global millimeter sea level equivalent')
 # st.markdown(body="Mass change in millimeters of sea level equivalent (mm SLE) over time, from the first observed measurement (1965)")
 from visualizations.interactive_global_mmsle import interactive_global_mmsle
 
-st.header("Global Millimeter Sea Level Equivalent (mm SLE)")
+# st.header("Global Millimeter Sea Level Equivalent (mm SLE)")
 st.markdown("""
 When glaciers melt, the water flows into the ocean, raising sea levels globally. 
 The **millimeter sea level equivalent (mm SLE)** converts glacier mass loss into its 
