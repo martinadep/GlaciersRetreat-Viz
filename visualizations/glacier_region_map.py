@@ -41,7 +41,7 @@ REGION_COLORS = [
 def interactive_global_grid_glacier_regions():
     import xarray as xr
 
-    ds = xr.open_dataset(r'.\data\wgms-amce-2026-02-10\global_grid.nc4')
+    ds = xr.open_dataset('data/wgms-amce-2026-02-10/global_grid.nc4')
 
     area   = ds['area_km2'].values   # (time, lat, lon)
     lats   = ds['lat'].values        # (360,)

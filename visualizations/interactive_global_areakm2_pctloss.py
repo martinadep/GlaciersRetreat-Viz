@@ -11,7 +11,7 @@ def interactive_global_grid_pctloss():
     import numpy as np
     import plotly.graph_objects as go
 
-    ds = xr.open_dataset(r'.\data\wgms-amce-2026-02-10\global_grid.nc4')
+    ds = xr.open_dataset('data/wgms-amce-2026-02-10/global_grid.nc4')
     area = ds['area_km2'].values        # (50, 360, 720)
     lats = ds['lat'].values             # (360,)
     lons = ds['lon'].values             # (720,)
