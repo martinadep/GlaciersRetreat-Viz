@@ -108,7 +108,7 @@ Use the dropdown to explore individual regions and see how local trends compare 
 """)
 
 from visualizations.interactive_region_gt import *
-fig =  create_region_gt()
+fig = create_region_gt()
 st.plotly_chart(fig, use_container_width=True)
 st.caption("""Data from 
 WGMS (2026). Annual mass-change estimates for the world's glaciers. Individual glacier time series and gridded data products. https://doi.org/10.5904/wgms-amce-2026-02-10""")
