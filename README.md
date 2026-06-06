@@ -43,6 +43,7 @@ Data Visualization project  ...
  ```
 
 EDA for Italian situation: [notebooks/eda_unimi.ipynb](notebooks/eda_unimi.ipynb).
+EDA for Global situations: [notebooks/bdv_wgms_eda.ipynb](notebooks/bdv_wgms_eda.ipynb)
 
  **Data**
 
