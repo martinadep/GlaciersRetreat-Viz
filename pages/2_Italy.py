@@ -100,6 +100,7 @@ with col3:
                 <li><strong>Glacieret</strong>: restricted ice body of unclear shape and morphology, with slow or absent ice flow. This type is attributed to all the ice bodies featuring a surface area less than 0.5 km2.</li>
                 <li><strong>Valley glacier</strong>: an ice body featuring an accumulation basin from which originates an ablation tongue flowing downward between the walls of the valley, which needs to be clearly shaped and evident from a geomorphological point of view.</li>
             </ul>
+            <br>
             <em>Ablation tongue</em>: the elongated section of a glacier that extends into warmer elevations.
         </div>
         """,

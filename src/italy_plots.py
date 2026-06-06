@@ -231,15 +231,17 @@ def fragmented_barchart(df, region=None):
         'Total Glaciers': counts.values,
         'Fragmented Glaciers': fragmented_counts.values
     })
+    plot_df['Non-Fragmented'] = plot_df['Total Glaciers'] - plot_df['Fragmented Glaciers']
 
     fig = px.bar(plot_df, x='Total Glaciers', y=columns_to_group, 
         orientation='h', title='Fragmented Glaciers in each ' + columns_to_group,
         labels={'Total Glaciers': 'Non-Fragmented Glaciers', columns_to_group: ''},
         color_discrete_sequence=[COLOR_COUNT_SECOND]) 
     
-    fig.data[0].name = 'Total Glaciers'
+    fig.data[0].name = 'Non-Fragmented glaciers'
     fig.data[0].showlegend = True
-    fig.data[0].hovertemplate = '%{x}' 
+    fig.data[0].customdata = plot_df[['Non-Fragmented']].values
+    fig.data[0].hovertemplate = 'Non-Fragmented glaciers: %{customdata[0]}<extra></extra>' 
 
     fig.add_trace(go.Bar(x=plot_df['Fragmented Glaciers'], y=plot_df[columns_to_group],
                           orientation='h', name='Fragmented Glaciers',
@@ -252,10 +254,15 @@ def fragmented_barchart(df, region=None):
         legend=dict(yanchor="bottom", y=0.1, xanchor="right", x=1, font=dict(size=LEGEND_SIZE))
     )
 
+    
+
     fig.update_layout(
         font=dict(size=TICK_SIZE), 
         title=dict(font=dict(size=TITLE_SIZE)), 
-        xaxis=dict(tickfont=dict(size=TICK_SIZE)), 
+        xaxis=dict(
+            tickfont=dict(size=TICK_SIZE),
+            showgrid=True,
+        ), 
         yaxis=dict(tickfont=dict(size=TICK_SIZE))
     )
     return fig
@@ -322,7 +329,7 @@ def pie_glacier_types(df, region=None, by_area=False):
         prefix = "Area " if by_area else ""
         title_text = f"Glacier Type {prefix}Distribution in {region}"
     else:
-        title_text = 'Occupied Area by each Glacier Type' if by_area else 'Glacier Type Distribution'
+        title_text = 'Distribution of Total Glacier Area' if by_area else 'Glacier Type Distribution'
 
     if by_area:
         type_df = df.groupby('Glacier Type')['Area (km2)'].sum().reset_index()
