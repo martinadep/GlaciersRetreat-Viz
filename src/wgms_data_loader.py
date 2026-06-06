@@ -67,9 +67,4 @@ def load_wgms_regions_gt(code='total', year_range=None):
     return df_tidy
 
 
-import matplotlib.pyplot as plt
 
-df = load_wgms_regions_areakm2()
-df_pivot = df.pivot(index='year', columns='region', values='area_km2')
-df_pivot.plot()
-plt.show()
