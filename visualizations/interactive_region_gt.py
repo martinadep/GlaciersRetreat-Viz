@@ -84,18 +84,25 @@ def plot_glacier_mass_change(df: pd.DataFrame,
 
     fig.update_layout(
         title=dict(
-            text="Glacier mass change",
-            font=dict(size=22, family="Georgia, serif"),
-            x=0.02,
+            text="Glacier mass change, 1960-2025",
+            font=dict(size=18, family="Source Sans Pro, sans-serif"),
+            x=0.5,
+            xanchor='center',
         ),
         xaxis=dict(
-            title="Year",
+            title=dict(
+                text="Year",
+                font=dict(size=12, family="Source Sans Pro, sans-serif")
+                ),
             rangeslider=dict(visible=True, thickness=0.05),
             range=[min_year, max_year],
             type="linear",
         ),
         yaxis=dict(
-            title="Glacier mass change (Gt)",
+            title=dict(
+                text="Glacier mass change (Gt)",
+                font=dict(size=12, family="Source Sans Pro, sans-serif")
+                ),
             gridcolor="#e0e0e0",
             gridwidth=1,
         ),
@@ -117,7 +124,7 @@ def plot_glacier_mass_change(df: pd.DataFrame,
             yanchor="top",
             bgcolor="white",
             bordercolor="#cccccc",
-            font=dict(size=13, family="Georgia, serif"),
+            font=dict(size=13, family="Source Sans Pro, sans-serif"),
             buttons=buttons,
             showactive=True,
         )],

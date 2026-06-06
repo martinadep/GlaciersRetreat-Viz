@@ -14,7 +14,9 @@ def interactive_global_mmsle():
         x='year',
         y='mmsle',
         title='Millimeter sea level equivalent, 1976-2025',
+            # font=dict(size=18, family="Source Sans Pro, sans-serif")),
         labels={'mmsle': 'Change in global mean sea level, mm', 'year': 'Years'},
+
         color='mmsle',
 
         # [[0,'#4d0000'],[0.5,'#cc3300'],[1,'#fff5f0']]
@@ -27,8 +29,11 @@ def interactive_global_mmsle():
     )
 
     fig.update_layout(
+        font=dict(size=18,family="Source Sans Pro, sans-serif"),
         coloraxis_showscale=False,
-        hovermode='x unified'
+        hovermode='x unified',
+        title_x=0.5,
+        title_xanchor='center',
     )
 
 

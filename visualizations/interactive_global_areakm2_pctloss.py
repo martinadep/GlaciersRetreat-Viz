@@ -82,9 +82,15 @@ def interactive_global_grid_pctloss():
         for y in years
     ]
     layout = go.Layout(
+        title=dict(
+        text='Percentage Change in Glacier Surface Area, 1976-2025',
+        font=dict(size=18, family="Source Sans Pro, sans-serif"),
+        x=0.5,
+        xanchor='center',
+    ),
         geo=dict(projection_type='natural earth', showland=True, landcolor='#e8e6df',
                  showocean=True, oceancolor='#e8f0f5', coastlinecolor='#aaa', showframe=False, bgcolor='rgba(0,0,0,0)'),
-        margin=dict(t=10, b=80, l=0, r=0),
+        margin=dict(t=60, b=80, l=0, r=0),
         paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)',
         updatemenus=[dict(type='buttons', showactive=False, x=0.05, y=-0.08, xanchor='left',
             buttons=[
@@ -94,7 +100,7 @@ def interactive_global_grid_pctloss():
                      args=[[None], dict(frame=dict(duration=0), mode='immediate')])
             ])],
         sliders=[dict(active=0, steps=slider_steps, x=0.05, len=0.9, y=-0.05,
-                      currentvalue=dict(prefix='Year: ', font=dict(size=14), xanchor='center'),
+                      currentvalue=dict(prefix='Year: ', font=dict(size=14, family="Source Sans Pro, sans-serif"), xanchor='center'),
                       transition=dict(duration=300))]
     )
 
