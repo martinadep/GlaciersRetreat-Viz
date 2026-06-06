@@ -1,11 +1,13 @@
 import streamlit as st
-
+import src.utils as utils
 # 1. Page Configuration (Must be the very first Streamlit command)
 st.set_page_config(
     page_title="Glacier Retreat Dashboard",
     page_icon="🏔️",
     layout="wide"
 )
+
+utils.load_local_css("style.css")
 
 # 2. Define all pages pointing to your target files
 home_page = st.Page("Home.py", title="Home") 

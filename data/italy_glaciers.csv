@@ -1,0 +1,906 @@
+Glacier Name,ID Code,WGI Code,Mountain Sector,Mountain Group,Glacier Type,Area (km2),Area CGI (km2),Area WGI (km2),Aspect,Year,Region,Has Fragmented
+Calderone Superiore,1006,IT4L00A1,APENNINES,Gran Sasso d'Italia,Glacieret,0.01,0.06,0.05,NE,2011,Abruzzo,True
+Calderone Inferiore,1006.1,,APENNINES,Gran Sasso d'Italia,Glacieret,0.03,,,NE,2011,Abruzzo,False
+Banchi,86,IT4L01503001,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.05,,0.34,N,2005,Aosta Valley,False
+Tersiva,88,IT4L01505005,GRAIAN ALPS,Emilius-Tersiva Chain,Mountain,0.08,0.11,0.23,N,2005,Aosta Valley,False
+Blanchet,91,IT4L01507004,GRAIAN ALPS,Emilius-Tersiva Chain,Mountain,0.11,0.127,0.11,NE,2005,Aosta Valley,False
+Arpisson,92,IT4L01507005,GRAIAN ALPS,Emilius-Tersiva Chain,Glacieret,0.03,0.35,0.18,NW,2005,Aosta Valley,True
+Arpisson I,92.1,,GRAIAN ALPS,Emilius-Tersiva Chain,Glacieret,0.02,,0.11,NW,2005,Aosta Valley,False
+Lac Gelé,93,IT4L01507006,GRAIAN ALPS,Emilius-Tersiva Chain,Glacieret,0.03,,,NW,2005,Aosta Valley,False
+Tessonet Sud,95,IT4L01512003,GRAIAN ALPS,Emilius-Tersiva Chain,Mountain,0.26,0.54,0.54,NW,2005,Aosta Valley,False
+Lavina,99,IT4L01512009,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.02,,0.16,NW,2005,Aosta Valley,False
+Lavinetta,100,IT4L01512010,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.02,,0.05,NW,2005,Aosta Valley,False
+Arolla Nord,101,IT4L01512011,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.02,0.5,0.42,NW,2005,Aosta Valley,True
+Arolla Sud,101.1,IT4L01512012,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.19,,,NW,2005,Aosta Valley,False
+Sengie Nord,102,IT4L01512013,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.32,1.0,1.08,NW,2005,Aosta Valley,True
+Sengie Nord I,102.1,,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.21,,,N,2005,Aosta Valley,False
+Valeille,103,IT4L01512014,GRAIAN ALPS,Gran Paradiso Chain,Mountain,1.03,1.57,1.6,N,2009,Aosta Valley,False
+Valletta,106,IT4L01312017,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.2,0.4,0.36,NW,2005,Aosta Valley,False
+Patri,107,IT4L01512018,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.36,,0.62,NW,2005,Aosta Valley,False
+Money,109,IT4L01512020- IT4L01512019,GRAIAN ALPS,Gran Paradiso Chain,Mountain,2.66,3.4,3.62,NW,2009,Aosta Valley,False
+Grand Croux Est,111,IT4L01512021,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.16,2.0,1.64,NW,2009,Aosta Valley,True
+Grand Croux Centrale,111.1,,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.52,,,N,2009,Aosta Valley,False
+Grand Croux Ovest,111.2,,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.59,,,,2009,Aosta Valley,False
+Tribolazione,112,IT4L01512022,GRAIAN ALPS,Gran Paradiso Chain,Mountain,5.07,5.78,5.98,NE,2009,Aosta Valley,False
+Dzasset,113,IT4L01512023,GRAIAN ALPS,Gran Paradiso Chain,Mountain,1.15,1.22,1.32,NE,2009,Aosta Valley,False
+Herbetét,114,IT4L01512025,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.07,0.3,0.14,NE,2005,Aosta Valley,False
+Gran Val,115,IT4L01512026,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.33,0.49,0.44,NE,2009,Aosta Valley,False
+Lauson,116,IT4L01512027,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.23,0.6,0.46,NE,2009,Aosta Valley,False
+Tuf Sud,117,IT4L01512028,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.13,0.25,0.22,NE,2009,Aosta Valley,False
+Rayes Noires,120,IT4L01512030,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.05,0.25,0.12,E,2009,Aosta Valley,False
+Trajo,121,IT4L01512031,GRAIAN ALPS,Gran Paradiso Chain,Mountain,2.23,2.22,2.48,NE,2009,Aosta Valley,False
+Grivola,123,IT4L01512033,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.47,0.48,0.62,N,2009,Aosta Valley,False
+Belleface,124,IT4L01512034,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.17,0.35,0.44,N,2009,Aosta Valley,False
+Timorion,126,IT4101513003,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.49,0.65,0.62,NW,2009,Aosta Valley,False
+Gran Neyron Est,127,IT4L01513004,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.22,1.15,0.33,NW,2009,Aosta Valley,True
+Gran Neyron Ovest,127.1,IT4L01513005,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.54,,0.76,NW,2009,Aosta Valley,False
+Montandeyné,128,IT4L01513006,GRAIAN ALPS,Gran Paradiso Chain,Mountain,1.09,1.22,1.29,W,2009,Aosta Valley,False
+Lavacciú,129,IT4L01513007,GRAIAN ALPS,Gran Paradiso Chain,Mountain,1.55,1.83,2.23,NW,2009,Aosta Valley,False
+Gran Paradiso,130,IT4L01513008,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.32,0.68,0.51,W,2005,Aosta Valley,False
+Moncorvé,131,IT4L01513009,GRAIAN ALPS,Gran Paradiso Chain,Mountain,1.36,2.6,2.23,W,2009,Aosta Valley,False
+Monciair,132,IT4L01513010,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.4,0.53,0.75,W,2005,Aosta Valley,False
+Broglio,133,IT4L01513011,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.13,0.11,0.36,NW,2009,Aosta Valley,False
+Grand Etret,134,IT4L01513012,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.48,0.75,0.75,NW,2005,Aosta Valley,False
+Aouille,138,IT4L01513015,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.23,0.25,0.34,NE,2009,Aosta Valley,False
+Percià,139,IT4L01513016,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.16,0.31,0.29,NE,2009,Aosta Valley,False
+Entrelor Nord,140,IT4L01514002,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.19,0.25,0.31,N,2009,Aosta Valley,False
+Entrelor Sud,141,IT4L01514004,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.01,0.09,0.09,N,2005,Aosta Valley,False
+Vaudaletta,142,IT4L01514005,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.05,0.16,0.19,NW,2005,Aosta Valley,False
+Gran Vaudala,143,IT4L01514006,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.01,0.34,0.28,N,2005,Aosta Valley,False
+Lavassey,144,IT4L01514008,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.8,1.5,2.34,NW,2009,Aosta Valley,False
+Fond Est,145,IT4L01514009,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.65,1.15,,NW,2005,Aosta Valley,False
+Fond Centrale,146.1,IT4L01514010,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.17,0.44,0.27,N,2009,Aosta Valley,False
+Fond Ovest,146,,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.12,,,N,2005,Aosta Valley,True
+Soches-Tsanteleina,147,IT4101514011,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Valley,2.77,3.4,3.32,NE,2009,Aosta Valley,False
+Goletta,148,IT4L01514012,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,1.74,2.4,2.4,N,2009,Aosta Valley,False
+Traversière Centrale,150,IT4L01514014,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.07,0.19,0.23,SE,2009,Aosta Valley,False
+Traversière Nord,151,IT4L01514015,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.2,0.29,0.31,E,2009,Aosta Valley,True
+Traversière Nord-Combassa,151.1,,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.01,,,E,2005,Aosta Valley,False
+Truc Blanc Est,152,IT4L01514018,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.01,0.47,0.25,E,2005,Aosta Valley,True
+Truc Blanc Ovest,152.1,,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.02,,,,2009,Aosta Valley,False
+Fos Sud,153,IT4L01514019,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.01,0.42,0.34,E,2009,Aosta Valley,True
+Fos Nord,153.1,IT4L01514020,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.01,,0.2,S,2005,Aosta Valley,False
+Pelaud,154,IT4101514021,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.06,0.05,0.01,NE,2005,Aosta Valley,False
+Torrent,155,IT4L01514022,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.66,0.75,0.83,NE,2009,Aosta Valley,False
+Tos,156,IT4L01515001,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.2,0.39,0.38,N,2009,Aosta Valley,False
+Luetta,157,IT4L01515004,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.06,0.19,0.02,NW,2009,Aosta Valley,False
+Lepère,158,IT4L01515008,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.02,0.11,0.02,NW,2005,Aosta Valley,False
+L'Espine,159,IT4L01515007,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.11,0.19,0.23,N,2009,Aosta Valley,False
+Rabuigne,160,IT4L01515009,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.05,0.16,0.14,NW,2009,Aosta Valley,False
+Monte Forciaz,161,IT4L01515010,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.17,0.26,0.3,NW,2005,Aosta Valley,False
+Invergnan,162,IT4L01515011,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.8,0.86,1.12,NW,2005,Aosta Valley,False
+Giasson,163,IT4L01515012,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.74,0.87,1.07,NW,2009,Aosta Valley,False
+San Martino Nord,164,IT4L01515014,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.04,0.2,0.18,N,2009,Aosta Valley,False
+San Martino Sud,165,IT4L01515015,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.1,0.34,0.23,NW,2009,Aosta Valley,False
+Bassac,166,IT4L01515016,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.26,0.5,0.75,NW,2009,Aosta Valley,False
+Bassac Derè Nord,167,IT4L01515018,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.1,0.49,0.25,W,2009,Aosta Valley,True
+Bassac Derè Centrale,167.1,IT4L01515019,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.05,,0.15,W,2005,Aosta Valley,False
+Gliairetta-Vaudet,168,IT4L01515021,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Valley,3.68,3.6,4.41,N,2009,Aosta Valley,False
+Grande Sassière,169,IT4L01515022,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.04,0.07,0.08,NE,2005,Aosta Valley,False
+Tavella,171,IT4L01515024,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.07,0.06,0.28,NE,2009,Aosta Valley,False
+Plattes des Chamois,172,IT4L01515025,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.69,0.7,0.7,NE,2009,Aosta Valley,False
+Vuert,173,IT4L01515026,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.13,0.19,0.19,NE,2009,Aosta Valley,False
+Suessa,174,Π4101515027,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.21,0.23,0.29,NE,2009,Aosta Valley,False
+Suzzei,176,IT4L01515029,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.03,0.2,0.2,NE,2009,Aosta Valley,False
+Ormelune,177,IT4L01515030,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.26,1.18,0.89,NE,2009,Aosta Valley,False
+San Grato Ovest,178.1,IT4L01515034,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.04,,0.13,S,2005,Aosta Valley,False
+San Grato Est,178.2,IT4L01515036,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.03,,0.16,S,2005,Aosta Valley,False
+San Grato Superiore,178.3,IT4L01515035,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.04,,0.11,S,2005,Aosta Valley,False
+Morion Ovest,179,IT4L01515037,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.27,0.6,0.66,NE,2009,Aosta Valley,True
+Morion Ovest I,179.1,IT4L01515038,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.07,,0.9,NE,2009,Aosta Valley,False
+Morion Ovest II,179.2,IT4L01515039,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.02,,2.25,NE,2009,Aosta Valley,False
+Morion Est,180,IT4L01516003,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.09,,0.37,NE,2009,Aosta Valley,False
+Château Blanc,181,,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,1.61,2.2,2.2,NE,2009,Aosta Valley,False
+Testa del Paramont,183,,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.14,0.18,0.15,N,2005,Aosta Valley,False
+Paramont,184,IT4L01516002,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.07,,0.53,NW,2009,Aosta Valley,False
+Usellettes,185,IT4L01516008,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.34,0.95,0.12,NW,2009,Aosta Valley,False
+Invergnures Nord,186,IT4L01516009,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.05,0.25,0.18,NW,2009,Aosta Valley,False
+Flambeau,188,IT4L01516011,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.07,0.14,9.54,NW,2009,Aosta Valley,False
+Rutor,189,IT4L01516012,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,8.29,9.53,0.15,NW,2009,Aosta Valley,False
+Grande Assaly Sud,190,IT4L01516013,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.12,0.12,0.12,NE,2009,Aosta Valley,False
+Tachuy,192,IT4L01516015,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.06,0.13,0.06,N,2009,Aosta Valley,False
+Freduaz Est,196,IT4L01516019,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.05,,0.17,NE,2005,Aosta Valley,False
+Freduaz Ovest,197,IT4101516020,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.12,,0.28,N,2009,Aosta Valley,False
+Valaisan,198,IT4L01516021,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.06,,0.22,NE,2009,Aosta Valley,False
+Arguerey Sud,200,IT41.01516024,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.13,0.49,0.51,NE,2009,Aosta Valley,False
+Arguerey Nord,201,IT41.01516025,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.22,,0.5,E,2009,Aosta Valley,False
+Breuil Sud,202,IT4L01516027,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.28,0.73,0.59,E,2009,Aosta Valley,False
+Breuil Nord,203,IT4101516028,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.32,0.59,1.09,NE,2009,Aosta Valley,False
+Chavannes,204,IT41.01516031,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Mountain,0.14,1.25,0.09,N,2009,Aosta Valley,False
+Fornet,205,IT4L01516029,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.05,,0.12,N,2005,Aosta Valley,False
+Berio Blanc,206,IT4L01316033,GRAIAN ALPS,Grande Sassière-Tsanteleina Chain,Glacieret,0.05,,0.1,SE,2005,Aosta Valley,False
+Monte Bianco Seigne,207,IT4L01517001,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Glacieret,0.04,0.1,0.6,SE,2009,Aosta Valley,False
+Estellette,208,IT4L01517003,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.45,0.54,4.09,SE,2009,Aosta Valley,False
+Lex Blanche,209,IT4L01517004,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,3.32,3.54,,S,2009,Aosta Valley,False
+Trelatête Sud,210,,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.18,0.25,,S,2009,Aosta Valley,False
+Trelatête Est,211,,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.21,0.17,0.24,SE,2009,Aosta Valley,False
+Piccolo Monte Bianco/ Petit Mont Blanc,212,IT4L01517005,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.13,0.2,0.13,SE,2009,Aosta Valley,False
+Miage,213,IT4L01517006,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Valley,10.47,11.29,,NE,2009,Aosta Valley,False
+Dômes de Miage:,214,,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.06,0.08,,SE,2009,Aosta Valley,False
+Col de Miage,215,,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.09,0.12,1.46,S,2009,Aosta Valley,False
+Brouillard,216,IT4L01517007,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,1.25,1.25,0.13,S,2009,Aosta Valley,False
+Châtelet,217,IT4L01517008,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Glacieret,0.06,,1.42,S,2009,Aosta Valley,False
+Freney,218,IT4L01517009,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,1.16,1.21,,S,2005,Aosta Valley,False
+Brenva,219,IT4L01517011,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,5.77,7.3,8.06,SE,2009,Aosta Valley,True
+Brenva Inferiore,219.1,,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.7,,,E,2009,Aosta Valley,False
+Entrèves,220,IT4L01517012,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.16,0.24,0.27,SE,2009,Aosta Valley,False
+Toula,221,IT4L01517013,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.64,0.81,0.93,SE,2009,Aosta Valley,False
+Mon Frety,222,IT4L01517015,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.09,0.13,0.18,SE,2009,Aosta Valley,False
+Colle del Gigante,223,IT4L01517014,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.1,0.06,0.13,SE,2005,Aosta Valley,False
+Rochefort,224,IT4L01517017,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.66,0.66,1.08,SE,2009,Aosta Valley,False
+Planpincieux,225,IT4L01517018,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,1.08,1.15,1.33,SE,2009,Aosta Valley,False
+Grandes Jorasses,226,IT4L01517019,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.58,0.76,0.9,5,2009,Aosta Valley,False
+Pra Sec,227,IT4L01517020,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.14,0.18,0.16,SE,2005,Aosta Valley,False
+Tronchey,228,IT4L01517021,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.09,0.12,0.12,SE,2005,Aosta Valley,False
+Frèbouzie,229,IT4L01517022,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,2.07,2.39,2.57,SE,2009,Aosta Valley,False
+Leschaux,230,IT4L01517022.1,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.09,0.11,,5,2009,Aosta Valley,False
+Gruetta Ovest,231,IT4L01517023,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.26,0.38,0.34,S,2009,Aosta Valley,False
+Gruetta Est,232,IT4L01517025,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.16,0.2,0.25,SE,2009,Aosta Valley,False
+Punta Bosio,233,IT4L01517024,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.02,0.06,0.06,SE,2009,Aosta Valley,False
+Triolet,234,IT4L01517027,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,3.61,3.9,4.61,SE,2009,Aosta Valley,False
+Prè de Bar,235,IT4L01517028,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,3.02,3.42,3.53,SE,2005,Aosta Valley,False
+Piccolo Grapillon,236,IT4L01517029,WESTERN RHAETIAN ALPS,Mont Blanc Massif,Mountain,0.19,0.35,0.38,SW,2009,Aosta Valley,False
+Grand Combin Luisettes,242,IT4L01521008,PENNINE ALPS,Grand Combin Chain,Mountain,0.02,0.3,0.09,SE,2005,Aosta Valley,False
+By,243,IT4L01521009,PENNINE ALPS,Grand Combin Chain,Mountain,0.29,0.55,0.56,S,2009,Aosta Valley,False
+Mont Gelé,244,IT4L01521012,PENNINE ALPS,Grand Combin Chain,Mountain,0.8,1.83,1.64,SW,2005,Aosta Valley,False
+Punta Florio,245,IT4L01521013,PENNINE ALPS,Grand Combin Chain,Mountain,0.09,0.21,0.23,SE,2005,Aosta Valley,False
+Mont Gelé Est,246,IT4L01522002,PENNINE ALPS,Grand Combin Chain,Mountain,0.1,0.35,0.32,SE,2005,Aosta Valley,False
+Colle di Chardonney,247,IT4L01522003,PENNINE ALPS,Grand Combin Chain,Mountain,0.03,0.18,0.15,SW,2009,Aosta Valley,True
+Chardonney Superiore,247.1,IT4L01522004,PENNINE ALPS,Grand Combin Chain,Mountain,0.04,,0.06,SW,2009,Aosta Valley,False
+Chardonney Inferiore,247.2,IT4L01522005,PENNINE ALPS,Grand Combin Chain,Mountain,0.31,,,41001,2005,Aosta Valley,False
+Rayette,248,IT4L01522007,PENNINE ALPS,Grand Combin Chain,Mountain,,0.55,0.13,5,2005,Aosta Valley,False
+Sassa Est,253,IT4L01522012,PENNINE ALPS,Grand Combin Chain,Mountain,0.09,0.29,0.28,5W,2005,Aosta Valley,False
+Oren Sud,254,IT4L01522014,PENNINE ALPS,Grand Combin Chain,Mountain,0.24,0.34,0.52,E,2009,Aosta Valley,False
+Oren Nord,255,IT4L01522015,PENNINE ALPS,Grand Combin Chain,Mountain,0.29,0.6,0.46,E,2009,Aosta Valley,True
+Oren Nord 1,255.1,IT4L01522016,PENNINE ALPS,Grand Combin Chain,Mountain,0.09,,0.23,5W,2009,Aosta Valley,False
+Évèque,256,IT4L01522018,PENNINE ALPS,Grand Combin Chain,Mountain,0.36,0.24,0.38,SE,2009,Aosta Valley,False
+Col Collon,257,IT4L01522019,PENNINE ALPS,Grand Combin Chain,Mountain,0.09,1.29,0.22,5W,2009,Aosta Valley,True
+Punta Laurier Noir,257.1,IT4L01522020,PENNINE ALPS,Grand Combin Chain,Mountain,0.25,,0.51,5W,2009,Aosta Valley,False
+Col Laurier Noir,257.2,IT4L01522021,PENNINE ALPS,Grand Combin Chain,Glacieret,0.02,,0.1,SW,2005,Aosta Valley,False
+Cervino Mont Braoulè,258,IT4L01522022,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,1.25,1.7,1.73,SE,2009,Aosta Valley,False
+Tza de Tzan,259,IT4L01522024,PENNINE ALPS,Weisshorn-Matterhorn Chain,Valley,3.27,4.54,3.95,S,2009,Aosta Valley,False
+Grandes Murailles,260,IT4L01522027,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,6.26,7.32,7.57,W,2005,Aosta Valley,False
+Petites Murailles,261,IT4L01522028,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.13,0.15,0.23,W,2005,Aosta Valley,False
+Des Dames-Mont Blanc du Creton,262,IT4L01522029,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.34,0.38,0.53,NW,2005,Aosta Valley,False
+Bellatzà,264,IT4L01522030,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.17,0.73,0.34,NW,2009,Aosta Valley,False
+Solatset,265,IT4L01522032,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.2,0.6,0.32,NW,2009,Aosta Valley,False
+Balanselmo Nord-Ovest,266,IT4101522033,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.09,0.43,0.35,NW,2005,Aosta Valley,False
+Chavacour,267,IT4L01522035,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.15,1.07,0.47,N,2005,Aosta Valley,False
+Luseney,269,IT4L01522038,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.2,0.43,0.39,N,2005,Aosta Valley,False
+Roisette,272,IT4L01506003,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.07,0.12,0.16,NE,2005,Aosta Valley,False
+Vofrède,278,IT4L01506007,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.16,0.31,0.23,NE,2009,Aosta Valley,False
+Mont Blanc du Creton,279,IT4L01506009,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.04,0.05,0.08,NE,2009,Aosta Valley,False
+Jumeaux,280,IT4L01506011,PENNINE ALPS,Weisshorn-Matterhorn Chain,Glacieret,0.02,0.05,0.06,E,2005,Aosta Valley,False
+Mont Tabel,281,IT4L01506012,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.79,1.04,0.92,SE,2009,Aosta Valley,False
+Cherillon,282,IT4L01506014,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.85,1.15,1.15,5,2009,Aosta Valley,False
+Leone,283,IT4L01506015,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.09,0.16,0.16,5,2009,Aosta Valley,True
+Leone Alto,283.1,IT4L01506016,PENNINE ALPS,Weisshorn-Matterhorn Chain,Glacieret,0.03,,0.09,5,2009,Aosta Valley,False
+Leone Alto 1,283.2,,PENNINE ALPS,Weisshorn-Matterhorn Chain,Glacieret,0.02,,,5,2009,Aosta Valley,False
+Tyndall,284,IT4L01506017,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.14,0.29,0.24,5,2009,Aosta Valley,False
+Cervino,285,IT4L01506018,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.21,0.29,0.75,5,2005,Aosta Valley,False
+Forca,286,IT4L01506019,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.3,1.04,0.49,SW,2005,Aosta Valley,False
+Teodulo Inferiore,288,IT4101506023,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.2,0.87,0.44,SW,2009,Aosta Valley,False
+Valtournenche,289,IT4101506024,PENNINE ALPS,Weisshorn-Matterhorn Chain,Mountain,0.9,1.65,,SW,2009,Aosta Valley,False
+Monte Rosa Roisetta,291,IT4L01506028,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.02,0.06,0.06,NW,2005,Aosta Valley,False
+Ventina-Tzére,295,IT4L01504002 IT4L01507296,PENNINE ALPS,Monte Rosa Massif,Mountain,3.56,4.0,,SW,2009,Aosta Valley,False
+Verra Grande,297,IT4L01504004,PENNINE ALPS,Monte Rosa Massif,Valley,6.62,6.11,7.28,S,2009,Aosta Valley,False
+Verra Piccolo-Castore,298,IT4L01504005,PENNINE ALPS,Monte Rosa Massif,Mountain,2.1,1.41,1.09,SW,2005,Aosta Valley,False
+Martelli,300,IT4L01504006,PENNINE ALPS,Monte Rosa Massif,Mountain,0.07,0.12,0.13,W,2005,Aosta Valley,False
+Perazzi,301,IT4L01504007,PENNINE ALPS,Monte Rosa Massif,Mountain,0.38,0.42,0.63,SW,2005,Aosta Valley,False
+Felik,303,IT4L01502001,PENNINE ALPS,Monte Rosa Massif,Mountain,1.44,1.79,1.86,S,2005,Aosta Valley,False
+Lys,304,14101502002,PENNINE ALPS,Monte Rosa Massif,Valley,9.58,10.78,,S,2009,Aosta Valley,False
+Garstelet,305,IT4L01508305,PENNINE ALPS,Monte Rosa Massif,Mountain,0.31,0.65,,S,2009,Aosta Valley,False
+Indren,306,IT4L01502003,PENNINE ALPS,Monte Rosa Massif,Mountain,0.92,1.68,1.37,S,2005,Aosta Valley,False
+Schkeerpie,307,IT4L01502004,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.04,0.7,0.08,NW,2009,Aosta Valley,False
+Netscho,308,IT4L01502005,PENNINE ALPS,Monte Rosa Massif,Mountain,0.07,0.19,0.28,NW,2005,Aosta Valley,False
+Montasio Est,980,IT4L00003001,JULIAN ALPS,Julian Alps,Glacieret,0.04,0.03,0.07,N,2012,Friuli Venezia Giulia,False
+Montasio Ovest,981,IT4L00003005,JULIAN ALPS,Julian Alps,Mountain,0.05,0.07,0.08,N,2012,Friuli Venezia Giulia,False
+Conca Prevala,982.1,,JULIAN ALPS,Julian Alps,Glacieret,0.02,,,N,2012,Friuli Venezia Giulia,False
+Canin Est,984,IT4L00003002,JULIAN ALPS,Julian Alps,Glacieret,0.01,0.1,0.07,N,2011,Friuli Venezia Giulia,True
+Canin Est I,984.1,,JULIAN ALPS,Julian Alps,Glacieret,0.01,,,N,2011,Friuli Venezia Giulia,False
+Canin Ovest,985,IT4L00003004,JULIAN ALPS,Julian Alps,Glacieret,0.04,0.09,0.27,N,2011,Friuli Venezia Giulia,True
+Canin Ovest,985.1,,JULIAN ALPS,Julian Alps,Glacieret,0.02,,,N,2011,Friuli Venezia Giulia,False
+Pizzo Quadro Nord,364,IT4L01113002,LEPONTINE ALPS,Adula Alps,Glacieret,0.03,0.25,0.15,NE,2007,Lombardy,False
+Pizzo Ferrè,365,IT4L01113003,LEPONTINE ALPS,Adula Alps,Mountain,0.56,0.9,0.79,NE,2007,Lombardy,False
+Passo Zoccone,368,IT4L01113005,LEPONTINE ALPS,Adula Alps,Glacieret,0.05,0.1,0.14,NE,2007,Lombardy,False
+Pizzo Tambo,369,IT4L01113006,LEPONTINE ALPS,Adula Alps,Mountain,0.09,,0.13,SE,2007,Lombardy,True
+Pizzo Tambo I,369.1,,LEPONTINE ALPS,Adula Alps,Glacieret,0.01,,,SE,2007,Lombardy,False
+Suretta Sud,371,IT4L01113007,WESTERN RHAETIAN ALPS,Platta-Unterhalbstein Group,Mountain,0.18,0.25,0.41,SW,2007,Lombardy,False
+Orsareigis,372,IT4L01113008,WESTERN RHAETIAN ALPS,Platta-Unterhalbstein Group,Glacieret,0.04,0.07,0.13,S,2007,Lombardy,False
+Mortée,373,IT4L01113009,WESTERN RHAETIAN ALPS,Platta-Unterhalbstein Group,Glacieret,0.07,0.22,0.25,NW,2007,Lombardy,False
+Pizzo Rosso,1002,IT4R01313G12,WESTERN RHAETIAN ALPS,Platta-Unterhalbstein Group,Mountain,0.12,0.22,0.19,NW,2007,Lombardy,False
+Cima di Lago Nord,1003,IT4R01313G13,WESTERN RHAETIAN ALPS,Platta-Unterhalbstein Group,Mountain,0.11,0.17,0.14,NW,2007,Lombardy,False
+Cima di Lago Ovest,1004,IT4R01313G14,WESTERN RHAETIAN ALPS,Platta-Unterhalbstein Group,Mountain,0.21,0.59,0.47,NW,2007,Lombardy,False
+Ponciagna,1005,IT4R01313G1S,WESTERN RHAETIAN ALPS,Platta-Unterhalbstein Group,Mountain,0.36,0.65,0.63,NE,2007,Lombardy,False
+Sivigia Nord-Est,376,IT4L01111002,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.22,0.15,0.25,W,2007,Lombardy,True
+Sivigia Nord-Est I,376.1,,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.06,,,W,2007,Lombardy,False
+Sivigia Sud-Est,377,IT4L01111003,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.07,,,NW,2007,Lombardy,False
+Arnasca Est,378,IT4L01111004,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.04,0.07,0.14,NW,2007,Lombardy,False
+Arnasca Ovest,379,IT4L01111005,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.07,0.1,0.15,N,2007,Lombardy,True
+Arnasca Ovest I,379.1,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,,,N,2007,Lombardy,False
+Spassato Ovest,381,IT4L01111007,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.03,0.02,0.04,N,2007,Lombardy,False
+Calvo,383,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.02,0.1,0.04,N,2007,Lombardy,False
+Cengalo Sud-Est,388,IT4L01104002,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.12,0.11,0.17,SW,2007,Lombardy,False
+Passo di Bondo,390,IT4L01104010,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.07,,0.19,SW,2007,Lombardy,False
+Pizzo del Ferro Ovest,392,IT4L01104012,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.03,0.07,0.13,SW,2007,Lombardy,False
+Pizzo del Ferro Centrale,393,IT4L01104014,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.03,0.02,0.06,SW,2007,Lombardy,False
+Zocca Sud,395,IT4L01104016,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.02,0.03,0.09,SE,2007,Lombardy,False
+Rasica Ovest Inferiore,397,IT4L01104020,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.07,0.06,0.25,SW,2007,Lombardy,False
+Rasica Ovest Superiore,398,IT4L01104022,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.06,0.09,,W,2007,Lombardy,False
+Rasica Est,399,IT4L01104023,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.02,0.05,0.13,SW,2007,Lombardy,True
+Rasica Est 1,399.1,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,,,SW,2007,Lombardy,False
+Pizzo Torrone Ovest,400,IT4L01104025,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.07,0.1,0.15,SW,2007,Lombardy,False
+Pizzo Torrone Est,401,IT4L01104026,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.05,0.08,0.14,S,2007,Lombardy,False
+Cameraccio Est,403,IT4L01104028,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,0.06,0.06,S,2007,Lombardy,False
+Pioda Sud-Ovest,406,IT4L01104032,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.03,,0.07,W,2007,Lombardy,True
+Pioda Sud-Ovest I,406.1,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,,,W,2007,Lombardy,False
+Pioda Sud,407,IT4L01104033,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.18,0.3,0.39,NW,2007,Lombardy,True
+Pioda Sud I,407.1,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,,,NW,2007,Lombardy,False
+Predarossa,408,IT4L01104034,WESTERN RHAETIAN ALPS,Bernina Range,Valley,0.58,0.88,1.0,SW,2007,Lombardy,False
+Corna Rossa,409,IT4L01104035,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.05,0.04,0.06,NW,2007,Lombardy,True
+Corni Bruciati I,409.1,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,,,NW,2007,Lombardy,False
+Corni Bruciati II,409.2,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.02,,,NW,2007,Lombardy,False
+Cassandra Ovest,410,IT4L01122002,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.02,0.22,0.18,SE,2007,Lombardy,False
+Cassandra Est,411,IT4L01122003,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.23,0.4,0.47,SE,2007,Lombardy,True
+Cassandra Superiore,411.1,IT4L01122004,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.03,,,S,2007,Lombardy,False
+Sassersa,412,IT4101122005,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.04,0.07,0.11,NE,2007,Lombardy,False
+Pizzo Rachele,415,IT4L01122008,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.04,0.05,0.07,NW,2007,Lombardy,False
+Ventina,416,IT4L01122009,WESTERN RHAETIAN ALPS,Bernina Range,Valley,1.89,2.1,2.26,NE,2007,Lombardy,False
+Canalone della Vergine,417,IT4L01122010,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.35,0.22,0.38,NE,2007,Lombardy,False
+Pizzo Ventina,418,IT4L01122011,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.11,0.12,0.16,NE,2007,Lombardy,False
+Disgrazia,419,IT4L01122012,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,2.25,2.1,3.23,N,2007,Lombardy,False
+Punta Baroni,420,IT4L01122013,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.07,0.08,0.09,E,2007,Lombardy,False
+Passo di Chiareggio,421,IT4L01122014,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.12,0.08,0.25,E,2007,Lombardy,False
+Sissone,422,IT4L01122015,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.6,0.6,0.78,E,2007,Lombardy,False
+Cima di Rosso Sud-Est,423,IT4L01122016,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.06,0.06,0.13,SE,2007,Lombardy,False
+Cima di Rosso Est,424,IT4L01122017,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.13,0.17,0.17,SE,2007,Lombardy,False
+Vazzeda,425,IT4L01122018,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.27,0.53,0.4,NE,2007,Lombardy,False
+Cima di Val Bona Nord,426,IT4L01122019,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,0.03,0.04,NE,2007,Lombardy,False
+Sassa di Fora,430,IT4L01122023,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.05,0.07,0.1,E,2007,Lombardy,True
+Passo delle Tre Mogge,430.1,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.02,,,S,2007,Lombardy,False
+Pizzo delle Tre Mogge,431,IT4L01122025,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.08,0.06,0.11,S,2007,Lombardy,False
+Scescen Inferiore,432,IT4L01123001,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,4.78,7.0,6.16,E,2007,Lombardy,False
+Scescen Superiore,433,IT4L01123002,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,4.92,4.0,5.3,SW,2007,Lombardy,False
+Marinelli,434,IT4L01123003,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.15,,0.3,W,2007,Lombardy,False
+Caspoggio,435,IT4L01123004,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.33,0.8,0.58,NW,2007,Lombardy,False
+Fellaria Ovest,439,IT4L01123009,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,4.32,5.0,5.09,SE,2007,Lombardy,True
+Fellaria Centrale,439.1,IT4L01123010,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.05,,0.13,S,2007,Lombardy,False
+Fellaria Est,440,IT4L01123011,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,4.01,5.0,5.02,SE,2007,Lombardy,True
+Fellaria Est I,440.1,,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,0.8,,,SW,2007,Lombardy,False
+Fellaria Superiore,440.2,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.03,,1.03,SW,2007,Lombardy,False
+Pizzo Varuna,441,IT4L01123013,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.1,1.0,,SW,2007,Lombardy,True
+Cima Fontana,441.1,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.02,,,N,2007,Lombardy,False
+Cima Fontana I,441.2,,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,,,N,2007,Lombardy,False
+Pizzo Scalino,443,IT4L01123015,WESTERN RHAETIAN ALPS,Bernina Range,Mountain,1.48,3.6,2.12,N,2007,Lombardy,False
+Pizzo Painale Nord-Ovest,445,IT4L01121002,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.03,0.13,0.17,NW,2007,Lombardy,False
+Pizzo Painale Sud-Ovest,446,IT4L01121003,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,,0.07,0.09,W,2007,Lombardy,False
+Corti,449,IT4L01121006,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,0.01,0.12,NW,2007,Lombardy,False
+Cima di Forame,453,IT4L01131003,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.02,,0.04,NE,2007,Lombardy,False
+Pizzo Painale Nord-Est,455,IT4L01131005,WESTERN RHAETIAN ALPS,Bernina Range,Glacieret,0.01,0.1,0.05,NE,2007,Lombardy,False
+Lago Spalmo,458,IT4L01135002,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.13,0.3,0.21,SW,2007,Lombardy,False
+Campaccio,462,IT4L01136001,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.04,0.14,0.18,N,2007,Lombardy,False
+Sasso Torto,463,IT4L01136002,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.05,0.07,0.08,NE,2007,Lombardy,False
+Rinalpi,466,IT4L01138002,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.04,0.33,0.18,N,2007,Lombardy,False
+Val Lia,467,IT4L01138003,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.39,0.58,0.61,N,2007,Lombardy,True
+Val Lia Est,467.1,,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.03,,,NW,2007,Lombardy,False
+Cardonné,468,IT4L01138006,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.8,1.01,1.03,N,2007,Lombardy,False
+Verva Minore,470,IT4L01138007,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.03,0.06,0.07,W,2007,Lombardy,False
+Verva Maggiore,471,IT4L01138008,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.04,0.14,0.14,W,2007,Lombardy,False
+Passo dei Sassi Rossi Ovest,472,IT4L01138009,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.04,0.15,0.1,W,2007,Lombardy,False
+Dosde Est,473,IT4L01138010,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.71,0.9,1.08,NE,2007,Lombardy,False
+Dosde Centrale I,474,,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.19,0.59,0.79,N,2007,Lombardy,True
+Dosde Centrale II,474.1,,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.26,,,NW,2007,Lombardy,False
+Cima di Lago Spalmo Ovest,474.2,,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.02,,,NE,2007,Lombardy,False
+Dosde Ovest,475,IT4L01138013,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.17,0.34,0.47,NW,2007,Lombardy,True
+Dosde Ovest Inferiore,475.1,,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.07,,,NW,2007,Lombardy,False
+Val Viola Est,476,IT4L01138014,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.09,0.2,0.27,NE,2007,Lombardy,False
+Val Viola Ovest,477,IT4L01138015,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.1,0.19,0.32,NE,2007,Lombardy,False
+Mine,991,TT4J14311008,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.05,0.28,0.21,N,2007,Lombardy,False
+Corna di Capra di Dentro,992,IT4L01138004,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.03,0.1,0.1,NW,2007,Lombardy,False
+Pizzo Pavallo,994,IT4L01138006,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.07,0.1,0.1,NE,2007,Lombardy,False
+Val Nera Est,995,IT4L01138007,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.13,0.19,0.28,NW,2007,Lombardy,True
+Val Nera Centrale,995.1,,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.02,,,NW,2007,Lombardy,False
+Val Nera Ovest,996,IT4L01138008,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.38,0.56,0.63,N,2007,Lombardy,False
+Campo Nord,997,IT4L01138009,SOUTHERN RHAETIAN ALPS,Livigno Alps,Mountain,0.31,0.36,0.43,NW,2007,Lombardy,False
+Saliente,1000,IT4L01138010,SOUTHERN RHAETIAN ALPS,Livigno Alps,Glacieret,0.04,0.05,0.08,NE,2007,Lombardy,False
+Platigliole,481,IT4L01139002,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.12,0.31,0.31,NE,2007,Lombardy,False
+Vitelli,482,IT4L01139003,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,1.89,2.0,1.82,NE,2007,Lombardy,False
+Crapinellin,483,IT4L01139004,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.01,0.13,0.16,NW,2007,Lombardy,False
+Cristallo Est,484,IT4L01139005,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.14,0.8,0.64,NW,2007,Lombardy,False
+Cristallo Centrale,485,IT4L01139006,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.09,0.19,0.13,N,2007,Lombardy,False
+Cristallo Ovest,486,IT4L01139007,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.09,0.44,,N,2007,Lombardy,False
+Campo,488,IT4L01137001,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.84,1.0,1.0,NW,2007,Lombardy,False
+Zebrů Ovest,490,IT4L01137003,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.39,,2.13,SE,2007,Lombardy,True
+Zebra Est,490.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.99,,,W,2007,Lombardy,False
+Miniera,492,IT4L01137004,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.6,0.5,0.66,SW,2007,Lombardy,False
+Castelli Est,493,IT4L01137006,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.22,0.4,0.42,SW,2007,Lombardy,True
+Castelli Est I,493.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.02,,,NW,2007,Lombardy,False
+Castelli Ovest,494,IT4L01137007,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.43,0.65,0.64,N,2007,Lombardy,False
+Montagna Vecchia 1,495,IT4L01137008,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.03,0.25,0.46,N,2007,Lombardy,True
+Montagna Vecchia II,495.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.07,,,NE,2007,Lombardy,False
+Montagna Vecchia III,495.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.05,,,NE,2007,Lombardy,False
+Montagna Vecchia IV,495.3,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.05,,,N,2007,Lombardy,False
+Forà,496,IT4L01137009,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.44,0.5,0.56,N,2007,Lombardy,False
+Confinale Ovest,497,IT4L01137010,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.08,0.07,0.1,W,2007,Lombardy,False
+Gran Zebrü,502,IT4L01137016:,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.79,1.02,1.28,S,2007,Lombardy,True
+Gran Zebra I,502.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.02,,,S,2007,Lombardy,False
+Cedec,503,IT4L01137018,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,2.07,2.5,2.84,NW,2007,Lombardy,False
+Pasquale Nord,504,IT4L01137019,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.06,0.31,0.26,NW,2007,Lombardy,True
+Pasquale Nord I,504.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.02,,,NW,2007,Lombardy,False
+Pasquale Nord II,504.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.02,,,NW,2007,Lombardy,False
+Pasquale Sud,505,IT4L01137020,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.06,0.2,0.15,NW,2007,Lombardy,False
+Rosole,506,IT4L01137021,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.61,1.11,1.05,SW,2007,Lombardy,True
+Col de la Mare I,506.1,IT4L01137022,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.7,1.0,1.13,NW,2007,Lombardy,False
+Col de la Mare II,506.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.11,,,NW,2007,Lombardy,False
+Palon de la Mare,506.3,IT4L01137023,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,1.06,1.0,1.34,SW,2007,Lombardy,False
+Forni,507,IT4L01137024,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,11.34,20.0,13.24,N,2007,Lombardy,False
+San Giacomo Sud,508.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.05,,,E,2007,Lombardy,False
+San Giacomo Est,508,IT4L01137026,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.1,0.14,0.13,NE,2007,Lombardy,True
+San Giacomo Ovest,509,IT4L01137027,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.17,0.19,0.21,N,2007,Lombardy,False
+Cerena,510,IT4L01137028,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.55,0.5,0.87,N,2007,Lombardy,True
+Cerena I,510.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.02,,,N,2007,Lombardy,False
+Pizzo Tresero Nord,510.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.07,,,N,2007,Lombardy,False
+Tresero,511,IT4L01137030,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.53,0.65,0.77,SW,2007,Lombardy,False
+Punta Pedranzini,512.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.38,,,S,2007,Lombardy,False
+Dosegu,512,IT4L01137031,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,2.16,2.15,3.44,SW,2007,Lombardy,True
+Passo Dosegú,513,IT4L01137032,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.02,0.14,0.15,N,2007,Lombardy,False
+Sforzellina,516,IT4L01137036,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.3,0.29,0.39,NW,2007,Lombardy,False
+Gavia,518,IT4L01137038,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Glacieret,0.04,0.02,0.07,NE,2007,Lombardy,False
+Alpe Sud,519,IT4L01137039,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Mountain,0.08,0.45,0.48,E,2007,Lombardy,False
+Sobretta Nord-Est Superiore,522,IT4L01137042,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Glacieret,0.03,0.15,0.32,NE,2007,Lombardy,True
+Sobretta Nord-Est Inferiore,522.1,,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Glacieret,0.02,,,NE,2007,Lombardy,False
+Sobretta Nord-Ovest,523,IT4L01137043,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Mountain,0.22,0.44,,NW,2007,Lombardy,False
+Profa,524,IT4L01137044,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Mountain,0.17,0.17,0.51,NW,2007,Lombardy,False
+Savoretta,527,IT4L01134003,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Mountain,0.18,0.34,0.31,NE,2007,Lombardy,False
+Cima Monticello Sud,569,IT4L01026001,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Glacieret,0.03,0.06,0.15,W,2007,Lombardy,False
+Pietre Rosse Nord,571,IT4L01027002,SOUTHERN RHAETIAN ALPS,Sobretta-Gavia Group,Mountain,0.05,0.07,0.11,NE,2007,Lombardy,False
+Payer Superiore,573,IT4L01028002,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,0.02,0.05,N,2007,Lombardy,False
+Payer Inferiore,574,IT4L01028003,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,0.03,0.06,N,2007,Lombardy,True
+Punta Pisgana Nord-Ovest,574.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,,,NW,2007,Lombardy,False
+Punta Pisgana Nord-Ovest I,574.2,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,N,2007,Lombardy,False
+Pisgana Est,575,IT4L01028004,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.6,0.51,0.83,N,2007,Lombardy,False
+Narcanello,577.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.15,,,NW,2007,Lombardy,False
+Pisgana Ovest,577,IT4L01028006,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Valley,2.49,3.44,2.47,,2007,Lombardy,True
+Salimmo,578,IT4L01028007,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,0.04,0.09,N,2007,Lombardy,False
+Calotta,579,IT4L01028008,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.09,0.21,0.24,N,2007,Lombardy,False
+Venerocolo,581,IT4L01028011,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Valley,0.82,1.05,1.18,NW,2007,Lombardy,True
+Frati,581.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.37,0.07,,W,2007,Lombardy,False
+Avio Est,582,IT4L01028012,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.05,0.35,0.06,NW,2007,Lombardy,False
+Avio Centrale,583,IT4L01028013,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.48,,0.82,NW,2007,Lombardy,True
+Avio Centrale 1,583.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.04,,,N,2007,Lombardy,False
+Avio Ovest,584,IT4L01028014,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,0.08,0.04,N,2007,Lombardy,False
+Piem,585,IT4L01028015,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,0.02,0.03,N,2007,Lombardy,False
+Baitone Est,586,IT4L01028016,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,0.03,0.06,E,2007,Lombardy,False
+Cima Lastè Nord,590.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,NW,2007,Lombardy,False
+Cima Wanda,590.2,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,NW,2007,Lombardy,False
+Aviolo,591,IT4L01025003,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.21,0.27,0.36,NW,2007,Lombardy,True
+Cima dei Laghi Gelati,591.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,,,NW,2007,Lombardy,False
+Val Gallinera II Superiore,593,IT4L01025006,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.06,0.09,0.14,NW,2007,Lombardy,True
+Val Gallinera II Centrale,593.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,NW,2007,Lombardy,False
+Val Gallinera II Inferiore,593.2,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,,,NW,2007,Lombardy,False
+Val Gallinera III,594,IT4L01025007,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,0.03,0.02,NW,2007,Lombardy,False
+Val Gallinera IV,595,IT4L01025008,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,0.04,0.03,N,2007,Lombardy,False
+Bompia,596,IT4L01025009,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.1,0.04,0.04,W,2007,Lombardy,False
+Cima del Laghetto,599,IT4L01025012,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,,,0.03,2007,Lombardy,True
+Miller Inferiore,599.1,IT4L01025013,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.05,0.02,0.09,W,2007,Lombardy,False
+Remulo,601,IT4L01025014,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.04,0.07,0.14,W,2007,Lombardy,False
+Salarno,604,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,SW,2007,Lombardy,False
+Gioih,606,IT4L01024002,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,0.02,0.05,,2007,Lombardy,False
+Adamello,608,IT4L01024006,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,16.3,15.66,19.1,NE,2007,Lombardy,False
+Levade Ovest,610,IT4L01024007,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,0.06,0.07,,2007,Lombardy,False
+Monte Torena,528,IT4L01132001,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,0.05,NE,2007,Lombardy,False
+Caronella Est,529,IT4L01132002,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.05,,0.08,NE,2007,Lombardy,False
+Caronella Centrale,530,IT4L01132003,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.04,0.03,0.07,N,2007,Lombardy,False
+Bondone Superiore,532,IT4L01132006,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,0.04,N,2007,Lombardy,False
+Bondone Inferiore,533,IT4L01132007,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,0.07,0.03,NW,2007,Lombardy,False
+Cagamei IV,534,IT4L01132008,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.03,0.02,0.04,NW,2007,Lombardy,False
+Cagamei III,535,IT4L01132009,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.1,0.1,0.13,N,2007,Lombardy,False
+Cagamei II,536,IT4L01132010,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.05,0.03,0.06,NW,2007,Lombardy,False
+Cagamel I,537,IT4L01132011,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.07,0.1,0.11,NW,2007,Lombardy,False
+Druct,538,IT4L01132012,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.05,0.05,0.07,NW,2007,Lombardy,False
+Fascere,539,IT4L01132013,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.07,0.07,0.07,NW,2007,Lombardy,False
+Val Sena,540,IT4L01132014,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,0.02,NW,2007,Lombardy,False
+Marovin,541,TF4L01132015,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.16,0.17,0.24,NW,2007,Lombardy,True
+Marovin I,541.1,,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.01,,,NW,2007,Lombardy,False
+Dente di Coca,542,,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,,N,2007,Lombardy,False
+Lupo,543,IT4L01132016,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.22,0.2,0.3,N,2007,Lombardy,True
+Pizzo Scotes,543.1,IT4L01132017,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.03,,,E,2007,Lombardy,False
+Pioda Inferiore,544,IT4L01132018,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.01,0.03,0.03,NE,2007,Lombardy,False
+Pioda Superiore,545,IT4L01132019,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.03,0.07,0.02,NE,2007,Lombardy,False
+Porola,549,IT4L01132020,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.22,0.16,0.25,NW,2007,Lombardy,False
+Scais,550,IT4L01132021,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.14,0.26,0.31,NW,2007,Lombardy,True
+Scais I,550.1,,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.06,,,NW,2007,Lombardy,False
+Cantunasc,551,IT4L01132023,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,0.04,0.03,N,2007,Lombardy,False
+Mottolone,552,IT4L01132024,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.01,,0.06,NW,2007,Lombardy,True
+Pizzo Gro,552.1,,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.01,,,NW,2007,Lombardy,False
+Salto,553,IT4L01132025,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.03,,,NE,2007,Lombardy,False
+Pizzo Omo Nord-Ovest,554,,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,,NW,2007,Lombardy,False
+Pizzo Omo Ovest,555,IT4L01132026,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.03,0.03,0.02,NW,2007,Lombardy,False
+Pizzo Diavolo di Tenda Nord-Ovest,556,,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps -Venina,Glacieret,0.01,,,NW,2007,Lombardy,True
+Podavista,556.1,IT4L01132027,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,,N,2007,Lombardy,False
+Aga,557,IT4L01132028,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.03,,,N,2007,Lombardy,False
+Pizzo Diavolo di Tenda,558,IT4L01101001,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.02,0.05,0.02,N,2007,Lombardy,False
+Redorta Inferiore,560,IT4L01101002,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.01,,,W,2007,Lombardy,False
+Secreti,561,IT4L01101003,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,,SW,2007,Lombardy,False
+Val Morta,562,,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.04,,,NE,2007,Lombardy,False
+Coca,563,IT4L01101004,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.03,,,NE,2007,Lombardy,True
+Coca Superiore,563.1,IT4L01101005,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,,NE,2007,Lombardy,False
+Trobio Est (Gleno),566,IT4L01101008,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.03,0.15,0.04,NW,2007,Lombardy,True
+Trobio Centrale,566.1,IT4L01101009,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,,NW,2007,Lombardy,False
+Trobio Ovest (Tre Confini),567,IT4L01101010,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Mountain,0.1,0.19,0.13,N,2007,Lombardy,True
+Trobio Ovest I (Tre Confini I),567.1,,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,,,N,2007,Lombardy,False
+Recastello,568,IT4L01101011,BERGAMO ALPS AND PREALPS,Bergamo Alps and Prealps,Glacieret,0.02,0.02,0.05,N,2007,Lombardy,False
+Clapier,1,IT4L01312001,MARITIME ALPS,Maritime Alps,Mountain,0.09,0.3,0.19,NE,2010,Piedmont,False
+Peirabroc,2,IT4L01312002,MARITIME ALPS,Maritime Alps,Mountain,0.07,0.1,0.11,E,2010,Piedmont,False
+Maledia,3,IT4L01312004,MARITIME ALPS,Maritime Alps,Glacieret,0.06,0.2,0.11,NE,2010,Piedmont,False
+Ciafraion (Gelas Nord),5,IT4L01312007,MARITIME ALPS,Maritime Alps,Glacieret,0.08,0.05,0.16,N,2010,Piedmont,False
+Gelas,6,IT4L01312006,MARITIME ALPS,Maritime Alps,Glacieret,0.05,0.2,0.1,N,2010,Piedmont,False
+Lourousa,7,IT4L01312015,MARITIME ALPS,Maritime Alps,Glacieret,0.06,2.0,,NW,2010,Piedmont,False
+Vallanta Basso,13,IT4L01482002,COTTIAN ALPS,Cottian Alps,Glacieret,0.09,0.15,0.16,NW,2010,Piedmont,False
+Vallanta Superiore,14,IT4L01482003,COTTIAN ALPS,Cottian Alps,Glacieret,0.01,0.06,0.05,NW,2010,Piedmont,False
+Caprera,15,IT4L01482004,COTTIAN ALPS,Cottian Alps,Glacieret,0.05,0.06,0.09,W,2010,Piedmont,False
+Viso,17,IT4L01482006,COTTIAN ALPS,Cottian Alps,Glacieret,0.05,,0.08,SE,2010,Piedmont,False
+Sella,18,IT4L01-482007,COTTIAN ALPS,Cottian Alps,Glacieret,0.02,0.04,0.05,SW,2010,Piedmont,False
+Coolidge Superiore,20,IT4L01481003,COTTIAN ALPS,Cottian Alps,Glacieret,0.03,0.15,0.15,N,2010,Piedmont,False
+Coolidge Inferiore,22,,COTTIAN ALPS,Cottian Alps,Glacieret,0.03,0.057,0.5,NE,2010,Piedmont,False
+Agnello,29,IT4L01471004,COTTIAN ALPS,Cottian Alps,Mountain,0.07,0.7,0.27,NE,2010,Piedmont,False
+Bertà Ovest,36,IT4L01461007,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Glacieret,0.03,,0.27,NE,2010,Piedmont,True
+Bertà Est,36.1,,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Glacieret,0.03,0.06,,NE,2010,Piedmont,False
+Croce Rossa,38,IT4L01461010,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.07,0.06,0.21,NE,2010,Piedmont,False
+Servin,39,IT4L01462001,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.08,,0.21,N,2010,Piedmont,False
+Bessanese,40,IT4L01462004,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.31,1.45,1.04,SE,2010,Piedmont,False
+Pian Gias,41,IT4L01462005,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.09,0.367,0.28,SE,2010,Piedmont,False
+Collerin d'Arnas,42,IT4L01462006,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.13,,0.75,SE,2010,Piedmont,False
+Ciamarella,43,IT4L01462007,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.6,0.7,0.8,S,2010,Piedmont,False
+Albaron di Sea Nord,44,IT4L01463001,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.12,0.58,0.43,N,2010,Piedmont,True
+Albaron di Sea Sud,44.1,,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.14,,,N,2010,Piedmont,False
+Sea-Tonini,46,IT4L01463003,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.8,1.32,1.2,NE,2010,Piedmont,True
+Punta Bonneval,46.1,,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.05,,,S,2010,Piedmont,False
+Mulinet Sud,47,IT4L01463009,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.31,0.31,0.46,NE,2010,Piedmont,False
+Mulinet Nord,48,IT4L01463010,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.12,0.18,0.29,SE,2010,Piedmont,False
+Martellot,49,IT4L01463011,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Glacieret,0.09,0.13,0.17,SE,2010,Piedmont,False
+Levanna Orientale Sud,51,IT4L01463013,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.09,0.28,0.3,SE,2010,Piedmont,False
+Levanna Orientale Nord,52,IT4L01463015,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.15,0.23,0.31,SE,2010,Piedmont,False
+Forno,54,,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Glacieret,0.01,0.18,,N,2010,Piedmont,False
+Nel Est (Levannetta),56,IT4L01451004,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.21,0.28,0.39,N,2010,Piedmont,False
+Nel,57,IT4L01451005,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,1.15,1.36,2.26,NE,2010,Piedmont,False
+Carro Est,59,IT4L01451006,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.21,0.34,0.53,N,2010,Piedmont,False
+Carro Centrale I,60.1,IT4L01451007,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.05,,0.3,N,2010,Piedmont,False
+Carro Centralet II,60.2,IT4L01451008,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.05,,0.25,N,2010,Piedmont,False
+Carro Ovest,60,IT4L01451009,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.31,1.0,0.45,NE,2010,Piedmont,True
+Capra,61,IT4L01451010,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.15,0.25,0.34,N,2010,Piedmont,False
+Losa,62,IT4L01451011,GRAIAN ALPS,Rocciamelone-Charbonnel Chain,Mountain,0.1,0.06,,NE,2010,Piedmont,False
+Basei,64,IT4L01451013,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.2,0.28,0.37,NE,2010,Piedmont,False
+Breuil,69,IT4L01451020,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.14,0.34,0.39,SE,2010,Piedmont,False
+Ciamousseretto,70,IT4L01451022,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.04,0.35,0.43,SE,2010,Piedmont,True
+Ciamousseretto I,70.1,,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.03,,,SE,2010,Piedmont,False
+Gol,71,IT4L01451023,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.07,0.34,0.31,SE,2010,Piedmont,False
+Noaschetta Ovest,72,IT4L01451024,GRAIAN ALPS,Gran Paradiso Chain,Mountain,1.22,2.0,1.73,SE,2010,Piedmont,True
+Noaschetta Est,72.1,IT4L01451025,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.31,,0.47,SE,2010,Piedmont,False
+Colle dell' Ape,73,,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.03,0.06,,S,2010,Piedmont,False
+Punta Ceresole,74,,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.03,0.04,,SE,2010,Piedmont,False
+Gay Ovest,75,IT4L01451026,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.02,0.46,0.27,E,2010,Piedmont,True
+Gay Est,75.1,IT4L01451027,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.05,,0.25,SE,2010,Piedmont,False
+Becca di Gay,76,IT4L01451028,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.05,0.08,0.09,S,2010,Piedmont,False
+Roccia Viva,78,IT4L01451033,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.43,0.45,0.58,S,2010,Piedmont,False
+Teleccio (Piantonetto),79,IT4L01451035,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.14,0.38,0.47,SW,2010,Piedmont,True
+Teleccio I (Piantonetto I),79.1,,GRAIAN ALPS,Gran Paradiso Chain,Glacieret,0.03,,,NW,2010,Piedmont,False
+Valsoera Sud,80,IT4L01451036,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.02,0.25,0.14,SE,2010,Piedmont,True
+Valsoera Nord,80.1,IT4L01451037,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.03,,0.18,E,2010,Piedmont,False
+Ciardonei (Ciardoney),81,IT4L01452003,GRAIAN ALPS,Gran Paradiso Chain,Mountain,0.56,0.81,0.97,E,2010,Piedmont,False
+Otro,310,IT4L01042003,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.19,0.46,0.22,NE,2010,Piedmont,False
+Bors,311,IT4L01042006,PENNINE ALPS,Monte Rosa Massif,Mountain,0.72,1.38,1.31,S,2010,Piedmont,False
+Piode,312,IT4L01042007,PENNINE ALPS,Monte Rosa Massif,Mountain,1.74,1.7,2.55,SE,2010,Piedmont,False
+Parrot,313,IT4L01042008,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.07,0.107,0.11,SE,2010,Piedmont,False
+Sesia-Vigne,314,IT4L01042009,PENNINE ALPS,Monte Rosa Massif,Mountain,1.31,1.07,0.81,SE,2010,Piedmont,False
+Loccie Sud,316,IT4L01042010,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.39,0.94,0.88,SW,2010,Piedmont,False
+Flua,317,IT4L01042013,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.03,0.01,0.08,S,2010,Piedmont,False
+Flua, 317.1,,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.03,,,S,2010,Piedmont,False
+Corno di Faller,318,IT4L01211003,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.08,0.13,0.15,NE,2010,Piedmont,False
+Loccie Est,319.,IT4L01211004,PENNINE ALPS,Monte Rosa Massif,Mountain,0.09,0.53,0.26,E,2010,Piedmont,False
+Pizzo Bianco,320,IT4L01211007,PENNINE ALPS,Monte Rosa Massif,Mountain,0.11,0.067,0.24,NW,2010,Piedmont,False
+Loccie Nord,321,IT4L01211008,PENNINE ALPS,Monte Rosa Massif,Mountain,1.55,2.38,2.15,N,2010,Piedmont,True
+Loccie Nord I,321.1,,PENNINE ALPS,Monte Rosa Massif,Mountain,0.04,,,N,2010,Piedmont,False
+Loccie Nord II,321.2,,PENNINE ALPS,Monte Rosa Massif,Mountain,0.02,,,N,2010,Piedmont,False
+Belvedere,323,IT4L01211009,PENNINE ALPS,Monte Rosa Massif,Valley,4.51,7.39,5.58,NE,2010,Piedmont,False
+Nordend,324,IT4L01211010,PENNINE ALPS,Monte Rosa Massif,Mountain,0.54,0.63,1.17,NE,2010,Piedmont,True
+Nordend I,324.1,,PENNINE ALPS,Monte Rosa Massif,Mountain,0.1,,,NE,2010,Piedmont,False
+Piccolo Fillar,326,IT4L01211011,PENNINE ALPS,Monte Rosa Massif,Mountain,0.45,0.34,0.72,E,2010,Piedmont,False
+Castelfranco,327,IT4L01211012,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.14,0.56,0.44,E,2010,Piedmont,False
+Jazzi,329,IT4L01211014,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.12,0.21,0.24,NE,2010,Piedmont,False
+Roffel Ovest,330,IT4L01211016,PENNINE ALPS,Monte Rosa Massif,Mountain,0.56,0.73,0.84,SE,2010,Piedmont,False
+Roffel Est,331,IT4L01211017,PENNINE ALPS,Monte Rosa Massif,Glacieret,0.06,0.139,0.15,,2010,Piedmont,False
+Bottarello,334,IT4L01213016,PENNINE ALPS,Weissmies-Andolla Chain,Mountain,0.16,0.31,0.55,NE,2010,Piedmont,False
+Andolla Sud,335,IT4L01213018,PENNINE ALPS,Weissmies-Andolla Chain,Glacieret,0.06,0.09,0.17,S,2010,Piedmont,False
+Andolla Nord,336,IT4L01213019,PENNINE ALPS,Weissmies-Andolla Chain,Mountain,0.06,0.11,0.2,SE,2010,Piedmont,False
+Leone,337,IT4L01214004,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.31,0.7,0.49,,2010,Piedmont,False
+Aurona,338,IT4L01214006,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.36,1.13,1.17,NE,2010,Piedmont,True
+Aurona I,338.1,,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.03,,,N,2010,Piedmont,False
+Rebbio,339,IT4L01214007,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.02,0.36,0.32,SE,2010,Piedmont,False
+Mottiscia,341,IT4L01214008,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.16,0.31,0.32,SE,2010,Piedmont,False
+Boccareccio,342,IT4L01214011,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.03,0.25,0.22,SW,2010,Piedmont,True
+Boccareccio I,342.1,,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.02,,,S,2010,Piedmont,False
+Cervandone,343,IT4L01215002,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.02,,0.2,E,2010,Piedmont,False
+Rossa Nord,344,IT4L01215003,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.06,0.44,0.38,NE,2010,Piedmont,True
+Rossa Sud,344.1,,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.05,,,NE,2010,Piedmont,False
+Arbola,345,IT4L01215007,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.01,0.26,0.19,SW,2010,Piedmont,False
+Monte Giove,347,IT4L01216001/ IT4L01216002,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.06,,,NE,2010,Piedmont,False
+Clogstafel,348,IT4L01216003,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.06,0.09,0.13,N,2010,Piedmont,False
+Forno,349,IT4L01216006,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.23,0.4,0.46,E,2010,Piedmont,False
+Sabbia Est,350,IT4L01216011,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.03,,0.05,NE,2010,Piedmont,False
+Ban,353,IT4L01216009,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.12,0.43,0.39,NE,2010,Piedmont,False
+Gemelli di Ban,354,IT4L01216013,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.07,0.36,0.48,N,2010,Piedmont,False
+Osand Sud (Sabbione),356,IT4L01216015,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Valley,2.21,,3.64,NE,2010,Piedmont,True
+Osand Centrale (Sabbione Centrale),356.1,IT4L01216016,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.21,,0.08,NE,2010,Piedmont,False
+Osand (Sabbione Nord),357,IT4L01216018,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Valley,1.27,2.65,1.98,E,2010,Piedmont,True
+Osand I (Sabbione Nord I),357.1,,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.11,,,SE,2010,Piedmont,False
+Blindenhorn Inferiore,359,IT4L01216020,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.1,0.2,0.16,SE,2010,Piedmont,False
+Blindenhorn Superiore,360,IT4L01216022,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Mountain,0.26,0.57,0.41,SE,2010,Piedmont,False
+Camosci,361,IT4L01216023,LEPONTINE ALPS,Monte Leone-Blinnenhorn Chain,Glacieret,0.03,0.25,0.34,NE,2010,Piedmont,False
+Fontana Bianca / Weissbrunn,713,IT4L00110103,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.42,0.6,0.75,NE,2008,South Tyrol,True
+Fontana Bianca 1 / Weissbrunn I,713.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.01,,,E,2008,South Tyrol,False
+Pracupola / Kuppelwies,715,IT4L00110111,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.09,0.22,0.23,NE,2008,South Tyrol,False
+Orecchia / Hasenohr,716,IT4L00112101,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.16,0.46,,NW,2008,South Tyrol,False
+Soi / Soy,718,IT4L00112105,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.41,1.06,0.94,N,2008,South Tyrol,False
+Gioveretto Superiore / Zufritt,719,IT4L00112108,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.07,0.37,0.46,NW,2008,South Tyrol,True
+Gioveretto Superiore 1 / Zufritt 1,719.1,IT4L00112110,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.07,0.12,,NW,2008,South Tyrol,False
+Gioveretto Inferiore Est / Zufritt II,720,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.02,,,NW,2008,South Tyrol,False
+Lorchen (Gioveretto Inf. Ovest),722,IT4L00112111,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.2,0.34,0.43,N,2008,South Tyrol,False
+Monache Est / Nonnen,723,IT4L00112112,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.19,0.69,0.61,N,2008,South Tyrol,True
+Monache Est 1 / Nonnen I,723.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.08,,,NE,2008,South Tyrol,False
+Monache Est II / Nonnen II,723.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.01,,,N,2008,South Tyrol,False
+Monache Ovest / Nonnen III,725,IT4L00112114,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.17,0.47,0.42,NW,2008,South Tyrol,False
+Grames / Gramsen,727,IT4L00112117,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,1.11,1.8,1.27,N,2008,South Tyrol,False
+Serana / Schran,728,IT4L00112120,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.85,1.03,1.18,N,2008,South Tyrol,False
+Vedretta Ultima / Ultenmarkt,729,IT4L00112121,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.32,0.43,0.46,N,2008,South Tyrol,False
+Vedretta Alta / Hohenferner,730,IT4L00112122,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,1.26,1.79,1.75,N,2008,South Tyrol,True
+Vedretta Alta 1 / Hohenferner I,730.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.02,,,N,2008,South Tyrol,False
+Forcola / Fkele,731,IT4L00112125,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,1.77,2.1,2.52,NE,2008,South Tyrol,False
+Cevedale / Zufall,732,IT4L00112126,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,3.47,3.39,3.2,NE,2008,South Tyrol,False
+Vedretta Lunga / Langenferner,733,IT4L00112128,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,1.69,3.06,2.62,NE,2008,South Tyrol,True
+Vedretta Lunga 1 / Langenferner I,733.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.07,,,SE,2008,South Tyrol,False
+Pozzo / Butzen,735,IT4L00112130,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.05,0.19,,E,2008,South Tyrol,False
+Sluder / Schluder,741,IT4L00112140,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.02,0.15,,E,2008,South Tyrol,False
+Lasa / Laaser,743,IT4L00112302,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,1.03,1.11,5.05,N,2008,South Tyrol,False
+Lasa I (Angelo Basso) / Laaser I,744,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,3.23,3.35,,NE,2008,South Tyrol,False
+Angelo Alto / Gror Angelus,745,IT4L00112303,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.13,0.09,0.16,NE,2008,South Tyrol,False
+Forno / Ofenwand,746,IT4L00112304,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.33,0.32,0.45,NE,2008,South Tyrol,False
+Angelo Piccolo / Kleiner Angelus,749,IT4L00112403,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.18,0.44,0.45,W,2008,South Tyrol,False
+Zai (Zai di Mezzo) / Zay,750,IT4L00112404,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.43,0.56,0.72,NW,2008,South Tyrol,False
+Zai 1 (Zai di Fuori o Sud 1),751,IT4L00112405,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.29,0.45,0.61,N,2008,South Tyrol,True
+Zai II (Zai di Fuori o Sud II),751.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.01,,,E,2008,South Tyrol,False
+Cima Vertana Sud-Ovest / Vertainer,753,IT4L00112406,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.02,,,SW,2008,South Tyrol,False
+Rosim / Rosim,754,IT4L00112408,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.56,0.61,0.78,NW,2008,South Tyrol,False
+Laste / Peder,755,IT4L00112409,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.09,0.1,0.24,NW,2008,South Tyrol,False
+Beltovo (Basso) / Schtauf,757,IT4L00112411,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.18,0.3,0.35,N,2008,South Tyrol,True
+Beltovo (Basso) 1 / Schtauf 1,757.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.01,,,S,2008,South Tyrol,False
+Passo Madriccio Sud-Sudovest,759,IT4L00112414,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.1,0.16,,,2008,South Tyrol,False
+Madriccio / Ebenwand,760,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.08,0.22,0.51,W,2008,South Tyrol,True
+Madriccio / Ebenwand I,760.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.04,,,NW,2008,South Tyrol,False
+Solda / Sulden,762,IT4L00112417,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,4.27,5.99,6.48,NE,2008,South Tyrol,True
+Solda 1 / Sulden 1,762.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,1.02,,,N,2008,South Tyrol,False
+Solda II / Sulden II,762.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.09,,,SE,2008,South Tyrol,False
+Solda III / Sulden III,762.3,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.09,,,N,2008,South Tyrol,False
+Solda IV / Sulden IV,762.4,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.03,,,N,2008,South Tyrol,False
+ZebrOvest,490,IT4L01137003,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,,,,SW,2007,South Tyrol,True
+Finimondo / Ende der Welt,763,IT4L00112420,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.49,0.39,0.92,NE,2008,South Tyrol,False
+Marlet Alto / Marlt,764,IT4L00112421,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.06,0.07,0.73,NE,2008,South Tyrol,False
+Marlet Basso / Marlt,765,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.2,0.31,,NE,2008,South Tyrol,True
+Marlet Basso 1 / Marlt I,765.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.06,,,N,2008,South Tyrol,False
+Ortles Alto / Oberer Ortler,768,IT4L00112425,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,1.05,0.94,1.34,NW,2008,South Tyrol,False
+Ortles Basso / Niederer Ortler,769,IT4L.00112426,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,2.73,2.8,3.55,N,2008,South Tyrol,False
+Trafoi / Trafoier,770,IT4L00112427,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.95,0.75,1.37,N,2008,South Tyrol,False
+Madaccio / Madatsch,771,IT4L00112429,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,3.16,3.2,4.34,N,2008,South Tyrol,False
+Vedretta Piana / Ebenferner,772,IT4L00112430,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.27,0.5,0.71,NE,2008,South Tyrol,False
+Val China / Falgin,774,IT4L00112904,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.24,0.36,0.41,SW,2008,South Tyrol,True
+Val China 1 / Falgin I,774.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.03,,,W,2008,South Tyrol,False
+Croda / Gepatsch,776,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,3.55,4.0,8.55,SW,2008,South Tyrol,False
+Vallelunga / Langtauferer,777,IT4L00112907,EASTERN RHAETIAN ALPS,Ötztal Alps,Valley,3.74,3.9,,NW,2008,South Tyrol,True
+Vallelunga 1 / Langtauferer 1,777.1,IT4L00112908,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.06,,,N,2008,South Tyrol,False
+Barbadorso di Dentro / Innerer Benbart,778,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,1.41,1.86,1.84,N,2008,South Tyrol,False
+Barbadorso di Fuori,779,IT4L00112909,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.59,1.01,0.96,N,2008,South Tyrol,False
+Fontana / Freibrunner,780,IT4L00112910,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.63,1.14,1.1,N,2008,South Tyrol,True
+Fontana I / Freibrunner I,780.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.04,,,N,2008,South Tyrol,False
+Fontana II / Freibrunner II,780.2,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.03,,,SW,2008,South Tyrol,False
+Fontana III / Freibrunner III,780.3,,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.01,,,SW,2008,South Tyrol,False
+Planol / Planail,784,IT4L00112603,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.74,1.2,1.12,W,2008,South Tyrol,True
+Planol 1 / Planail I,784.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.02,,,SW,2008,South Tyrol,False
+Gabelz / Gawelz,787,IT4L00112501,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.06,0.31,0.36,NW,2008,South Tyrol,False
+Mazia / Matscher,788,IT4L00112506,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,2.46,3.24,3.24,SW,2008,South Tyrol,False
+Oberettes di Ponente / Oberettes,789,IT4L00112509,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.16,0.53,0.55,SW,2008,South Tyrol,False
+Saldura Nord / Ndlicher Saldur,793,IT4L00112512,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.06,0.43,0.2,NW,2008,South Tyrol,False
+Saldura Sud / Slicher Saldur,794,IT4L00112513,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.25,0.37,0.52,NW,2008,South Tyrol,True
+Saldura Sud I / Slicher Saldur 1,794.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.03,,,N,2008,South Tyrol,False
+Ramudla Nord / Ndlicher Ramudel,795,IT4L00112514,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.25,0.33,0.41,NW,2008,South Tyrol,False
+Ramudla Sud / Slicher Ramudel,796,IT4L00112515,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.14,0.31,0.31,W,2008,South Tyrol,False
+Lagaun / Lagaun,805,IT4L00113102,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.76,1.22,1.1,SE,2008,South Tyrol,False
+Lazzana Est / tl. Lazaun,807,IT4L00113105,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.08,0.22,0.26,NE,2008,South Tyrol,False
+Lazzana Ovest / Westl. Lazaun,808,IT4L00113106,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.13,0.26,0.28,NE,2008,South Tyrol,False
+Oberettes di Levante / tl. Schwemser,810,IT4L00113108,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.11,0.44,0.48,SE,2008,South Tyrol,True
+Oberettes di Levante 1,810.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.02,,,SE,2008,South Tyrol,False
+Frane / Steinschlag,812,IT4L00113110,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.57,1.8,1.41,E,2008,South Tyrol,False
+Giego Alto / Hochjoch,813,IT4L00113113,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.95,2.0,1.63,N,2008,South Tyrol,False
+Finale / Finail,814,IT4L00113115,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.08,0.27,0.21,S,2008,South Tyrol,False
+Giogo Basso / Niederjoch,816,IT4L00113116,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.39,0.44,0.36,SW,2008,South Tyrol,True
+Giogo Basso I / Niederjoch I,816.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.01,,,N,2008,South Tyrol,False
+Grava / Graf,818,IT4L00123201,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,1.59,2.35,1.96,S,2008,South Tyrol,False
+Fosse / Roerg,821,IT4L00123205,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.03,0.21,0.35,S,2008,South Tyrol,False
+Altissima / Kessel,822,IT4L00113211,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.12,0.18,0.32,W,2008,South Tyrol,False
+Fossa Est / tlicher Pfosser,823,IT4100113214,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.19,0.3,0.3,NW,2008,South Tyrol,False
+Riotorbo Nord / Ndlicher Tr,826,IT4L00113217,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.08,0.16,0.16,N,2008,South Tyrol,False
+Riotorbo Ovest / Croda Rossa,827,IT4L00113218,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.22,0.38,0.44,N,2008,South Tyrol,False
+Croda Rossa / Rotwand,828,IT4L00113219,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.1,0.22,0.21,N,2008,South Tyrol,False
+Tessa / Texel,829,IT4L00113220,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.35,0.8,0.73,N,2008,South Tyrol,True
+Tessa 1 / Texel 1,829.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.04,,,N,2008,South Tyrol,False
+Tessa II / Texel 11,829.2,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.05,,,N,2008,South Tyrol,False
+Monte della Chiesa / Kirkbachspitz,835,IT4L00110308,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.03,0.1,,N,2008,South Tyrol,False
+Lago Azzurro (Monterosso),839,IT4L00110309,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.03,0.52,0.4,NW,2008,South Tyrol,False
+Riotorbo Sud (o Grande) / Gr. Tr,840,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.14,0.33,0.5,NE,2008,South Tyrol,False
+Cima Fiammante Ovest / Westl. Lodner,842,IT4L00110312,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.07,0.24,0.25,NW,2008,South Tyrol,True
+Cima Fiammante Ovest I,842.1,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.01,0.13,,N,2008,South Tyrol,False
+Grava Centrale Est / tl. Zentr. Graf,851,IT4L00111209,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.01,0.07,0.26,N,2008,South Tyrol,False
+Anime / Seelen,854,IT4L00111210,EASTERN RHAETIAN ALPS,Ötztal Alps,Glacieret,0.01,0.1,,N,2008,South Tyrol,False
+Plan (Campo di Sabbia) / Plan,855,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.36,0.6,0.59,E,2008,South Tyrol,False
+Toro / Stier,856,IT4L00111215,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.04,0.05,0.05,SE,2008,South Tyrol,False
+Lago Centrale / Zentr. Seeber,859,IT4L00111216,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.31,1.0,0.98,N,2008,South Tyrol,True
+Lago Centrale 1 / Zentr. Seeber I,859.1,IT4L00111302,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.24,,,N,2008,South Tyrol,False
+Lago Centrale II / Zentr. Seeber II,859.2,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.04,,,N,2008,South Tyrol,False
+Lago Ovest / Westlicher Seeber,860,,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.26,0.44,0.44,NE,2008,South Tyrol,False
+Granati / Granaten,861,IT4L00111303,EASTERN RHAETIAN ALPS,Ötztal Alps,Mountain,0.29,0.39,0.43,NE,2008,South Tyrol,False
+Capro Ovest (o Ghiacciaio Alto),865,IT4L00111304,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,0.07,0.24,0.24,W,2008,South Tyrol,False
+Rocce Bianche (o Vedretta Nera),868,IT4L00111310,EASTERN RHAETIAN ALPS,Stubai Alps,Glacieret,0.05,0.39,,NW / SE,2008,South Tyrol,False
+Capro Est / Hangender,873,IT4L00111313,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,0.3,0.37,0.08,N,2008,South Tyrol,False
+Parete Alta / Hochgwd,874,IT4L00121105,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,0.05,0.09,,,2008,South Tyrol,False
+Malavalle / eltal,875,IT4L00121107,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,6.27,8.71,9.42,E,2008,South Tyrol,True
+Malavalle 1 / eltal I,875.1,IT4L00121108,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,0.43,,,N,2008,South Tyrol,False
+Malavalle II / eltal II,875.2,,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,0.23,,,S,2008,South Tyrol,False
+Malavalle III / eltal III,875.3,,EASTERN RHAETIAN ALPS,Stubai Alps,Glacieret,0.01,,,S,2008,South Tyrol,False
+Vedretta Pendente / Hangender,876,,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,0.83,1.33,1.38,S,2008,South Tyrol,False
+Montarso / Feuerstein,880,IT4L00121110,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,1.26,1.42,1.63,E,2008,South Tyrol,False
+Stua / Stuben,881,IT4L00121204,EASTERN RHAETIAN ALPS,Stubai Alps,Mountain,0.13,0.52,0.34,NE,2008,South Tyrol,True
+Stua 1 / Stuben 1,881.1,IT4L00121206,EASTERN RHAETIAN ALPS,Stubai Alps,Glacieret,0.02,,,NE,2008,South Tyrol,False
+Gran Vedretta Est / Grie,883,IT4L00121206,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.27,0.32,0.42,NW,2008,South Tyrol,True
+Gran Vedretta Est 1 / Grie,883.1,IT4L00121302,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,,,NW,2008,South Tyrol,False
+Gran Vedretta Ovest / Hochferner,884,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.15,0.3,0.35,NW,2008,South Tyrol,True
+Gran Vedretta Ovest 1,884.1,IT4L00121303,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.02,,,NW,2008,South Tyrol,False
+Cima 3400 / tl. Weipitz,885,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.04,0.06,0.09,W,2008,South Tyrol,True
+Cima 3400 1 / tl. Weillspitz 1,885.1,IT4L00121304,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,,,NW,2008,South Tyrol,False
+Cima di Sopramonte Est,886,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.08,0.1,0.12,N,2008,South Tyrol,True
+Cima di Sopramonte Est I,886.1,IT4L00121305,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,,,N,2008,South Tyrol,False
+Cima di Sopramonte Ovest,887,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,0.08,0.06,NW,2008,South Tyrol,False
+Quaira Bianca / Weisskar,889,IT4L00121306,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,1.02,1.31,1.41,SW,2008,South Tyrol,True
+Quaira Bianca 1 / Weisskar 1,889.1,IT4L00121309,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,,,SW,2008,South Tyrol,False
+Gran Pilastro / Glieder,893,,EASTERN RHAETIAN ALPS,Zillertal Alps,Valley,1.62,2.5,2.62,SW,2008,South Tyrol,True
+Gran Pilastro I / Glieder 1,893.1,IT4100121313,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.04,,,NW,2008,South Tyrol,False
+Gran Pilastro II / Glieder II,893.2,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.04,,,NW,2008,South Tyrol,False
+Gran Pilastro III / Glieder III,893.3,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.03,,,N,2008,South Tyrol,False
+Guardia Alta / Sl. Glieder,893a,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.13,0.27,0.31,N,2008,South Tyrol,True
+Guardia Alta I,893a.1,IT4L00121314,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.03,,,N,2008,South Tyrol,False
+Punta Bianca Sud / Sl. Weiint,895,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.17,0.34,0.3,S,2008,South Tyrol,False
+Punta Bianca Centrale,896,IT4L00123101,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.06,0.1,0.23,SE,2008,South Tyrol,False
+Punta Bianca Nord / Nordl. Weiint,897,IT4100123102,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.14,0.2,0.24,SE,2008,South Tyrol,False
+Neves Ovest / Westlicher Neveser,900,IT4L00123104,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.46,0.7,0.91,S,2008,South Tyrol,True
+Neves Ovest 1,900.1,IT4L00123107,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.03,,,E,2008,South Tyrol,False
+Neves Centrale / Zentral Neveser,901,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.15,0.5,0.37,SE,2008,South Tyrol,True
+Neves Centrale 1,901.1,IT4L00123108,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,,,S,2008,South Tyrol,False
+Neves Est / tl. Neveser,902,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,1.03,2.1,2.27,S,2008,South Tyrol,True
+Neves Est 1 / tl. Neveser 1,902.1,IT4L00123109,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.14,,,NW,2008,South Tyrol,False
+Vedretta di Dentro,904,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.37,0.82,0.68,SE,2008,South Tyrol,True
+Vedretta di Dentro 1,904.1,IT4L00123202,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.05,,,SW,2008,South Tyrol,False
+Rio di Mezzo / Mitterbach,905,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.07,0.23,0.35,SE,2008,South Tyrol,True
+Rio di Mezzo 1 / Mitterbach I,905.1,IT4100123204,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.06,,,SE,2008,South Tyrol,False
+Rio Nero / Schwarzenbach,906,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.39,0.56,0.81,S,2008,South Tyrol,True
+Rio Nero 1 / Schwarzenbach I,906.1,IT4L00123205,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.03,,,SE,2008,South Tyrol,False
+Rio Rosso / Rothach,907,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.09,0.68,0.42,E,2008,South Tyrol,True
+Rio Rosso 1 / Rotbach I,907.1,IT4L00123207,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.02,,,E,2008,South Tyrol,False
+Rio Torbo / Trippach,908,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.7,1.61,0.97,SE,2008,South Tyrol,True
+Rio Torbo 1 / Trippach I,908.1,IT4L00123210,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.33,,,SE,2008,South Tyrol,False
+Rio Torbo II / Trippach II,908.2,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.04,,,SE,2008,South Tyrol,False
+Rio Torbo III / Trippach III,908.3,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.02,,,E,2008,South Tyrol,False
+Rio Torbo IV / Trippach IV,908.4,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,,,SW,2008,South Tyrol,False
+Punta Rio Torbo Sud-Ovest,908a,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.24,0.38,0.27,S,2008,South Tyrol,False
+Riofranco / Frankbach,909,IT4L00123211,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.3,0.62,0.52,SE,2008,South Tyrol,True
+Riofranco I / Frankbach I,909.1,IT4L00123214,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.07,,,SE,2008,South Tyrol,False
+Riofranco II / Frankbach II,909.2,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.03,,,E,2008,South Tyrol,False
+Riofranco III / Frankbach III,909.3,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.03,,,SE,2008,South Tyrol,False
+Riofranco IV / Frankbach IV,909.4,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.02,,,S,2008,South Tyrol,False
+Punta del Conio Ovest,909a,,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.15,0.21,0.23,SW,2008,South Tyrol,False
+Punta del Conio Est,910,IT4L00123216,EASTERN RHAETIAN ALPS,Zillertal Alps,Mountain,0.18,0.05,0.27,E,2008,South Tyrol,False
+Giogo del Conio Sud-Est,910a,IT4L00123217,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.02,0.02,0.13,SW,2008,South Tyrol,True
+Giogo del Conio Sud-Est 1,910a.1,IT4L00123218,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,,,SW,2008,South Tyrol,False
+Punta di Valle / Wollbach,910b,,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.05,0.11,0.21,S,2008,South Tyrol,True
+Punta di Valle 1 / Wollbach I,910b.1,IT4L00123219,EASTERN RHAETIAN ALPS,Zillertal Alps,Glacieret,0.01,,,S,2008,South Tyrol,False
+Predoi / Prettau,912,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.5,0.56,0.91,NW,2008,South Tyrol,True
+Predoi I / Prettau I,912.1,IT4L00123222,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.09,,,NW,2008,South Tyrol,False
+Lana / Ausseres Lahner,913,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,1.01,1.32,1.69,NW,2008,South Tyrol,True
+Lana I / Ausseres Lahner I,913.1,IT4L00123223,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.1,,,SW,2008,South Tyrol,False
+Lana II / Ausseres Lahner II,913.2,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.16,,,NW,2008,South Tyrol,False
+Pidi Cavallo Nord-Ovest,914,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.15,0.17,0.36,NW,2008,South Tyrol,False
+Pidi Cavallo Sud-Ovest / Windtal,916,IT4L00123225,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.07,0.13,,SW / NW,2008,South Tyrol,False
+Cima del Vento Ovest / Westl. Ahrner,917,IT4L00123228,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.01,0.02,,,2008,South Tyrol,False
+Valle del Vento (Destro),918a,IT4L00123230,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.03,0.03,0.06,W,2008,South Tyrol,False
+Valle del Vento / Sl. Windtal,919,IT4L00123232,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.19,0.27,0.36,NW,2008,South Tyrol,False
+Rosso Destro (Vedretta Rossa),920,IT4L00123233,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.6,0.72,0.88,W,2008,South Tyrol,True
+Rosso Destro 1,920.1,IT4L00123236,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.02,,,NE,2008,South Tyrol,False
+Rosso Sinistro (Vedretta Rossa),921,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.29,0.32,0.45,NW,2008,South Tyrol,True
+Rosso Sinistro I,921.1,IT41.00123237,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.05,,,NW,2008,South Tyrol,False
+Bocchetta Caminata Nord / Kemater,921a,IT4L00123238,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.01,0.05,0.1,NW,2008,South Tyrol,True
+Bocchetta Caminata Nord 1,921a.1,IT4L00123239,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.01,,,NE,2008,South Tyrol,False
+Valle Rossa / Rfleck,922,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.23,0.52,0.49,N,2008,South Tyrol,True
+Valle Rossa 1 / Rfleck I,922.1,IT4L00123241,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.48,,,N,2008,South Tyrol,False
+Valle Rossa II / Rfleck II,922.2,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.01,,,S,2008,South Tyrol,False
+Pizzo Lungo Nord / Merb,923,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.06,0.16,0.23,N,2008,South Tyrol,True
+Pizzo Lungo Nord 1 / Merb 1,923.1,IT4L00123242,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.01,,,N,2008,South Tyrol,False
+Cima Dura / Durreck,925,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.03,0.06,0.16,NW,2008,South Tyrol,True
+Cima Dura I / Durreck 1,925.1,IT4L00123247,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.03,,,N,2008,South Tyrol,False
+Sassolungo Est / tl. Lengstein,925a,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.07,0.19,0.26,W,2008,South Tyrol,True
+Sassolungo Est 1,925a.1,IT4L00123308,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.04,,,SW,2008,South Tyrol,False
+Sassolungo Est II,925a.2,IT4L00123308,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.03,,,W,2008,South Tyrol,False
+Sassolungo Central / Zentral Lengstein,925b,IT4L00123308,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.14,0.18,,NW,2008,South Tyrol,False
+Sassolungo Ovest / Westl. Lengstein,926,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,1.1,1.3,1.92,N,2008,South Tyrol,True
+Sassolungo Ovest I,926.1,IT4100123309,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.02,,,N,2008,South Tyrol,False
+Collalto / Hochgall,927,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.5,0.47,0.83,NW,2008,South Tyrol,False
+Gigante Est / tlicher Rieser,928,IT4L00123310,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.22,0.35,1.97,NW,2008,South Tyrol,False
+Gigante Centrale / Zentr. Rieser,929,IT4L00123311,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.67,1.43,,NW,2008,South Tyrol,False
+Gigante Occidentale,930,IT4L00123311,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,1.93,2.59,2.57,NW,2008,South Tyrol,False
+Monte Nevoso / Schneebiger Nock,931,IT4L00123312,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.23,0.48,0.36,NW,2008,South Tyrol,True
+Monte Nevoso 1,931.1,IT4L00123314,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.07,,,NE,2008,South Tyrol,False
+Monte Nevoso II,931.2,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.05,,,NE,2008,South Tyrol,False
+Monte Nevoso III (Ndl. Geltal),931.3,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.01,,,N,2008,South Tyrol,False
+Val Fredda / Geltal,932,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.2,1.01,,N,2008,South Tyrol,True
+Val Fredda I / Geltal 1,932.1,IT4L00123316,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Mountain,0.19,,,N,2008,South Tyrol,False
+Casavecchia / Althaus,933,,EASTERN RHAETIAN ALPS,High Tauern (Western Defereggen),Glacieret,0.13,0.46,,N,2008,South Tyrol,False
+Corno dei Tre Signori N-E,685,IT4L00102501,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.06,0.1,0.15,NE,2011,Trentino,False
+Villacorna,686,IT4L00102502,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.1,0.28,0.32,SE,2011,Trentino,False
+Valpiana,687,IT4L00102503,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.16,0.69,0.56,SE,2011,Trentino,True
+Monte Giumella,687.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.09,,,S,2011,Trentino,False
+Orsi,688,IT4L00102505,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.64,1.12,1.51,SE,2011,Trentino,False
+Cadini,689,IT4L00102506,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.15,0.17,0.46,E,2011,Trentino,False
+Taviela Sud,690,IT4L00102507,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.07,0.44,0.83,E,2011,Trentino,True
+Taviela Nord,690.1,IT4L00102508,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.26,,,SE,2011,Trentino,False
+Saline,691,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.27,0.25,0.46,SE,2011,Trentino,False
+Vioz Ovest,692,IT4L00102509,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.03,0.17,0.34,SE,2011,Trentino,True
+Colle Vioz,692.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.01,,,NE,2011,Trentino,False
+Vioz Centrale,693,IT4L00102510,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.06,0.13,0.29,S,2011,Trentino,False
+Vallenaia,696,IT4L00102513,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.08,0.06,0.36,E,2011,Trentino,False
+Vedretta Rossa,697,IT4L00102514,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.76,0.84,1.24,NE,2011,Trentino,False
+Venezia,698,IT4L00102515,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,1.15,1.11,1.71,E,2011,Trentino,False
+La Mare,699,IT4L00102516,SOUTHERN RHAETIAN ALPS,Ortler Alps,Valley,3.52,3.7,4.75,E,2011,Trentino,True
+La Mare 1,699.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.01,,,,2011,Trentino,False
+Careser,701,IT4L00102519,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,1.3,5.05,4.68,SW,2011,Trentino,True
+Careser I,701.1,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.17,,,E,2011,Trentino,False
+Careser II,701.2,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.12,,,SE,2011,Trentino,False
+Careser III,701.3,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.06,,,SE,2011,Trentino,False
+Careser IV,701.4,,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.01,,,SE,2011,Trentino,False
+Saent Sud,705,IT4L00102305,SOUTHERN RHAETIAN ALPS,Ortler Alps,Glacieret,0.04,0.06,0.24,E,2011,Trentino,False
+Sternai,710,IT4L00102310,SOUTHERN RHAETIAN ALPS,Ortler Alps,Mountain,0.1,0.43,0.27,NW,2011,Trentino,False
+Val di Fumo Ovest,614,IT4L01021002,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.06,0.18,0.18,SE,2011,Trentino,True
+Val di Fumo Ovest I,614.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.06,,,SE,2011,Trentino,False
+Val di Fumo Ovest II,614.2,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,,,SE,2011,Trentino,False
+Val di Fumo Centrale,615,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,,,S,2011,Trentino,False
+Corno di Cavento S-W,616,IT4L01021003,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.05,0.2,0.37,W,2011,Trentino,False
+Monte Folletto N-W,617,IT4L01021004,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.08,0.15,0.28,W,2011,Trentino,False
+Monte Folletto S-W,618,IT4L01021005,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.03,0.04,0.21,W,2011,Trentino,False
+Passo Folletto Ovest,619,IT4L01021006,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.05,0.07,0.29,W,2011,Trentino,False
+Care Alto Ovest,620,IT4L01021007,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,0.04,0.17,SW,2011,Trentino,True
+Care Alto Ovest 1,620.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,,,SW / W,2011,Trentino,False
+Care Alto Sud-Ovest,621,IT4L01021008,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.04,0.05,0.23,S,2011,Trentino,False
+Cop di Casa,624,IT4L01021012,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,,0.07,,2011,Trentino,False
+Cop di Breguzzo,625,IT4L01021014,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.03,0.1,0.21,NW,2011,Trentino,False
+Cima Danerba,626,IT4L01021016,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,0.08,0.11,NW,2011,Trentino,False
+Cima Bissina Nord,627,IT4L01021017,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,0.04,0.08,N,2011,Trentino,True
+Cima Bissina Nord I,627.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,,,N,2011,Trentino,False
+Val del Vescovo,630.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,,,NE,2011,Trentino,False
+Care Alto Sud,631,IT4L01011003,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,0.06,0.13,S,2011,Trentino,False
+Care Alto Est (Conca),632,IT4L01011005,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.14,0.27,0.27,E,2011,Trentino,False
+Niscli,633,IT4L01011006,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.29,0.7,0.66,E,2011,Trentino,False
+Lares,634,IT4L01011008,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,4.17,2.0,6.24,NE,2011,Trentino,False
+Folgorida,635,IT4L01011009,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.32,0.8,0.96,NE,2011,Trentino,True
+Folgorida I,635.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.12,,,NE,2011,Trentino,False
+Lobbia,637,IT4L01011012,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,5.86,,7.84,N,2011,Trentino,False
+Adamello-Mandrone,608,IT41.01024006 / IT4L01011015,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Valley,0.64,1.5,,NE,2011,Trentino,False
+Nardis Ovest,640,IT4L01011023,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,1.18,2.03,1.67,SE,2011,Trentino,True
+Nardis Ovest 1,640.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,,,NE,2011,Trentino,False
+Nardis Ovest II,640.2,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,W,2011,Trentino,False
+Nardis Est,641,IT4L01011025,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.09,0.18,0.16,SE,2011,Trentino,False
+Cima 4 Cantoni N-W,642,IT4L01011026,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,0.03,0.07,NE,2011,Trentino,False
+Monte Nero,643,IT4L01011027,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.08,0.27,0.33,NE,2011,Trentino,False
+Amola,644,IT4L01011028,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.78,1.2,0.86,E,2011,Trentino,True
+Amola I,644.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,E,2011,Trentino,False
+Cornisello Sud,646,IT4L01011031,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.15,0.35,0.24,NE,2011,Trentino,True
+Cornisello Sud I,646.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,,,SE,2011,Trentino,False
+Cornisello Nord,647,IT4L01011032,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,0.2,0.26,E,2011,Trentino,False
+Monte Caldura,667,IT4L00102403,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.03,0.12,0.17,N,2011,Trentino,False
+Passo Cagalatin,668,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,0.03,,N,2011,Trentino,False
+Corno Giner Nord,669,IT4L00102404,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.07,0.06,0.27,N,2011,Trentino,False
+Cima Scarpaco Nord,673,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,0.02,,N,2011,Trentino,False
+Cima Palu Nord-Est,674,IT4L00102409,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.05,0.04,0.13,N,2011,Trentino,True
+Ricolonda,674.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,,,N,2011,Trentino,False
+Cima Scarpaco Ovest,675,IT4L00102411,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.11,0.2,0.34,W,2011,Trentino,False
+Quota 3165 Nord,676,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.04,0.04,,N,2011,Trentino,False
+Passo di Stavel,677,IT4L00102412,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.06,0.11,0.12,N,2011,Trentino,True
+Passo di Stavel I,677.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,,,N,2011,Trentino,False
+Presanella,678,IT4L00102413,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Valley,2.6,3.92,3.92,N,2011,Trentino,True
+Passo Cercen,678.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.17,,,N,2011,Trentino,False
+Pensile Presanella,678.2,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.02,,,N,2011,Trentino,False
+Monte Cercen Nord,679,IT4L00102414,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.12,0.17,0.21,N,2011,Trentino,False
+Monte Cercen N-W,680,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.01,0.13,,N,2011,Trentino,False
+Busazza Est,681,IT4L00102415,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.22,0.34,0.56,N,2011,Trentino,True
+Busazza Est I,681.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.09,,,N,2011,Trentino,False
+Busazza Est II,681.2,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,NE,2011,Trentino,False
+Busazza Ovest,682,IT4L00102416,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.18,0.27,0.35,NW,2011,Trentino,False
+Presena Est,683,IT4L00102417,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.4,0.56,0.85,N,2011,Trentino,True
+Presena Est 1,683.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Glacieret,0.02,,,N,2011,Trentino,False
+Presena Ovest,684,IT4L00102418,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.25,,,N,2011,Trentino,True
+Corno di Lago Scuro,684.1,,SOUTHERN RHAETIAN ALPS,Adamello-Presanella Alps,Mountain,0.04,,,N,2011,Trentino,False
+Vallesinella Inferiore,649,IT4L01012001,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.03,0.38,,NW,2011,Trentino,False
+Tuckett (Brenta Inf.),650,IT4L01012003,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.03,0.51,0.42,NW,2011,Trentino,True
+Cima Brenta,650.1,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.04,,,NW,2011,Trentino,False
+Tuckett Superiore,650.2,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.04,,,NE,2011,Trentino,False
+Cima Brenta Est,650.3,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.02,,,N,2011,Trentino,False
+Brenta Superiore,651,IT4L01012004,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.02,0.15,0.12,NW,2011,Trentino,False
+Brentei,652,IT4L01012005,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.02,0.1,0.08,NW,2011,Trentino,False
+Sfulmeni,653,IT4L01012006,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.05,0.18,0.11,NW,2011,Trentino,True
+Sfulmeni 1,653.1,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.01,,,N,2011,Trentino,False
+Crozzon,655,IT4L01012010,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.02,0.34,0.32,N,2011,Trentino,True
+Crozzon Inferiore,655.1,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.07,,,N,2011,Trentino,False
+Camosci,656,IT4L01012011,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.12,0.27,0.28,NW,2011,Trentino,False
+Agola,657,IT4L01012012,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.19,0.34,0.32,NW,2011,Trentino,False
+Pra Fiori,658,IT4L01012013,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.04,0.27,0.22,N,2011,Trentino,False
+12 Apostoli,659,IT4L01012014,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Mountain,0.04,0.14,0.11,NW,2011,Trentino,False
+Ambiez,661,IT4L01012017,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.04,0.12,0.11,S,2011,Trentino,False
+Val Pestacapre,665.1,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.02,,,N,2011,Trentino,False
+Preson,665.2,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.01,,,N,2011,Trentino,False
+Cima Sassare N-W,665.3,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.02,,,N,2011,Trentino,False
+Val Gelada di Tuenno,665.4,,SOUTHERN RHAETIAN ALPS,Brenta Dolomites,Glacieret,0.03,,,N,2011,Trentino,False
+Marmolada (Principale),941,IT4L00101101,DOLOMITES,Marmolada Group,Mountain,1.28,3.05,2.6,N,2011,Trentino,True
+Marmolada Centrale,941.1,,DOLOMITES,Marmolada Group,Mountain,0.06,,,N,2011,Trentino,False
+Punta Penia,941.2,,DOLOMITES,Marmolada Group,Mountain,0.1,,,N,2011,Trentino,False
+Marmolada Ovest,942,IT4100101102,DOLOMITES,Marmolada Group,Mountain,0.05,0.47,0.38,N,2011,Trentino,False
+Vernel Inferiore Nord,943,IT4L00101104,DOLOMITES,Marmolada Group,Glacieret,0.02,0.02,0.12,NW,2011,Trentino,True
+Vernel Inf. Nord I,943.1,,DOLOMITES,Marmolada Group,Glacieret,0.01,,,NW,2011,Trentino,False
+Vernale,945,IT4L00101105,DOLOMITES,Marmolada Group,Glacieret,0.02,0.12,0.15,W,2011,Trentino,False
+Busa dei Camosci I,946.1,,DOLOMITES,Pale di San Martino Group,Glacieret,0.01,,,N,2011,Trentino,False
+Busa dei Camosci II,946.2,,DOLOMITES,Pale di San Martino Group,Glacieret,0.01,,,N,2011,Trentino,False
+Travignolo,947,IT4L00101203,DOLOMITES,Pale di San Martino Group,Mountain,0.16,0.14,0.28,N,2011,Trentino,False
+Pala,948,IT4L00012002,DOLOMITES,Pale di San Martino Group,Glacieret,0.04,,0.07,W,2011,Trentino,False
+Fradusta,950,IT4L00021001,DOLOMITES,Pale di San Martino Group,Mountain,0.03,0.65,0.43,N,2011,Trentino,True
+Fradusta Superiore,950.1,,DOLOMITES,Pale di San Martino Group,Mountain,0.04,,,N,2011,Trentino,False
+Popena,936,IT4L00124304,DOLOMITES,Ampezzo Dolomites,Glacieret,0.12,0.17,0.12,N,2009,Veneto,False
+Cristallo,937,IT4L00124302,DOLOMITES,Ampezzo Dolomites,Mountain,0.24,0.35,0.32,N,2009,Veneto,False
+Cresta Bianca,963,IT4L00124303,DOLOMITES,Ampezzo Dolomites,Glacieret,0.08,0.15,0.08,NW,2009,Veneto,True
+Val dei Cantoni,950.1,IT4L00021002,DOLOMITES,Pale di San Martino Group,Glacieret,0.03,,0.08,SE,2009,Veneto,False
+Valle delle Galline,950.2,IT4L00021003,DOLOMITES,Pale di San Martino Group,Glacieret,0.03,,0.09,SE,2009,Veneto,False
+Val Strutt,951,IT4L00021004,DOLOMITES,Pale di San Martino Group,Glacieret,0.08,,0.11,NE,2009,Veneto,False
+Ziroccole,952,IT4L00021005,DOLOMITES,Pale di San Martino Group,Glacieret,0.04,,0.05,NE,2009,Veneto,False
+Focobon,953,IT4L00021006,DOLOMITES,Pale di San Martino Group,Glacieret,0.11,,0.1,N,2009,Veneto,True
+Passo la Banca,953.1,IT4L00021007,DOLOMITES,Marmolada Group,Glacieret,0.03,,0.06,N,2009,Veneto,False
+Ombrettola,954,IT4L00021008,DOLOMITES,Ampezzo Dolomites,Glacieret,0.12,,0.14,N,2009,Veneto,False
+Cristallo,956,IT4L00021011,DOLOMITES,Ampezzo Dolomites,Glacieret,0.02,0.03,0.07,NW,2009,Veneto,False
+Val Zuita,957,,DOLOMITES,Sesto-Cadini-Agordo Group,Glacieret,0.06,,,NW,2009,Veneto,False
+Cantoni,958,IT4L00021012,DOLOMITES,Sesto-Cadini-Agordo Group,Glacieret,0.07,0.12,0.08,SW,2009,Veneto,False
+Moiazza,959,IT4L00021013,DOLOMITES,Sesto-Cadini-Agordo Group,Glacieret,0.06,0.06,0.03,W,2009,Veneto,False
+Civetta Est,960,IT4L00022001,DOLOMITES,Sesto-Cadini-Agordo Group,Glacieret,0.03,0.03,0.04,NE,2009,Veneto,False
+Val d'Arcia,961,IT4L00021010,DOLOMITES,Sesto-Cadini-Agordo Group,Glacieret,0.27,0.15,0.18,NW,2009,Veneto,False
+Tofana Est,962.1,IT4L00023002,DOLOMITES,Ampezzo Dolomites,Glacieret,0.04,,0.05,E,2009,Veneto,False
+Tofana Ovest,962.2,IT4L00023004,DOLOMITES,Ampezzo Dolomites,Glacieret,0.06,0.07,0.06,SW,2009,Veneto,False
+Potofana,962.3,IT4L00023003,DOLOMITES,Ampezzo Dolomites,Glacieret,0.04,,0.05,N,2009,Veneto,False
+Fanes,962.4,IT4L00023005,DOLOMITES,Ampezzo Dolomites,Glacieret,0.05,0.09,0.07,N,2009,Veneto,False
+Val Salvella,963.1,IT4L00023007,DOLOMITES,Ampezzo Dolomites,Glacieret,0.01,,0.06,NW,2009,Veneto,False
+Ciampestrini,964,IT4L00024001,DOLOMITES,Ampezzo Dolomites,Glacieret,0.02,0.07,0.03,E,2009,Veneto,False
+Antelao Superiore,966,IT4L00024002,DOLOMITES,Ampezzo Dolomites,Mountain,0.27,0.41,0.37,NE,2009,Veneto,False
+Antelao Inferiore,967,IT4L00024003,DOLOMITES,Ampezzo Dolomites,Mountain,0.19,0.29,0.2,N,2009,Veneto,False
+Selle,968,IT4L00024004,DOLOMITES,Ampezzo Dolomites,Glacieret,0.03,,0.04,N,2009,Veneto,False
+Froppa di Fuori,969,IT4L0002-4005,DOLOMITES,Ampezzo Dolomites,Glacieret,0.13,0.04,0.17,NW,2009,Veneto,False
+Froppa di Dentro,970,IT4L00024006,DOLOMITES,Ampezzo Dolomites,Glacieret,0.03,0.04,0.05,NW,2009,Veneto,False
+Meduce di Fuori,971,IT4L00024007,DOLOMITES,Ampezzo Dolomites,Glacieret,0.09,0.22,0.1,N,2009,Veneto,False
+Meduce di Dentro,972,IT4100024008,DOLOMITES,Ampezzo Dolomites,Glacieret,0.07,0.03,0.05,N,2009,Veneto,False
+Sorapis Est,973,IT4L00024009,DOLOMITES,Ampezzo Dolomites,Glacieret,0.17,0.31,0.22,NW,2009,Veneto,False
+Sorapis Centrale,974,IT4L00024010,DOLOMITES,Ampezzo Dolomites,Glacieret,0.14,0.22,0.15,N,2009,Veneto,True
+Zurion,974.1,IT4L00024011,DOLOMITES,Ampezzo Dolomites,Glacieret,0.04,,0.05,N,2009,Veneto,False
+Sorapis Ovest,975,IT4L00024012,DOLOMITES,Ampezzo Dolomites,Mountain,0.19,0.25,0.22,N,2009,Veneto,True
+Foppa di Mattia,963a,IT4L00024013,DOLOMITES,Ampezzo Dolomites,Glacieret,0.02,,0.03,W,2009,Veneto,False
+San Lucano,975.1,,DOLOMITES,Ampezzo Dolomites,Glacieret,0.02,,,N,2009,Veneto,False
+Popera Basso,976,IT4L00025001,DOLOMITES,Ampezzo Dolomites,Glacieret,0.05,0.06,0.05,NW,2009,Veneto,False
+Popera Pensile,977,IT4L00025002,DOLOMITES,Ampezzo Dolomites,Mountain,0.07,0.06,0.07,NE,2009,Veneto,False
+Popera Alto,978,IT4L00025003,DOLOMITES,Sesto-Cadini-Agordo Group,Mountain,0.09,0.14,0.11,E,2009,Veneto,False
