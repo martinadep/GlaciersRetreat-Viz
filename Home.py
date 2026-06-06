@@ -148,12 +148,12 @@ if st.session_state.current_page == "Home":
                 make_responsive=True, 
             )
 
-# --- INNER PAGE ROUTING (Loads your secondary files) ---
+# --- INNER PAGE ROUTING---
 elif st.session_state.current_page == "World":
-    exec(open("pages/1_World.py").read())
+    exec(open("pages/1_World.py", encoding="utf-8").read())
 
 elif st.session_state.current_page == "Italy":
-    exec(open("pages/2_Italy.py").read())
+    exec(open("pages/2_Italy.py", encoding="utf-8").read())
 
 elif st.session_state.current_page == "South Tyrol":
-    exec(open("pages/3_South_Tyrol.py").read())
+    exec(open("pages/3_South_Tyrol.py", encoding="utf-8").read())

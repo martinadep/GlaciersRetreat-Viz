@@ -19,7 +19,7 @@ div.itables_container, div.dataTables_wrapper, table.dataTable {
 /*Fixed width */
 /* 1. Restrict the maximum width of the entire page content area */
 .block-container {
-    max-width: 1200px !important;
+    max-width: none !important;
     padding-top: 2rem !important;
     padding-bottom: 2rem !important;
     margin-left: auto !important;

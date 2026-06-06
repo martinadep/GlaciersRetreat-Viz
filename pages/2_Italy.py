@@ -3,6 +3,9 @@ import pandas as pd
 import src.italy_plots as it
 from itables.streamlit import interactive_table
 
+
+st.markdown("## Italy's glaciers: a century of change")
+
 # ----------------------- Load Data and choose region -----------------------
 df = it.load_data()
 df_porro = it.load_porro_data()
@@ -93,7 +96,7 @@ with col2:
 with col3:
     st.markdown(
         """
-        <div style="font-size: 18px; line-height: 1.6; margin-top: 15px; margin-bottom: 15px;">
+        <div style="font-size: 15px; line-height: 1.6; margin-top: 15px; margin-bottom: 15px;">
             <b>GLACIER TYPES</b>
             <ul>
                 <li><strong>Mountain glacier</strong>: a glacier, even of considerable size, which does not develop an ablation tongue and which is located on mountain slopes.</li>
