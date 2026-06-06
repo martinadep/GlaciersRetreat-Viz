@@ -1,61 +1,51 @@
- # Dataviz — Glaciers Retreat
+# Glaciers Retreat
 
-Data Visualization project  ...
+This project provides an interactive data visualization dashboard showing glacier change (area, mass balance, and regional summaries) using Streamlit and Plotly. It collects processed WGMS datasets, regional shapefiles, historical mappings and example analyses for Italy and South Tyrol.
 
- **Overview**
+## Requirements
 
-....
+- Python 3.9+ (3.12 tested in development).
+- A virtual environment is strongly recommended.
 
- **Requirements**
+## Quick run (local)
 
- - Python 3.9+ recommended.
- - A virtual environment is strongly recommended.
- - Project dependencies should be listed in `requirements.txt`. If this file is not present, install commonly used data/visualization packages such as `pandas`, `numpy`, `matplotlib`, `seaborn`, and `plotly`.
+1. Create and activate a virtual environment
 
- **Setup**
+Windows (PowerShell):
 
- 1. Create and activate a virtual environment:
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
 
- Windows (PowerShell):
+macOS / Linux:
 
- ```powershell
- python -m venv .venv
- .\\.venv\\Scripts\\Activate.ps1
- ```
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
 
- macOS / Linux:
+2. Install dependencies
 
- ```bash
- python3 -m venv .venv
- source .venv/bin/activate
- ```
+```bash
+pip install -r requirements.txt
+```
 
- 2. Install dependencies:
+**Run (Streamlit)**
 
- ```bash
- pip install -r requirements.txt
- ```
+Start the app from the repository root:
 
- **Running the application**
+```bash
+streamlit run Home.py
+```
 
- ```bash
- streamlit run Home.py
- ```
+Open http://localhost:8501 in your browser.
 
-EDA for Italian situation: [notebooks/eda_unimi.ipynb](notebooks/eda_unimi.ipynb).
-EDA for Global situations: [notebooks/bdv_wgms_eda.ipynb](notebooks/bdv_wgms_eda.ipynb)
+## Run with Docker
 
- **Data**
+Build the image (from repo root, where `docker/Dockerfile` lives):
 
- Place additional CSVs under `data/your-folder`. If the dataset is large, consider committing a sample subset and add instead instructions to retrieve the full data.
-
- **Contributing**
-
- - Clone the repository and create a topic branch: `git checkout -b feature/your-change`.
- - Keep changes focused and add tests/examples where applicable.
- - Run the project locally and ensure visual outputs render as expected.
- - Open a pull request describing the change and linking any related issues.
-
- Data contributions:
-
- - When adding new datasets, include a small sample (if the full dataset is large) and provide a data source citation in a `data/README.md` inside the relevant folder.
+```bash
+docker build -t streamlit-glaciers -f docker/Dockerfile .
+docker run -p 8501:8501 streamlit-glaciers
+```
