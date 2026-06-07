@@ -1,4 +1,5 @@
 .venv/
+notebooks/
 data/south_tyrol/raw/
 *.shp
 *.shx
@@ -6,3 +7,6 @@ data/south_tyrol/raw/
 *.prj
 __pycache__/
 *.pyc
+temp/
+src/__pycache__/
+visualizations/__pycache__/

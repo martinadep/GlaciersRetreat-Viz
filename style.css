@@ -16,3 +16,18 @@ div.itables_container, div.dataTables_wrapper, table.dataTable {
 .full-width-table .dataTables_wrapper { width: 100% !important; }
 .full-width-table table { width: 100% !important; table-layout: auto; }
 
+/*Fixed width */
+/* 1. Restrict the maximum width of the entire page content area */
+.block-container {
+    max-width: none !important;
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* 2. Fix for your cut-off header issue */
+h1 {
+    padding-top: 1.5rem !important;
+    line-height: 1.3 !important;
+}
