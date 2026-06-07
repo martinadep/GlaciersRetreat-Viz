@@ -5,6 +5,8 @@ data/south_tyrol/raw/
 *.shx
 *.dbf
 *.prj
+__pycache__/
+*.pyc
 temp/
 src/__pycache__/
 visualizations/__pycache__/
