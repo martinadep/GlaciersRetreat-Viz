@@ -6,6 +6,11 @@ from src.south_tyrol_plots import (
     make_regional_chart,
 )
 
+DATA_SOURCE = (
+    "*Data source: [The homogenized glacier inventories for South Tyrol (2022)]"
+    "(https://doi.org/10.4461/GFDQ.2022.45.6), S. Galos, C. Klug and R. Dinale*"
+)
+
 st.title("South Tyrol")
 st.write("")
 
@@ -40,7 +45,7 @@ st.plotly_chart(
     use_container_width=True,
     config={"scrollZoom": True},
 )
-st.write("")
+st.caption(DATA_SOURCE)
 
 
 # ---------------------------------------------------------------------------
@@ -61,9 +66,7 @@ with col2:
     st.plotly_chart(fig_count, use_container_width=True)
 with col3:
     st.plotly_chart(fig_size, use_container_width=True)
-
-st.write("")
-
+st.caption(DATA_SOURCE)
 
 # ---------------------------------------------------------------------------
 # 3. Regional change
@@ -77,4 +80,4 @@ st.markdown(
 )
 
 st.plotly_chart(make_regional_chart(), use_container_width=True)
-st.write("")
+st.caption(DATA_SOURCE)
