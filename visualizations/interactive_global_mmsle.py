@@ -14,18 +14,17 @@ def interactive_global_mmsle():
         x='year',
         y='mmsle',
         title='Millimeter sea level equivalent, 1976-2025',
-            # font=dict(size=18, family="Source Sans Pro, sans-serif")),
         labels={'mmsle': 'Change in global mean sea level, mm', 'year': 'Years'},
 
         color='mmsle',
 
-        # [[0,'#4d0000'],[0.5,'#cc3300'],[1,'#fff5f0']]
+        
         color_continuous_scale=[
-            (0.0, '#fff5f0'),   # chiaro → valori bassi/negativi
-            (1.0, '#cc3300'),   # scuro  → valori alti
+            (0.0, '#fff5f0'),   
+            (1.0, '#cc3300'),   
 
         ],
-        range_color=[df['mmsle'].min(), df['mmsle'].max()]  # ancora la scala ai dati reali
+        range_color=[df['mmsle'].min(), df['mmsle'].max()]  
     )
 
     fig.update_layout(
@@ -37,5 +36,5 @@ def interactive_global_mmsle():
     )
 
 
-    return go.Figure(fig)  # <-- return invece di write_html
+    return go.Figure(fig)  
 

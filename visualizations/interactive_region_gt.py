@@ -6,31 +6,12 @@ def plot_glacier_mass_change(df: pd.DataFrame,
                             year_col: str = "year",
                             region_col: str = "region",
                             gt_col: str = "gt"):
-    """
-    Grafico interattivo della variazione della massa dei ghiacciai.
-
-    Parameters
-    ----------
-    df : pd.DataFrame
-        DataFrame con colonne year, region, gt (o i nomi passati).
-    year_col : str
-        Nome colonna anno.
-    region_col : str
-        Nome colonna regione.
-    gt_col : str
-        Nome colonna massa.
-
-    Usage
-    -----
-    fig = plot_glacier_mass_change(df)
-    fig.show()
-    """
+    
 
     regions = sorted(df[region_col].unique())
     years   = sorted(df[year_col].unique())
     min_year, max_year = int(years[0]), int(years[-1])
 
-    # Palette colori distinta per ogni paese
     PALETTE = [
         "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728",
         "#9467bd", "#8c564b", "#e377c2", "#7f7f7f",
@@ -38,7 +19,7 @@ def plot_glacier_mass_change(df: pd.DataFrame,
     ]
     color_map = {c: PALETTE[i % len(PALETTE)] for i, c in enumerate(regions)}
 
-    # ── Trace per ogni paese ─────────────────────────────────────────────────────
+    
     traces = []
     for region in regions:
         sub = df[df[region_col] == region].sort_values(year_col)
@@ -53,18 +34,17 @@ def plot_glacier_mass_change(df: pd.DataFrame,
         ))
 
     print(regions)
-    # ── Bottoni dropdown per selezionare paesi ───────────────────────────────────
-    # "Tutti" + uno per ogni paese
+ 
     buttons = []
 
-    # Bottone: tutti visibili
+
     buttons.append(dict(
         label="All regions",
         method="update",
         args=[{"visible": [True] * len(regions)}],
     ))
 
-    # Bottone per ogni singolo paese
+
     regions_decoded=['Northern Arctic Canada','Southern Arctic Canada','Alaska','Antarctic and Subantarctic', 
                      'Central Asia','Eastern Asia','Northern Asia','Western Asia','Caucasus','Central Europe',
                      'Greenland','Iceland','New Zealand','Russian Arctic', 'Southern Andes 1', 'Southern Andes 2',
@@ -78,8 +58,7 @@ def plot_glacier_mass_change(df: pd.DataFrame,
             args=[{"visible": visible}],
         ))
 
-    # ── Slider anni ──────────────────────────────────────────────────────────────
-    # Usa rangeselector + rangeslider sull'asse x per filtrare il range temporale
+
     fig = go.Figure(data=traces)
 
     fig.update_layout(
@@ -108,8 +87,8 @@ def plot_glacier_mass_change(df: pd.DataFrame,
         ),
         legend=dict(
             orientation="v",
-            x=1.02,          # legenda più a destra
-            y=0.95,          # leggermente abbassata
+            x=1.02,          
+            y=0.95,      
             bgcolor="rgba(255,255,255,0.8)",
             bordercolor="#cccccc",
             borderwidth=1,
@@ -118,9 +97,9 @@ def plot_glacier_mass_change(df: pd.DataFrame,
         updatemenus=[dict(
             type="dropdown",
             direction="down",
-            x=0.72,           # was 0.0
+            x=0.72,          
             y=1.10,
-            xanchor="left",  # was "right"
+            xanchor="left",  
             yanchor="top",
             bgcolor="white",
             bordercolor="#cccccc",
@@ -128,16 +107,7 @@ def plot_glacier_mass_change(df: pd.DataFrame,
             buttons=buttons,
             showactive=True,
         )],
-        # annotations=[dict(
-        #     text="Select regions:",
-        #     x=0.72,           # was 0.0
-        #     y=1.17,
-        #     xref="paper",
-        #     yref="paper",
-        #     showarrow=False,
-        #     font=dict(size=13, family="Georgia, serif"),
-        # )],
-
+ 
 
         plot_bgcolor="white",
         paper_bgcolor="white",
@@ -147,7 +117,8 @@ def plot_glacier_mass_change(df: pd.DataFrame,
         margin=dict(l=60, r=220, t=100, b=80)
     )
 
-    # Linee griglia orizzontali tratteggiate come OurWorldInData
+    
+
     fig.update_yaxes(showgrid=True, gridcolor="#e5e5e5", gridwidth=1, griddash="dash")
     fig.update_xaxes(showgrid=False)
 

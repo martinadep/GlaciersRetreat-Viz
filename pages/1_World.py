@@ -8,10 +8,9 @@ from src.data_loader import *
 from src.wgms_data_loader import *
 
 st.title("🌍 What is happening around the world?")
-# st.markdown(body="Glaciers are retreating globally, with significant mass loss observed in many regions. The overall trend is a decrease in glacier mass and area, contributing to rising sea levels and impacting ecosystems and water resources worldwide.")
 
 st.markdown("""
-Glaciers are Earth's frozen memory, accumulating snow over centuries and releasing it slowly, 
+Glaciers are Earth's frozen memory , accumulating snow over centuries and releasing it slowly, 
 regulating river flow, sea levels, and regional climates. Since the mid-20th century, this memory 
 is being erased at an accelerating pace. Across nearly every region on the planet, glaciers are 
 shrinking: losing mass, retreating upslope, and in some cases disappearing entirely. 
@@ -38,13 +37,6 @@ WGMS (2026). Annual mass-change estimates for the world's glaciers. Individual g
 
 
 
-# st.header("Glacier area Change (km²)")
-# st.markdown(body="This map shows the percentage change in glacier area over time, " \
-# "from the first observed measurement in the wgms dataset (1965). The darked the shade of red, the higher the change. " \
-# "Over these 60 years, the most dramatic changes seem to be in the regions of Central America," \
-# " the Andes, Central Europe, Africa and south-Eastern Asia, where the surface loss has decreased by over 40 percentage points in 2025 " \
-# "")
-
 st.header("Relative Glacier Surface Area Change")
 st.markdown("""
 This map animates the **percentage loss in glacier surface area** relative to each glacier's 
@@ -53,12 +45,12 @@ as a glacier shrinks horizontally, it exposes darker rock and soil, which absorb
 solar radiation and accelerates further melting: this phenomenon is known as the **ice-albedo effect**.""")
 from visualizations.interactive_global_areakm2_pctloss import interactive_global_grid_pctloss
 
-# inspect rate of decrease
-# fig = interactive_global_areakm2()
+
 fig=interactive_global_grid_pctloss()
 st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
 st.caption("""Data from 
 WGMS (2026). Annual mass-change estimates for the world's glaciers. Individual glacier time series and gridded data products. https://doi.org/10.5904/wgms-amce-2026-02-10""")
+
 st.markdown("""The most dramatic losses, exceeding **40% of original surface area**, are concentrated in 
 tropical and mid-latitude regions: the **tropical Andes**, **Central Europe** (Alps), 
 **East Africa**, and **Southeast Asia**. These are also regions where glaciers sit at lower 
@@ -67,10 +59,10 @@ altitudes with no cold arctic buffer. In contrast, polar regions like **Greenlan
 """)
 
 st.header('Global millimeter sea level equivalent')
-# st.markdown(body="Mass change in millimeters of sea level equivalent (mm SLE) over time, from the first observed measurement (1965)")
+
 from visualizations.interactive_global_mmsle import interactive_global_mmsle
 
-# st.header("Global Millimeter Sea Level Equivalent (mm SLE)")
+
 st.markdown("""
 When glaciers melt, their water flows into the ocean, raising sea levels globally. 
 The **millimeter sea level equivalent (mm SLE)** converts glacier mass loss into its 
@@ -90,7 +82,6 @@ contributed approximately **26 mm of sea level rise since 1976**.
 For coastal cities like Miami, Jakarta, or Venice, every millimeter matters.""")
 
 st.header('Regional mass change in giga tonnes')
-# st.markdown(body="Mass change in gigatonnes (Gt) for different regions over time, from the first observed measurement (1965), select the region and lok at how glacier mass has changed. The overall global trend, after the 1990s, is negative.")
 
 st.markdown("""
 This chart shows how glacier **mass**, measured in gigatonnes (Gt), has evolved across 

@@ -113,7 +113,7 @@ def interactive_global_grid_glacier_regions():
             text='Glacier Locations by RGI Region',
             font=dict(size=18,family="Source Sans Pro, sans-serif"),
             x=0.5,
-            xanchor='center',  # ← aggiungi questo
+            xanchor='center', 
         ),
         geo=dict(
             projection_type='natural earth',
